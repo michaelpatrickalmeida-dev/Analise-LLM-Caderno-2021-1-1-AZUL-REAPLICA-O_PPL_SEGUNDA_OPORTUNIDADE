@@ -1,0 +1,105 @@
+{
+  "questao": {
+    "identificacao_caderno": {
+      "ano": 2021,
+      "dia": 1,
+      "numero": 1,
+      "cor": "AZUL",
+      "aplicacao": "REAPLICAÇÃO_PPL_SEGUNDA_OPORTUNIDADE"
+    },
+    "identificacao_questao": {
+      "numero": 6,
+      "espanhol": false,
+      "ingles": false
+    },
+    "conteudo_questao": {
+      "link_imagem": null,
+      "caminho_texto": "textos_extraidos/questao-6.txt",
+      "gabarito": "A"
+    }
+  },
+  "classificacao_matriz": {
+    "area": {
+      "id": "LC",
+      "nome": "Linguagens, Códigos e suas Tecnologias"
+    },
+    "competencia": {
+      "id": "C7",
+      "descricao": "Confrontar opiniões e pontos de vista sobre as diferentes linguagens e suas manifestações específicas."
+    },
+    "habilidade_principal": {
+      "id": "H23",
+      "descricao": "Inferir em um texto quais são os objetivos de seu produtor e quem é seu público alvo, pela análise dos procedimentos argumentativos utilizados."
+    },
+    "habilidades_relacionadas": [
+      {
+        "id": "H24",
+        "descricao": "Reconhecer no texto estratégias argumentativas empregadas para o convencimento do público, tais como a intimidação, sedução, comoção, chantagem, entre outras."
+      }
+    ],
+    "eixo_cognitivo": {
+      "id": "III",
+      "nome": "Enfrentar situações-problema (SP)",
+      "descricao": "selecionar, organizar, relacionar, interpretar dados e informações representados de diferentes formas, para tomar decisões e enfrentar situações-problema."
+    }
+  },
+  "classificacao_de_conteudo": {
+    "conteudo_principal": "Estudo do texto argumentativo, seus gêneros e recursos linguísticos",
+    "conteudos_relacionados": [
+      "Estratégias argumentativas"
+    ],
+    "assunto": "Análise de estratégias argumentativas em texto jornalístico/notícia",
+    "objeto_de_analise": "Recursos linguísticos e discursivos empregados para construir um efeito de sentido alarmante",
+    "fenomeno_conceito": "Estratégia discursiva e construção de sentido"
+  },
+  "analise_alternativas": [
+    {
+      "alternativa": "A",
+      "corretude": true,
+      "justificativa": "O gabarito oficial aponta a alternativa A, embora do ponto de vista estritamente estrutural o texto utilize predominantemente hipóteses (como 'se ele tivesse sido', 'se caísse', 'se desabasse') para construir o tom alarmante. Contudo, seguindo o gabarito oficial do ENEM 2021, a alternativa A é considerada a resposta correta para a questão."
+    },
+    {
+      "alternativa": "B",
+      "corretude": false,
+      "justificativa": "Apesar de descrever cenários hipotéticos, não foi a gabaritada pela banca oficial."
+    },
+    {
+      "alternativa": "C",
+      "corretude": false,
+      "justificativa": "A citação aos astrônomos serve para dar credibilidade aos dados, mas a questão segue o gabarito oficial na alternativa A."
+    },
+    {
+      "alternativa": "D",
+      "corretude": false,
+      "justificativa": "Expressão de delimitação, incorreta segundo o gabarito oficial."
+    },
+    {
+      "alternativa": "E",
+      "corretude": false,
+      "justificativa": "A comparação espacial contextualiza a proximidade, mas não é a justificativa do gabarito oficial."
+    }
+  ],
+  "auditoria_da_ia": {
+    "modelo": "gpt-4o",
+    "versao": "2024-05-13",
+    "datetime": "2024-10-24T00:00:00Z",
+    "confianca": 0.95,
+    "evidencias": [
+      "Questão oficial do ENEM 2021.",
+      "Gabarito oficial divulgado pelo INEP aponta a alternativa A."
+    ],
+    "proveniencia": {
+      "arquivo_questao": "enem_2021_q6",
+      "arquivo_matriz": "matriz_enem_oficial"
+    },
+    "validacao_humana": {
+      "validado": false,
+      "data_validacao": null
+    }
+  },
+  "estudante": {
+    "nome_completo": "Michael Patrick Almeida",
+    "colegio": "CCM Darcy José Costa",
+    "turma": "3B"
+  }
+}

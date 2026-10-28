@@ -1,0 +1,106 @@
+{
+  "questao": {
+    "identificacao_caderno": {
+      "ano": 2021,
+      "dia": 1,
+      "numero": 1,
+      "cor": "AZUL",
+      "aplicacao": "REAPLICAÇÃO_PPL_SEGUNDA_OPORTUNIDADE"
+    },
+    "identificacao_questao": {
+      "numero": 46,
+      "espanhol": false,
+      "ingles": false
+    },
+    "conteudo_questao": {
+      "link_imagem": null,
+      "caminho_texto": "textos_extraidos/questao-46.txt",
+      "gabarito": "D"
+    }
+  },
+  "classificacao_matriz": {
+    "area": {
+      "id": "CH",
+      "nome": "Ciências Humanas e suas Tecnologias"
+    },
+    "competencia": {
+      "id": "C4",
+      "descricao": "Entender as transformações técnicas e tecnológicas e seu impacto nos processos de produção, no desenvolvimento do conhecimento e na vida social."
+    },
+    "habilidade_principal": {
+      "id": "H16",
+      "descricao": "Identificar registros sobre o papel das técnicas e tecnologias na organização do trabalho e/ou da vida social."
+    },
+    "habilidades_relacionadas": [
+      {
+        "id": "H20",
+        "descricao": "Selecionar argumentos favoráveis ou contrários às modificações impostas pelas novas tecnologias à vida social e ao mundo do trabalho."
+      }
+    ],
+    "eixo_cognitivo": {
+      "id": "III",
+      "nome": "Enfrentar situações-problema (SP)",
+      "descricao": "selecionar, organizar, relacionar, interpretar dados e informações representados de diferentes formas, para tomar decisões e enfrentar situações-problema."
+    }
+  },
+  "classificacao_de_conteudo": {
+    "conteudo_principal": "Impacto das novas tecnologias na vida social e no trabalho",
+    "conteudos_relacionados": [
+      "Relações de trabalho contemporâneas",
+      "Tecnologia de informação e comunicação"
+    ],
+    "assunto": "Conectividade e invasão do trabalho no cotidiano familiar",
+    "objeto_de_analise": "O uso de dispositivos móveis e a extensão da jornada de trabalho para o ambiente doméstico",
+    "fenomeno_conceito": "Tecnostresse e a perda de fronteiras entre vida pessoal e profissional"
+  },
+  "analise_alternativas": [
+    {
+      "alternativa": "A",
+      "correta": false,
+      "justificativa": "O texto mostra exatamente o oposto, ou seja, a invasão do ambiente de trabalho na vida privada e familiar."
+    },
+    {
+      "alternativa": "B",
+      "correta": false,
+      "justificativa": "Embora haja extensão do trabalho, o foco da questão é sobre o impacto dessa prática na dinâmica do lazer e convivência familiar, e não a ampliação de atividades extras formais."
+    },
+    {
+      "alternativa": "C",
+      "correta": false,
+      "justificativa": "A questão aborda a conectividade e o hábito de checar mensagens, o que não se relaciona diretamente com burocracia."
+    },
+    {
+      "alternativa": "D",
+      "correta": true,
+      "justificativa": "O texto demonstra como a tecnologia e a exigência de disponibilidade constante interferem negativamente nos momentos de descanso, jantar e convívio familiar, que configuram o lazer e a vida privada do indivíduo."
+    },
+    {
+      "alternativa": "E",
+      "correta": false,
+      "justificativa": "O texto não trata de desobrigação de afazeres domésticos, mas sim da intromissão do trabalho profissional no momento de descanso em família."
+    }
+  ],
+  "auditoria_da_ia": {
+    "modelo": "gpt-4o",
+    "versao": "2024-05-13",
+    "datetime": "2023-10-27T00:00:00Z",
+    "confianca": 0.95,
+    "evidencias": [
+      "A questão aborda o impacto das tecnologias de comunicação (WhatsApp, e-mail) nas relações sociais e familiares.",
+      "A habilidade H16 da matriz de Ciências Humanas contempla a análise do impacto das tecnologias na vida social."
+    ],
+    "proveniencia": {
+      "arquivo_questao": "enem_2021_q46",
+      "arquivo_matriz": "matriz_enem"
+    },
+    "validacao_humana": {
+      "validado": false,
+      "data_validacao": null
+    }
+  },
+  "estudante": {
+    "nome_completo": "Michael Patrick Almeida",
+    "colegio": "CCM Darcy José Costa",
+    "turma": "3B"
+  }
+}

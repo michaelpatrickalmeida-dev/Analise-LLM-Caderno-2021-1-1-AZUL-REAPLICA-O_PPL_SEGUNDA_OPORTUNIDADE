@@ -1,0 +1,106 @@
+{
+  "questao": {
+    "identificacao_caderno": {
+      "ano": 2021,
+      "dia": 1,
+      "numero": 1,
+      "cor": "AZUL",
+      "aplicacao": "REAPLICAÇÃO_PPL_SEGUNDA_OPORTUNIDADE"
+    },
+    "identificacao_questao": {
+      "numero": 68,
+      "espanhol": false,
+      "ingles": false
+    },
+    "conteudo_questao": {
+      "link_imagem": null,
+      "caminho_texto": "textos_extraidos/questao-68.txt",
+      "gabarito": "E"
+    }
+  },
+  "classificacao_matriz": {
+    "area": {
+      "id": "CH",
+      "nome": "Ciências Humanas e suas Tecnologias"
+    },
+    "competencia": {
+      "id": "C2",
+      "descricao": "Compreender as transformações dos espaços geográficos como produto das relações socioeconômicas e culturais de poder."
+    },
+    "habilidade_principal": {
+      "id": "H10",
+      "descricao": "Reconhecer a dinâmica da organização dos movimentos sociais e a importância da participação da coletividade na transformação da realidade histórico-geográfica."
+    },
+    "habilidades_relacionadas": [
+      {
+        "id": "H13",
+        "descricao": "Analisar a atuação dos movimentos sociais que contribuíram para mudanças ou rupturas em processos de disputa pelo poder."
+      }
+    ],
+    "eixo_cognitivo": {
+      "id": "III",
+      "nome": "Enfrentar situações-problema (SP)",
+      "descricao": "selecionar, organizar, relacionar, interpretar dados e informações representados de diferentes formas, para tomar decisões e enfrentar situações-problema."
+    }
+  },
+  "classificacao_de_conteudo": {
+    "conteudo_principal": "Movimentos sociais e protagonismo indígena",
+    "conteudos_relacionados": [
+      "Tecnologias de informação e comunicação",
+      "Cidadania e direitos humanos"
+    ],
+    "assunto": "Estratégias de visibilidade e mobilização digital dos povos indígenas",
+    "objeto_de_analise": "O uso das redes sociais e da internet como ferramenta de apoio político",
+    "fenomeno_conceito": "Ativismo digital e mobilização social"
+  },
+  "analise_alternativas": [
+    {
+      "alternativa": "A",
+      "correta": false,
+      "justificativa": "A estratégia adotada fortaleceu a militância ao gerar grande mobilização, e não o contrário."
+    },
+    {
+      "alternativa": "B",
+      "correta": false,
+      "justificativa": "O uso das redes reforça a luta e a visibilidade da identidade tradicional, em vez de abalá-la."
+    },
+    {
+      "alternativa": "C",
+      "correta": false,
+      "justificativa": "O objetivo da ação foi a defesa territorial e política, e não a inserção em mercados globais."
+    },
+    {
+      "alternativa": "D",
+      "correta": false,
+      "justificativa": "A estratégia aproximou a causa de diferentes públicos, valorizando a cultura e a luta local, sem distanciar."
+    },
+    {
+      "alternativa": "E",
+      "correta": true,
+      "justificativa": "A mobilização na internet gerou apoio de milhares de pessoas, angariando solidariedade e apoio de segmentos externos à etnia."
+    }
+  ],
+  "auditoria_da_ia": {
+    "modelo": "gpt-4o",
+    "versao": "2024-05-13",
+    "datetime": "2024-10-24T00:00:00Z",
+    "confianca": 0.95,
+    "evidencias": [
+      "A questão aborda o protagonismo indígena e a mobilização via internet através de hashtags e redes sociais.",
+      "A alternativa E descreve com precisão o efeito da estratégia de angariar apoio de segmentos externos por meio da visibilidade digital."
+    ],
+    "proveniencia": {
+      "arquivo_questao": "enem_2021",
+      "arquivo_matriz": "matriz_enem"
+    },
+    "validacao_humana": {
+      "validado": false,
+      "data_validacao": null
+    }
+  },
+  "estudante": {
+    "nome_completo": "Michael Patrick Almeida",
+    "colegio": "CCM Darcy José Costa",
+    "turma": "3B"
+  }
+}

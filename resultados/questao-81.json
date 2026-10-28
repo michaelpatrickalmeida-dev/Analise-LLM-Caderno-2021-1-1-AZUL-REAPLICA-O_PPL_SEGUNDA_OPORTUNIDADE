@@ -1,0 +1,107 @@
+{
+  "questao": {
+    "identificacao_caderno": {
+      "ano": 2021,
+      "dia": 1,
+      "numero": 1,
+      "cor": "AZUL",
+      "aplicacao": "REAPLICAÇÃO_PPL_SEGUNDA_OPORTUNIDADE"
+    },
+    "identificacao_questao": {
+      "numero": 81,
+      "espanhol": false,
+      "ingles": false
+    },
+    "conteudo_questao": {
+      "link_imagem": null,
+      "caminho_texto": "textos_extraidos/questao-81.txt",
+      "gabarito": "A"
+    }
+  },
+  "classificacao_matriz": {
+    "area": {
+      "id": "CH",
+      "nome": "Ciências Humanas e suas Tecnologias"
+    },
+    "competencia": {
+      "id": "C5",
+      "descricao": "Utilizar os conhecimentos históricos para compreender e valorizar os fundamentos da cidadania e da democracia, favorecendo uma atuação consciente do indivíduo na sociedade."
+    },
+    "habilidade_principal": {
+      "id": "H22",
+      "descricao": "Analisar as lutas sociais e conquistas obtidas no que se refere às mudanças nas legislações ou nas políticas públicas."
+    },
+    "habilidades_relacionadas": [
+      {
+        "id": "H24",
+        "descricao": "Relacionar cidadania e democracia na organização das sociedades."
+      }
+    ],
+    "eixo_cognitivo": {
+      "id": "III",
+      "nome": "Enfrentar situações-problema (SP)",
+      "descricao": "selecionar, organizar, relacionar, interpretar dados e informações representados de diferentes formas, para tomar decisões e enfrentar situações-problema."
+    }
+  },
+  "classificacao_de_conteudo": {
+    "conteudo_principal": "Manifesto dos Pioneiros da Educação Nova",
+    "conteudos_relacionados": [
+      "Cidadania e democracia",
+      "História da Educação no Brasil"
+    ],
+    "assunto": "Educação Nova e democratização do ensino",
+    "objeto_de_analise": "O trecho do Manifesto e sua proposta de hierarquia das capacidades contra o caráter oligárquico",
+    "fenomeno_conceito": "Meritocracia e oportunidades educacionais"
+  },
+  "analise_alternativas": [
+    {
+      "alternativa": "A",
+      "correta": false,
+      "justificativa": "O texto fala sobre hierarquia das capacidades e oportunidades iguais de educação, não focando estritamente em ensino técnico para o mercado de trabalho."
+    },
+    {
+      "alternativa": "B",
+      "correta": true,
+      "justificativa": "O trecho propõe formar a 'hierarquia democrática' pela 'hierarquia das capacidades', recrutadas em todos os grupos sociais com as mesmas oportunidades de educação, relacionando o acesso à escola com a valorização do mérito individual."
+    },
+    {
+      "alternativa": "C",
+      "correta": false,
+      "justificativa": "A formação de gestores não é o foco central do Manifesto dos Pioneiros da Educação Nova no trecho apresentado."
+    },
+    {
+      "alternativa": "D",
+      "correta": false,
+      "justificativa": "Disponibilidade de financiamento e pesquisa avançada extrapolam a discussão sobre a democratização do acesso escolar e o mérito trazida no texto."
+    },
+    {
+      "alternativa": "E",
+      "correta": false,
+      "justificativa": "A remuneração de professores e a extinção do analfabetismo não são os pontos centrais articulados pelo trecho citado do manifesto."
+    }
+  ],
+  "auditoria_da_ia": {
+    "modelo": "gpt-4o",
+    "versao": "2024-05-13",
+    "datetime": "2026-03-30T10:00:00Z",
+    "confianca": 0.95,
+    "evidencias": [
+      "A questão aborda o Manifesto dos Pioneiros da Educação Nova de 1932.",
+      "O texto discute a igualdade de oportunidades educacionais e a hierarquia das capacidades.",
+      "A habilidade H22 de Ciências Humanas dialoga com conquistas sociais e mudanças estruturais na educação."
+    ],
+    "proveniencia": {
+      "arquivo_questao": "enem_2021_q81",
+      "arquivo_matriz": "matriz_enem"
+    },
+    "validacao_humana": {
+      "validado": false,
+      "data_validacao": null
+    }
+  },
+  "estudante": {
+    "nome_completo": "Michael Patrick Almeida",
+    "colegio": "CCM Darcy José Costa",
+    "turma": "3B"
+  }
+}

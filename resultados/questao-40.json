@@ -1,0 +1,105 @@
+{
+  "questao": {
+    "identificacao_caderno": {
+      "ano": 2021,
+      "dia": 1,
+      "numero": 1,
+      "cor": "AZUL",
+      "aplicacao": "REAPLICAÇÃO_PPL_SEGUNDA_OPORTUNIDADE"
+    },
+    "identificacao_questao": {
+      "numero": 40,
+      "espanhol": false,
+      "ingles": false
+    },
+    "conteudo_questao": {
+      "link_imagem": null,
+      "caminho_texto": "textos_extraidos/questao-40.txt",
+      "gabarito": "A"
+    }
+  },
+  "classificacao_matriz": {
+    "area": {
+      "id": "LC",
+      "nome": "Linguagens, Códigos e suas Tecnologias"
+    },
+    "competencia": {
+      "id": "C5",
+      "descricao": "Analisar, interpretar e aplicar recursos expressivos das linguagens, relacionando textos com seus contextos, mediante a natureza, função, organização, estrutura das manifestações, de acordo com as condições de produção e recepção."
+    },
+    "habilidade_principal": {
+      "id": "H15",
+      "descricao": "Estabelecer relações entre o texto literário e o momento de sua produção, situando aspectos do contexto histórico, social e político."
+    },
+    "habilidades_relacionadas": [
+      {
+        "id": "H18",
+        "descricao": "Identificar os elementos que concorrem para a progressão temática e para a organização e estruturação de textos de diferentes gêneros e tipos."
+      }
+    ],
+    "eixo_cognitivo": {
+      "id": "III",
+      "nome": "Enfrentar situações-problema (SP)",
+      "descricao": "selecionar, organizar, relacionar, interpretar dados e informações representados de diferentes formas, para tomar decisões e enfrentar situações-problema."
+    }
+  },
+  "classificacao_de_conteudo": {
+    "conteudo_principal": "Estudo do texto literário",
+    "conteudos_relacionados": [
+      "Estudo dos aspectos linguísticos em diferentes textos"
+    ],
+    "assunto": "Interpretação de texto literário",
+    "objeto_de_analise": "Relação entre o eu-lírico e a personagem internada",
+    "fenomeno_conceito": "Visão lírica e crítica sobre a loucura e o abandono"
+  },
+  "analise_alternativas": [
+    {
+      "alternativa": "A",
+      "correta": true,
+      "justificativa": "O narrador expõe de maneira lírica e com forte carga crítica/irônica a situação de abandono a que a personagem foi relegada pela família e pela instituição."
+    },
+    {
+      "alternativa": "B",
+      "correta": false,
+      "justificativa": "O narrador não demonstra resignação, mas sim afeto e inconformismo com a situação de violência e isolamento."
+    },
+    {
+      "alternativa": "C",
+      "correta": false,
+      "justificativa": "A imersão é lírica, mas o foco da percepção do narrador é voltado para o afeto e a crítica ao abandono e à violência sofrida, e não apenas ao espaço em si."
+    },
+    {
+      "alternativa": "D",
+      "correta": false,
+      "justificativa": "O texto não se propõe a explorar a mente humana sob uma perspectiva científica ou psicológica, mas sim humanizá-la poeticamente frente à desumanização do asilo."
+    },
+    {
+      "alternativa": "E",
+      "correta": false,
+      "justificativa": "A linguagem utilizada é literária e poética, não buscando especificamente a lucidez clínica ou racional."
+    }
+  ],
+  "auditoria_da_ia": {
+    "modelo": "gpt-4o",
+    "versao": "2024-05-13",
+    "datetime": "2023-10-27T00:00:00Z",
+    "confianca": 1.0,
+    "evidencias": [
+      "Gabarito oficial do ENEM 2021 aponta a alternativa A.",
+      "A habilidade H15 contempla o estabelecimento de relações entre o texto literário e seu contexto de recepção e temática social."
+    ],
+    "proveniencia": {
+      "arquivo_questao": "ENEM 2021",
+      "arquivo_matriz": "Matriz ENEM"
+    },
+    "validacao_humana": {
+      "validado": false,
+      "data_validacao": null
+    }
+  },
+  "estudante": {
+    "nome_completo": "Michael Patrick Almeida",
+    "colegio": "CCM Darcy José Costa",
+    "turma": "3B"
+  }
+}

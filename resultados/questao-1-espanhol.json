@@ -1,0 +1,107 @@
+{
+  "questao": {
+    "identificacao_caderno": {
+      "ano": 2021,
+      "dia": 1,
+      "numero": 1,
+      "cor": "AZUL",
+      "aplicacao": "REAPLICAÇÃO_PPL_SEGUNDA_OPORTUNIDADE"
+    },
+    "identificacao_questao": {
+      "numero": 1,
+      "espanhol": false,
+      "ingles": false
+    },
+    "conteudo_questao": {
+      "link_imagem": null,
+      "caminho_texto": "textos_extraidos/questao-1-espanhol.txt",
+      "gabarito": "C"
+    }
+  },
+  "classificacao_matriz": {
+    "area": {
+      "id": "LC",
+      "nome": "Linguagens, Códigos e suas Tecnologias"
+    },
+    "competencia": {
+      "id": "C2",
+      "descricao": "Conhecer e usar língua(s) estrangeira(s) moderna(s) como instrumento de acesso a informações e a outras culturas e grupos sociais*."
+    },
+    "habilidade_principal": {
+      "id": "H5",
+      "descricao": "Associar vocábulos e expressões de um texto em LEM ao seu tema."
+    },
+    "habilidades_relacionadas": [
+      {
+        "id": "H7",
+        "descricao": "Relacionar um texto em LEM, as estruturas linguísticas, sua função e seu uso social."
+      }
+    ],
+    "eixo_cognitivo": {
+      "id": "III",
+      "nome": "Enfrentar situações-problema (SP)",
+      "descricao": "selecionar, organizar, relacionar, interpretar dados e informações representados de diferentes formas, para tomar decisões e enfrentar situações-problema."
+    }
+  },
+  "classificacao_de_conteudo": {
+    "conteudo_principal": "Leitura e interpretação de texto em Língua Estrangeira Moderna (Espanhol)",
+    "conteudos_relacionados": [
+      "Função social do texto",
+      "Resenha literária"
+    ],
+    "assunto": "Entrevistas de Federico García Lorca e sua visão sobre a arte e a sociedade",
+    "objeto_de_analise": "Trecho de resenha jornalística sobre um volume de entrevistas",
+    "fenomeno_conceito": "O compromisso social na obra de arte segundo o autor"
+  },
+  "analise_alternativas": [
+    {
+      "alternativa": "A",
+      "correta": false,
+      "analise": "Incorreta. Embora o texto mencione o misticismo ou o 'mais allá', o foco principal das citações e da resenha não é ressaltar a atração por questões místicas, mas sim a relação da obra com o humano e o social."
+    },
+    {
+      "alternativa": "B",
+      "correta": false,
+      "analise": "Incorreta. O texto não aborda a comoção das elites com as obras do entrevistado."
+    },
+    {
+      "alternativa": "C",
+      "correta": true,
+      "analise": "Correta. O texto destaca passagens em que o autor afirma que o elemento fundamental é o humano e que 'hoy no interesa más que una problemática: lo social', evidenciando o compromisso do entrevistado com as questões sociais."
+    },
+    {
+      "alternativa": "D",
+      "correta": false,
+      "analise": "Incorreta. O objetivo do texto não é discutir a atualidade das obras, mas apresentar o conteúdo das entrevistas reunidas no volume."
+    },
+    {
+      "alternativa": "E",
+      "correta": false,
+      "analise": "Incorreta. O texto traz um tom informativo e elogioso da resenha, sem criticar o interesse do entrevistado."
+    }
+  ],
+  "auditoria_da_ia": {
+    "modelo": "gpt-4o",
+    "versao": "2024-05-13",
+    "datetime": "2023-10-27T00:00:00Z",
+    "confianca": 1.0,
+    "evidencias": [
+      "O texto em espanhol discute passagens de entrevistas de Federico García Lorca.",
+      "A pergunta questiona a finalidade do trecho da resenha.",
+      "A alternativa C corresponde perfeitamente à tese defendida nas citações de Lorca sobre a importância do elemento humano e social na arte."
+    ],
+    "proveniencia": {
+      "arquivo_questao": "enem_2021_q1",
+      "arquivo_matriz": "matriz_enem"
+    },
+    "validacao_humana": {
+      "validado": false,
+      "data_validacao": null
+    }
+  },
+  "estudante": {
+    "nome_completo": "Michael Patrick Almeida",
+    "colegio": "CCM Darcy José Costa",
+    "turma": "3B"
+  }
+}

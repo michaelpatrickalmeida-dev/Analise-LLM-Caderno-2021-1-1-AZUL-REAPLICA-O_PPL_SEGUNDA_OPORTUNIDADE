@@ -1,0 +1,71 @@
+{
+  "questao": {
+    "identificacao_caderno": {
+      "ano": 2021,
+      "dia": 1,
+      "numero": 1,
+      "cor": "AZUL",
+      "aplicacao": "REAPLICAÇÃO_PPL_SEGUNDA_OPORTUNIDADE"
+    },
+    "identificacao_questao": {
+      "numero": 9,
+      "espanhol": false,
+      "ingles": false
+    },
+    "conteudo_questao": {
+      "link_imagem": null,
+      "caminho_texto": "textos_extraidos/questao-9.txt",
+      "gabarito": "C"
+    }
+  },
+  "classificacao_matriz": {
+    "area": {
+      "id": null,
+      "nome": "Matemática e suas Tecnologias"
+    },
+    "competencia": {
+      "id": "C1",
+      "descricao": "Construir significados para os números naturais, inteiros, racionais e reais."
+    },
+    "habilidade_principal": {
+      "id": "H3",
+      "descricao": "Resolver situação-problema envolvendo conhecimentos numéricos."
+    },
+    "habilidades_relacionadas": [],
+    "eixo_cognitivo": {
+      "id": "III",
+      "nome": "Enfrentar situações-problema (SP)",
+      "descricao": "selecionar, organizar, relacionar, interpretar dados e informações representados de diferentes formas, para tomar decisões e enfrentar situações-problema."
+    }
+  },
+  "classificacao_de_conteudo": {
+    "conteudo_principal": "Razões e proporções",
+    "conteudos_relacionados": [],
+    "assunto": "Grandezas proporcionais",
+    "objeto_de_analise": "Relação numérica",
+    "fenomeno_conceito": "Proporcionalidade"
+  },
+  "analise_alternativas": [],
+  "auditoria_da_ia": {
+    "modelo": "gemini-1.5-pro",
+    "versao": "1.0",
+    "datetime": "2024-05-20T10:00:00",
+    "confianca": 0.8,
+    "evidencias": [
+      "Questão de matemática padrão ENEM envolvendo razões e proporções."
+    ],
+    "proveniencia": {
+      "arquivo_questao": "desconhecido",
+      "arquivo_matriz": "matriz_enem"
+    },
+    "validacao_humana": {
+      "validado": false,
+      "data_validacao": null
+    }
+  },
+  "estudante": {
+    "nome_completo": "Michael Patrick Almeida",
+    "colegio": "CCM Darcy José Costa",
+    "turma": "3B"
+  }
+}

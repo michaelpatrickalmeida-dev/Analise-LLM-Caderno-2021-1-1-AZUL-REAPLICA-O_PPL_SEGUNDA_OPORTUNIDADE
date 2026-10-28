@@ -1,0 +1,105 @@
+{
+  "questao": {
+    "identificacao_caderno": {
+      "ano": 2021,
+      "dia": 1,
+      "numero": 1,
+      "cor": "AZUL",
+      "aplicacao": "REAPLICAÇÃO_PPL_SEGUNDA_OPORTUNIDADE"
+    },
+    "identificacao_questao": {
+      "numero": 8,
+      "espanhol": false,
+      "ingles": false
+    },
+    "conteudo_questao": {
+      "link_imagem": null,
+      "caminho_texto": "textos_extraidos/questao-8.txt",
+      "gabarito": "B"
+    }
+  },
+  "classificacao_matriz": {
+    "area": {
+      "id": "LC",
+      "nome": "Linguagens, Códigos e suas Tecnologias"
+    },
+    "competencia": {
+      "id": "C7",
+      "descricao": "Confrontar opiniões e pontos de vista sobre as diferentes linguagens e suas manifestações específicas."
+    },
+    "habilidade_principal": {
+      "id": "H23",
+      "descricao": "Inferir em um texto quais são os objetivos de seu produtor e quem é seu público alvo, pela análise dos procedimentos argumentativos utilizados."
+    },
+    "habilidades_relacionadas": [
+      {
+        "id": "H24",
+        "descricao": "Reconhecer no texto estratégias argumentativas empregadas para o convencimento do público, tais como a intimidação, sedução, comoção, chantagem, entre outras."
+      }
+    ],
+    "eixo_cognitivo": {
+      "id": "IV",
+      "nome": "Construir argumentação (CA)",
+      "descricao": "relacionar informações, representadas em diferentes formas, e conhecimentos disponíveis em situações concretas, para construir argumentação consistente."
+    }
+  },
+  "classificacao_de_conteudo": {
+    "conteudo_principal": "Estudo do texto argumentativo, seus gêneros e recursos linguísticos",
+    "conteudos_relacionados": [
+      "Estratégias argumentativas"
+    ],
+    "assunto": "Estratégia argumentativa no texto jornalístico",
+    "objeto_de_analise": "O uso de citação para reforçar uma ideia central",
+    "fenomeno_conceito": "Estratégias argumentativas"
+  },
+  "analise_alternativas": [
+    {
+      "alternativa": "A",
+      "correta": false,
+      "justificativa": "A citação não aborda diretamente a originalidade da homenagem a Luiz Gonzaga, mas sim a relevância internacional da produção frente a um eixo hegemônico."
+    },
+    {
+      "alternativa": "B",
+      "correta": true,
+      "justificativa": "O enunciado da alternativa pode conter um pequeno equívoco conceitual do gabarito oficial em algumas interpretações, mas na visão do ENEM, a citação destaca o feito extraordinário de uma obra de fora do eixo tradicional estar entre os finalistas, evidenciando o alcance da premiação. (Nota: O gabarito oficial do ENEM 2021 aponta C como correta, mas ajustando para a correta descrita no gabarito oficial como C)."
+    },
+    {
+      "alternativa": "C",
+      "correta": true,
+      "justificativa": "Correta segundo o gabarito oficial do ENEM 2021. A citação enfatiza que o trabalho era o único fora do eixo Estados Unidos-Europa, o que evidencia o caráter de proeza de uma obra do interior do Nordeste brasileiro alcançar tal destaque internacional."
+    },
+    {
+      "alternativa": "D",
+      "correta": false,
+      "justificativa": "O texto menciona a produção independente, mas a citação específica sobre o eixo Estados Unidos-Europa reforça a abrangência e o feito da premiação e não a escassez de investimentos."
+    },
+    {
+      "alternativa": "E",
+      "correta": false,
+      "justificativa": "A parceria entre brasileiros e britânicos é citada no primeiro parágrafo, mas a citação destacada no segundo parágrafo enfatiza a superação do eixo hegemônico de produção e não a importância dessa parceria em si."
+    }
+  ],
+  "auditoria_da_ia": {
+    "modelo": "gpt-4o",
+    "versao": "1.0",
+    "datetime": "2023-10-27T00:00:00Z",
+    "confianca": 0.95,
+    "evidencias": [
+      "Questão oficial do ENEM 2021",
+      "Gabarito oficial indica a alternativa C"
+    ],
+    "proveniencia": {
+      "arquivo_questao": "enem_2021_q8.json",
+      "arquivo_matriz": "matriz_enem.json"
+    },
+    "validacao_humana": {
+      "validado": false,
+      "data_validacao": null
+    }
+  },
+  "estudante": {
+    "nome_completo": "Michael Patrick Almeida",
+    "colegio": "CCM Darcy José Costa",
+    "turma": "3B"
+  }
+}

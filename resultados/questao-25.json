@@ -1,0 +1,100 @@
+{
+  "questao": {
+    "identificacao_caderno": {
+      "ano": 2021,
+      "dia": 1,
+      "numero": 1,
+      "cor": "AZUL",
+      "aplicacao": "REAPLICAÇÃO_PPL_SEGUNDA_OPORTUNIDADE"
+    },
+    "identificacao_questao": {
+      "numero": 25,
+      "espanhol": false,
+      "ingles": false
+    },
+    "conteudo_questao": {
+      "link_imagem": null,
+      "caminho_texto": "textos_extraidos/questao-25.txt",
+      "gabarito": "B"
+    }
+  },
+  "classificacao_matriz": {
+    "area": {
+      "id": "LC",
+      "nome": "Linguagens, Códigos e suas Tecnologias"
+    },
+    "competencia": {
+      "id": "C7",
+      "descricao": "Confrontar opiniões e pontos de vista sobre as diferentes linguagens e suas manifestações específicas."
+    },
+    "habilidade_principal": {
+      "id": "H24",
+      "descricao": "Reconhecer no texto estratégias argumentativas empregadas para o convencimento do público, tais como a intimidação, sedução, comoção, chantagem, entre outras."
+    },
+    "habilidades_relacionadas": [],
+    "eixo_cognitivo": {
+      "id": "III",
+      "nome": "Enfrentar situações-problema (SP)",
+      "descricao": "selecionar, organizar, relacionar, interpretar dados e informações representados de diferentes formas, para tomar decisões e enfrentar situações-problema."
+    }
+  },
+  "classificacao_de_conteudo": {
+    "conteudo_principal": "Estudo do texto literário",
+    "conteudos_relacionados": [
+      "Estratégias argumentativas"
+    ],
+    "assunto": "Análise de texto literário (conto)",
+    "objeto_de_analise": "Representação do discurso intimidador e sua função estética na narrativa",
+    "fenomeno_conceito": "Humor e efeito anedótico gerado pela reviravolta na narrativa"
+  },
+  "analise_alternativas": [
+    {
+      "alternativa": "A",
+      "correta": false,
+      "justificativa": "O foco do fragmento não é ironizar atitudes xenofóbicas, mas sim construir uma situação de reviravolta cômica baseada em hierarquias militares e parentesco."
+    },
+    {
+      "alternativa": "B",
+      "correta": true,
+      "justificativa": "O discurso intimidador do delegado cai por terra diante da resposta da mulher, que usa a mesma lógica de poder (parentesco militar), conferindo à narrativa um tom anedótico e cômico."
+    },
+    {
+      "alternativa": "C",
+      "correta": false,
+      "justificativa": "O narrador expõe os fatos e diálogos de forma clara, sem o objetivo de dissimular seu ponto de vista."
+    },
+    {
+      "alternativa": "D",
+      "correta": false,
+      "justificativa": "Embora haja hostilidade inicial, a função do discurso intimidador no contexto do conto caminha para o efeito cômico e a quebra de expectativa, e não apenas acentuar a hostilidade."
+    },
+    {
+      "alternativa": "E",
+      "correta": false,
+      "justificativa": "O texto subverte ou expõe criticamente o uso dessas relações de poder baseadas em títulos e patentes, em vez de exaltá-las seriamente."
+    }
+  ],
+  "auditoria_da_ia": {
+    "modelo": "gpt-4o",
+    "versao": "2024-05-13",
+    "datetime": "2024-05-13T00:00:00Z",
+    "confianca": 0.95,
+    "evidencias": [
+      "A questão aborda a habilidade H24 de Linguagens por analisar estratégias argumentativas como a intimidação.",
+      "O gabarito oficial da questão 25 do ENEM 2021 é a alternativa B."
+    ],
+    "proveniencia": {
+      "arquivo_questao": "ENEM 2021",
+      "arquivo_matriz": "Matriz ENEM"
+    },
+    "validacao_humana": {
+      "validado": false,
+      "data_validacao": null
+    }
+  },
+  "estudante": {
+    "nome_completo": "Michael Patrick Almeida",
+    "colegio": "CCM Darcy José Costa",
+    "turma": "3B"
+  }
+}

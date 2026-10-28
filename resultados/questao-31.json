@@ -1,0 +1,105 @@
+{
+  "questao": {
+    "identificacao_caderno": {
+      "ano": 2021,
+      "dia": 1,
+      "numero": 1,
+      "cor": "AZUL",
+      "aplicacao": "REAPLICAÇÃO_PPL_SEGUNDA_OPORTUNIDADE"
+    },
+    "identificacao_questao": {
+      "numero": 31,
+      "espanhol": false,
+      "ingles": false
+    },
+    "conteudo_questao": {
+      "link_imagem": null,
+      "caminho_texto": "textos_extraidos/questao-31.txt",
+      "gabarito": "A"
+    }
+  },
+  "classificacao_matriz": {
+    "area": {
+      "id": "L",
+      "nome": "Linguagens, Códigos e suas Tecnologias"
+    },
+    "competencia": {
+      "id": "C3",
+      "descricao": "Compreender e usar a linguagem corporal como relevante para a própria vida, integradora social e formadora da identidade."
+    },
+    "habilidade_principal": {
+      "id": "H9",
+      "descricao": "Reconhecer as manifestações corporais de movimento como originárias de necessidades cotidianas de um grupo social."
+    },
+    "habilidades_relacionadas": [
+      {
+        "id": "H11",
+        "descricao": "Reconhecer a linguagem corporal como meio de interação social, considerando os limites de desempenho e as alternativas de adaptação para diferentes indivíduos."
+      }
+    ],
+    "eixo_cognitivo": {
+      "id": "III",
+      "nome": "Enfrentar situações-problema (SP)",
+      "descricao": "selecionar, organizar, relacionar, interpretar dados e informações representados de diferentes formas, para tomar decisões e enfrentar situações-problema."
+    }
+  },
+  "classificacao_de_conteudo": {
+    "conteudo_principal": "Estudo das práticas corporais",
+    "conteudos_relacionados": [
+      "O esporte"
+    ],
+    "assunto": "História e evolução do skate",
+    "objeto_de_analise": "Transformações históricas e materiais na prática do skate",
+    "fenomeno_conceito": "Práticas corporais, lazer e democratização de modalidade esportiva",
+    "analise_alternativas": [
+      {
+        "alternativa": "A",
+        "correta": true,
+        "justificativa": "O texto aponta que a melhoria dos materiais (uretano) possibilitou a um maior número de pessoas inexperientes começar a prática, o que alavancou campeonatos e o acesso ao esporte, contribuindo para a sua democratização."
+      },
+      {
+        "alternativa": "B",
+        "correta": false,
+        "justificativa": "O surgimento de marcas e lojas é consequência da popularização, mas o foco central do texto quanto ao impacto nos praticantes é a facilitação do acesso e da prática por mais pessoas."
+      },
+      {
+        "alternativa": "C",
+        "correta": false,
+        "justificativa": "O texto menciona a inclusão de pessoas inexperientes e o surgimento de novas manobras, sem focar na profissionalização da carreira de skatista."
+      },
+      {
+        "alternativa": "D",
+        "correta": false,
+        "justificativa": "O skate surgiu como vivência em períodos de baixa nas ondas ('surfinho'), mas o texto não afirma que ele substituiu o surfe."
+      },
+      {
+        "alternativa": "E",
+        "correta": false,
+        "justificativa": "O texto evidencia a dependência dos skatistas em relação aos novos materiais, o que contradiz a ideia de autonomia absoluta dos praticantes."
+      }
+    ]
+  },
+  "auditoria_da_ia": {
+    "modelo": "gpt-4o",
+    "versao": "2024-11-20",
+    "datetime": "2024-12-07T00:00:00Z",
+    "confianca": 0.95,
+    "evidencias": [
+      "A questão aborda a evolução histórica do skate como prática corporal de lazer.",
+      "A alternativa A expressa corretamente a ideia de ampliação do acesso à prática abordada no texto."
+    ],
+    "proveniencia": {
+      "arquivo_questao": "enem_2021",
+      "arquivo_matriz": "matriz_enem"
+    },
+    "validacao_humana": {
+      "validado": false,
+      "data_validacao": null
+    }
+  },
+  "estudante": {
+    "nome_completo": "Michael Patrick Almeida",
+    "colegio": "CCM Darcy José Costa",
+    "turma": "3B"
+  }
+}

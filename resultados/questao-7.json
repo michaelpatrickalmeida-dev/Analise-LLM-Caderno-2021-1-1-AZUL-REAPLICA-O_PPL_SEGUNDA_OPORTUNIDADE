@@ -1,0 +1,106 @@
+{
+  "questao": {
+    "identificacao_caderno": {
+      "ano": 2021,
+      "dia": 1,
+      "numero": 1,
+      "cor": "AZUL",
+      "aplicacao": "REAPLICAÇÃO_PPL_SEGUNDA_OPORTUNIDADE"
+    },
+    "identificacao_questao": {
+      "numero": 7,
+      "espanhol": false,
+      "ingles": false
+    },
+    "conteudo_questao": {
+      "link_imagem": null,
+      "caminho_texto": "textos_extraidos/questao-7.txt",
+      "gabarito": "C"
+    }
+  },
+  "classificacao_matriz": {
+    "area": {
+      "id": "LC",
+      "nome": "Linguagens, Códigos e suas Tecnologias"
+    },
+    "competencia": {
+      "id": "C8",
+      "descricao": "Compreender e usar a língua portuguesa como língua materna, geradora de significação e integradora da organização do mundo e da própria identidade."
+    },
+    "habilidade_principal": {
+      "id": "H25",
+      "descricao": "Identificar, em textos de diferentes gêneros, as marcas linguísticas que singularizam as variedades linguísticas sociais, regionais e de registro."
+    },
+    "habilidades_relacionadas": [
+      {
+        "id": "H26",
+        "descricao": "Relacionar as variedades linguísticas a situações específicas de uso social."
+      }
+    ],
+    "eixo_cognitivo": {
+      "id": "III",
+      "nome": "Enfrentar situações-problema (SP)",
+      "descricao": "selecionar, organizar, relacionar, interpretar dados e informações representados de diferentes formas, para tomar decisões e enfrentar situações-problema."
+    }
+  },
+  "classificacao_de_conteudo": {
+    "conteudo_principal": "Variação linguística",
+    "conteudos_relacionados": [
+      "Norma culta e preconceito linguístico",
+      "Gênero textual poético"
+    ],
+    "assunto": "Estudo dos aspectos linguísticos da língua portuguesa",
+    "objeto_de_analise": "O poema de Manoel de Barros que critica o purismo linguístico e valoriza expressões populares",
+    "fenomeno_conceito": "Preconceito linguístico vs. Variação linguística"
+  },
+  "analise_alternativas": [
+    {
+      "alternativa": "A",
+      "corretude": false,
+      "justificativa": "O texto não faz uma contraposição estrita entre os meios de escrita e fala, mas sim entre o purismo acadêmico e a vitalidade das expressões populares."
+    },
+    {
+      "alternativa": "B",
+      "corretude": false,
+      "justificativa": "O autor não ironiza a comunicação fora da norma-padrão; pelo contrário, ele a defende e critica o preciosismo do literato."
+    },
+    {
+      "alternativa": "C",
+      "corretude": false,
+      "justificativa": "O texto propõe o inverso, valorizando os regionalismos e expressões populares em detrimento da imposição de registros formais artificiais."
+    },
+    {
+      "alternativa": "D",
+      "corretude": true,
+      "justificativa": "O poema valoriza a criação linguística do povo e as expressões populares (como estar na draga), criticando a postura elitista e purista do literato que rejeita a variação."
+    },
+    {
+      "alternativa": "E",
+      "corretude": false,
+      "justificativa": "O objetivo do autor não é propor novas regras gramaticais normativas, mas sim legitimar o uso da língua viva gerada pelo povo."
+    }
+  ],
+  "auditoria_da_ia": {
+    "modelo": "gpt-4o",
+    "versao": "2024-05-13",
+    "datetime": "2023-10-25T00:00:00Z",
+    "confianca": 1.0,
+    "evidencias": [
+      "A questão aborda a crítica ao preciosismo linguístico e a defesa do registro popular no poema de Manoel de Barros.",
+      "A habilidade H25 da Matriz de Linguagens contempla a identificação de marcas linguísticas de variedades sociais e regionais."
+    ],
+    "proveniencia": {
+      "arquivo_questao": "ENEM 2021",
+      "arquivo_matriz": "INEP-ENEM-MATRIZ"
+    },
+    "validacao_humana": {
+      "validado": false,
+      "data_validacao": null
+    }
+  },
+  "estudante": {
+    "nome_completo": "Michael Patrick Almeida",
+    "colegio": "CCM Darcy José Costa",
+    "turma": "3B"
+  }
+}

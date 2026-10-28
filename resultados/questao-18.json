@@ -1,0 +1,75 @@
+{
+  "questao": {
+    "identificacao_caderno": {
+      "ano": 2021,
+      "dia": 1,
+      "numero": 1,
+      "cor": "AZUL",
+      "aplicacao": "REAPLICAÇÃO_PPL_SEGUNDA_OPORTUNIDADE"
+    },
+    "identificacao_questao": {
+      "numero": 18,
+      "espanhol": false,
+      "ingles": false
+    },
+    "conteudo_questao": {
+      "link_imagem": null,
+      "caminho_texto": "textos_extraidos/questao-18.txt",
+      "gabarito": "A"
+    }
+  },
+  "classificacao_matriz": {
+    "area": {
+      "id": null,
+      "nome": "Linguagens, Códigos e suas Tecnologias"
+    },
+    "competencia": {
+      "id": "C5",
+      "descricao": "Analisar, interpretar e aplicar recursos expressivos das linguagens, relacionando textos com seus contextos, mediante a natureza, função, organização, estrutura das manifestações, de acordo com as condições de produção e recepção."
+    },
+    "habilidade_principal": {
+      "id": "H16",
+      "descricao": "Relacionar informações sobre concepções artísticas e procedimentos de construção do texto literário."
+    },
+    "habilidades_relacionadas": [],
+    "eixo_cognitivo": {
+      "id": "II",
+      "nome": "Compreender fenômenos (CF)",
+      "descricao": "construir e aplicar conceitos das várias áreas do conhecimento para a compreensão de fenômenos naturais, de processos histórico-geográficos, da produção tecnológica e das manifestações artísticas."
+    }
+  },
+  "classificacao_de_conteudo": {
+    "conteudo_principal": "Artes Visuais",
+    "conteudos_relacionados": [
+      "Romantismo",
+      "Pintura histórica"
+    ],
+    "assunto": "Estética romântica na pintura brasileira do século XIX",
+    "objeto_de_analise": "Obra Moema de Victor Meirelles",
+    "fenomeno_conceito": "Idealização romântica do corpo e da figura indígena"
+  },
+  "analise_alternativas": [],
+  "auditoria_da_ia": {
+    "modelo": "gpt-4o",
+    "versao": "2024-05-13",
+    "datetime": "2024-05-13T00:00:00Z",
+    "confianca": 0.95,
+    "evidencias": [
+      "A questão aborda uma obra de arte do Romantismo brasileiro (Moema, de Victor Meirelles).",
+      "A habilidade H16 relaciona concepções artísticas e procedimentos de construção de textos artísticos/literários."
+    ],
+    "proveniencia": {
+      "arquivo_questao": "ENEM 2021",
+      "arquivo_matriz": "Matriz ENEM"
+    },
+    "validacao_humana": {
+      "validado": false,
+      "data_validacao": null
+    }
+  },
+  "estudante": {
+    "nome_completo": "Michael Patrick Almeida",
+    "colegio": "CCM Darcy José Costa",
+    "turma": "3B"
+  }
+}

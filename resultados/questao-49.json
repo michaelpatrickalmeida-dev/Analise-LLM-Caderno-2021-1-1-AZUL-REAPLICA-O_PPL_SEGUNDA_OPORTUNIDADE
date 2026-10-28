@@ -1,0 +1,76 @@
+{
+  "questao": {
+    "identificacao_caderno": {
+      "ano": 2021,
+      "dia": 1,
+      "numero": 1,
+      "cor": "AZUL",
+      "aplicacao": "REAPLICAÇÃO_PPL_SEGUNDA_OPORTUNIDADE"
+    },
+    "identificacao_questao": {
+      "numero": 49,
+      "espanhol": false,
+      "ingles": false
+    },
+    "conteudo_questao": {
+      "link_imagem": null,
+      "caminho_texto": "textos_extraidos/questao-49.txt",
+      "gabarito": "B"
+    }
+  },
+  "classificacao_matriz": {
+    "area": {
+      "id": "CH",
+      "nome": "Ciências Humanas e suas Tecnologias"
+    },
+    "competencia": {
+      "id": "C1",
+      "descricao": "Compreender os elementos culturais que constituem as identidades"
+    },
+    "habilidade_principal": {
+      "id": "H4",
+      "descricao": "Comparar pontos de vista expressos em diferentes fontes sobre determinado aspecto da cultura."
+    },
+    "habilidades_relacionadas": [
+      {
+        "id": "H2",
+        "descricao": "Analisar a produção da memória pelas sociedades humanas."
+      }
+    ],
+    "eixo_cognitivo": {
+      "id": "III",
+      "nome": "Enfrentar situações-problema (SP)",
+      "descricao": "selecionar, organizar, relacionar, interpretar dados e informações representados de diferentes formas, para tomar decisões e enfrentar situações-problema."
+    }
+  },
+  "classificacao_de_conteudo": {
+    "conteudo_principal": "Patrimônio cultural e diversidade cultural no Brasil",
+    "conteudos_relacionados": [
+      "Cultura material e imaterial"
+    ],
+    "assunto": "Preservação e conservação do patrimônio histórico",
+    "objeto_de_analise": "Diferentes visões sobre a conservação de monumentos e bens culturais",
+    "fenomeno_conceito": "Patrimônio cultural"
+  },
+  "analise_alternativas": [],
+  "auditoria_da_ia": {
+    "modelo": null,
+    "versao": null,
+    "datetime": null,
+    "confianca": null,
+    "evidencias": [],
+    "proveniencia": {
+      "arquivo_questao": null,
+      "arquivo_matriz": null
+    },
+    "validacao_humana": {
+      "validado": null,
+      "data_validacao": null
+    }
+  },
+  "estudante": {
+    "nome_completo": "Michael Patrick Almeida",
+    "colegio": "CCM Darcy José Costa",
+    "turma": "3B"
+  }
+}

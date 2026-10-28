@@ -1,0 +1,80 @@
+{
+  "questao": {
+    "identificacao_caderno": {
+      "ano": 2021,
+      "dia": 1,
+      "numero": 1,
+      "cor": "AZUL",
+      "aplicacao": "REAPLICAÇÃO_PPL_SEGUNDA_OPORTUNIDADE"
+    },
+    "identificacao_questao": {
+      "numero": 72,
+      "espanhol": false,
+      "ingles": false
+    },
+    "conteudo_questao": {
+      "link_imagem": null,
+      "caminho_texto": "textos_extraidos/questao-72.txt",
+      "gabarito": "A"
+    }
+  },
+  "classificacao_matriz": {
+    "area": {
+      "id": "CH",
+      "nome": "Ciências Humanas e suas Tecnologias"
+    },
+    "competencia": {
+      "id": "C5",
+      "descricao": "Utilizar os conhecimentos históricos para compreender e valorizar os fundamentos da cidadania e da democracia, favorecendo uma atuação consciente do indivíduo na sociedade."
+    },
+    "habilidade_principal": {
+      "id": "H24",
+      "descricao": "Relacionar cidadania e democracia na organização das sociedades."
+    },
+    "habilidades_relacionadas": [
+      {
+        "id": "H22",
+        "descricao": "Analisar as lutas sociais e conquistas obtidas no que se refere às mudanças nas legislações ou nas políticas públicas."
+      }
+    ],
+    "eixo_cognitivo": {
+      "id": "III",
+      "nome": "Enfrentar situações-problema (SP)",
+      "descricao": "selecionar, organizar, relacionar, interpretar dados e informações representados de diferentes formas, para tomar decisões e enfrentar situações-problema."
+    }
+  },
+  "classificacao_de_conteudo": {
+    "conteudo_principal": "Cidadania e democracia na organização das sociedades",
+    "conteudos_relacionados": [
+      "Movimentos sociais",
+      "Planejamento e gestão urbana"
+    ],
+    "assunto": "Participação social e gestão urbana",
+    "objeto_de_analise": "Mecanismos de inclusão e representação dos interesses da sociedade no planejamento urbano",
+    "fenomeno_conceito": "Cidadania e democracia participativa"
+  },
+  "analise_alternativas": [],
+  "auditoria_da_ia": {
+    "modelo": "GPT-4",
+    "versao": "2024",
+    "datetime": "2024-05-18T10:00:00",
+    "confianca": 0.95,
+    "evidencias": [
+      "A questão aborda a participação social no planejamento urbano e o Estatuto da Cidade.",
+      "O fortalecimento das associações de bairro é uma medida direta que promove a participação da sociedade civil e das camadas menos favorecidas na gestão urbana."
+    ],
+    "proveniencia": {
+      "arquivo_questao": "enem_2021_q72",
+      "arquivo_matriz": "matriz_enem"
+    },
+    "validacao_humana": {
+      "validado": false,
+      "data_validacao": null
+    }
+  },
+  "estudante": {
+    "nome_completo": "Michael Patrick Almeida",
+    "colegio": "CCM Darcy José Costa",
+    "turma": "3B"
+  }
+}

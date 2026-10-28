@@ -1,0 +1,110 @@
+{
+  "questao": {
+    "identificacao_caderno": {
+      "ano": 2021,
+      "dia": 1,
+      "numero": 1,
+      "cor": "AZUL",
+      "aplicacao": "REAPLICAÇÃO_PPL_SEGUNDA_OPORTUNIDADE"
+    },
+    "identificacao_questao": {
+      "numero": 85,
+      "espanhol": false,
+      "ingles": false
+    },
+    "conteudo_questao": {
+      "link_imagem": null,
+      "caminho_texto": "textos_extraidos/questao-85.txt",
+      "gabarito": "C"
+    }
+  },
+  "classificacao_matriz": {
+    "area": {
+      "id": "CH",
+      "nome": "Ciências Humanas e suas Tecnologias"
+    },
+    "competencia": {
+      "id": "C1",
+      "descricao": "Compreender os elementos culturais que constituem as identidades"
+    },
+    "habilidade_principal": {
+      "id": "H1",
+      "descricao": "Interpretar historicamente e/ou geograficamente fontes documentais acerca de aspectos da cultura."
+    },
+    "habilidades_relacionadas": [
+      {
+        "id": "H11",
+        "descricao": "Identificar registros de práticas de grupos sociais no tempo e no espaço."
+      }
+    ],
+    "eixo_cognitivo": {
+      "id": "III",
+      "nome": "Enfrentar situações-problema (SP)",
+      "descricao": "selecionar, organizar, relacionar, interpretar dados e informações representados de diferentes formas, para tomar decisões e enfrentar situações-problema."
+    }
+  },
+  "classificacao_de_conteudo": {
+    "conteudo_principal": "Escravidão e resistência indígena e africana na América",
+    "conteudos_relacionados": [
+      "A luta dos negros no Brasil e o negro na formação da sociedade brasileira"
+    ],
+    "assunto": "Resistência escrava no Brasil Império",
+    "objeto_de_analise": "Anúncio de jornal do século XIX sobre escravo fugido",
+    "fenomeno_conceito": "Estratégias de resistência e auto-emancipação (forro)",
+    "estudante": {
+      "nome_completo": null,
+      "colegio": null,
+      "turma": null
+    }
+  },
+  "analise_alternativas": [
+    {
+      "alternativa": "A",
+      "correta": false,
+      "analise": "Incorreta. O anúncio relata que o escravo se intitulava forro e trabalhava como camarada, mas isso não representa a criação institucional de relações de trabalho como estratégia central de resistência descrita no texto, mas sim uma simulação de liberdade."
+    },
+    {
+      "alternativa": "B",
+      "correta": false,
+      "analise": "Incorreta. O texto menciona a fuga e a contratação do escravo em uma fazenda, sem fazer menção direta à formação ou fundação de territórios quilombolas."
+    },
+    {
+      "alternativa": "C",
+      "correta": true,
+      "analise": "Correta. A estratégia de resistência evidenciada consiste em o escravo intitular-se forro (livre) e circular por fazendas trabalhando como camarada, o que suaviza a rigidez do cativeiro e dribla a aplicação estrita das normas escravistas."
+    },
+    {
+      "alternativa": "D",
+      "correta": false,
+      "analise": "Incorreta. Não havia uma regularização legal das funções remuneradas para escravos fugidos; tratava-se de uma inserção informal e astuta no mercado de trabalho para burlar a condição de cativeiro."
+    },
+    {
+      "alternativa": "E",
+      "correta": false,
+      "analise": "Incorreta. O texto não aborda a constituição de uma economia de subsistência, como a agricultura familiar em quilombos ou terras próprias, mas sim a fuga e o trabalho assalariado/informal temporário."
+    }
+  ],
+  "auditoria_da_ia": {
+    "modelo": "gpt-4o",
+    "versao": "2024-05-13",
+    "datetime": "2024-10-24T00:00:00Z",
+    "confianca": 0.95,
+    "evidencias": [
+      "O enunciado apresenta um anúncio de jornal de 1879 sobre um escravo fugido que se intitulava forro e trabalhava como camarada.",
+      "A questão aborda as formas de resistência à escravidão no Brasil."
+    ],
+    "proveniencia": {
+      "arquivo_questao": "enem2021_q85",
+      "arquivo_matriz": "matriz_enem"
+    },
+    "validacao_humana": {
+      "validado": false,
+      "data_validacao": null
+    }
+  },
+  "estudante": {
+    "nome_completo": "Michael Patrick Almeida",
+    "colegio": "CCM Darcy José Costa",
+    "turma": "3B"
+  }
+}

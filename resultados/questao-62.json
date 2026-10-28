@@ -1,0 +1,100 @@
+{
+  "questao": {
+    "identificacao_caderno": {
+      "ano": 2021,
+      "dia": 1,
+      "numero": 1,
+      "cor": "AZUL",
+      "aplicacao": "REAPLICAÇÃO_PPL_SEGUNDA_OPORTUNIDADE"
+    },
+    "identificacao_questao": {
+      "numero": 62,
+      "espanhol": false,
+      "ingles": false
+    },
+    "conteudo_questao": {
+      "link_imagem": null,
+      "caminho_texto": "textos_extraidos/questao-62.txt",
+      "gabarito": "A"
+    }
+  },
+  "classificacao_matriz": {
+    "area": {
+      "id": "CH",
+      "nome": "Ciências Humanas e suas Tecnologias"
+    },
+    "competencia": {
+      "id": "C2",
+      "descricao": "Compreender as transformações dos espaços geográficos como produto das relações socioeconômicas e culturais de poder."
+    },
+    "habilidade_principal": {
+      "id": "H7",
+      "descricao": "Identificar os significados histórico-geográficos das relações de poder entre as nações"
+    },
+    "habilidades_relacionadas": [],
+    "eixo_cognitivo": {
+      "id": "II",
+      "nome": "Compreender fenômenos (CF)",
+      "descricao": "construir e aplicar conceitos das várias áreas do conhecimento para a compreensão de fenômenos naturais, de processos histórico-geográficos, da produção tecnológica e das manifestações artísticas."
+    }
+  },
+  "classificacao_de_conteudo": {
+    "conteudo_principal": "Globalização e as novas tecnologias de telecomunicação e suas consequências econômicas, políticas e sociais",
+    "conteudos_relacionados": [
+      "Características e transformações das estruturas produtivas"
+    ],
+    "assunto": "Divisão Internacional do Trabalho e industrialização brasileira",
+    "objeto_de_analise": "Inserção dependente da indústria brasileira nas novas tecnologias e sua dependência externa",
+    "fenomeno_conceito": "Subordinação econômica e tecnológica global"
+  },
+  "analise_alternativas": [
+    {
+      "alternativa": "A",
+      "correta": false,
+      "analise": "Incorreta, pois a falta de inserção em novas tecnologias e a dependência de commodities não barateiam a cesta básica."
+    },
+    {
+      "alternativa": "B",
+      "correta": false,
+      "analise": "Incorreta, o texto não aponta para um movimento de estatização econômica."
+    },
+    {
+      "alternativa": "C",
+      "correta": false,
+      "analise": "Incorreta, a baixa produtividade e a estagnação tecnológica limitam a ampliação sustentada do poder de consumo."
+    },
+    {
+      "alternativa": "D",
+      "correta": true,
+      "analise": "Correta, pois a falta de competitividade tecnológica e a dependência em commodities e padrões produtivos obsoletos colocam o país em posição de subordinação aos fluxos globais e à nova divisão internacional do trabalho."
+    },
+    {
+      "alternativa": "E",
+      "correta": false,
+      "analise": "Incorreta, o cenário descrito é de limitação tecnológica e não de incentivo à modernização."
+    }
+  ],
+  "auditoria_da_ia": {
+    "modelo": "gpt-4o",
+    "versao": "2024-05-13",
+    "datetime": "2026-03-30T10:00:00Z",
+    "confianca": 0.95,
+    "evidencias": [
+      "O texto aborda a inserção periférica do Brasil na divisão internacional do trabalho devido à baixa inserção em microeletrônica e dependência de commodities.",
+      "A habilidade H7 de Ciências Humanas dialoga diretamente com as relações de poder e dependência entre as nações."
+    ],
+    "proveniencia": {
+      "arquivo_questao": "enem_2021",
+      "arquivo_matriz": "matriz_enem"
+    },
+    "validacao_humana": {
+      "validado": false,
+      "data_validacao": null
+    }
+  },
+  "estudante": {
+    "nome_completo": "Michael Patrick Almeida",
+    "colegio": "CCM Darcy José Costa",
+    "turma": "3B"
+  }
+}

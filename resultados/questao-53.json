@@ -1,0 +1,91 @@
+{
+  "questao": {
+    "identificacao_caderno": {
+      "ano": 2021,
+      "dia": 1,
+      "numero": 1,
+      "cor": "AZUL",
+      "aplicacao": "REAPLICAÇÃO_PPL_SEGUNDA_OPORTUNIDADE"
+    },
+    "identificacao_questao": {
+      "numero": 53,
+      "espanhol": false,
+      "ingles": false
+    },
+    "conteudo_questao": {
+      "link_imagem": null,
+      "caminho_texto": "textos_extraidos/questao-53.txt",
+      "gabarito": "A"
+    }
+  },
+  "classificacao_matriz": {
+    "area": {
+      "id": "CH",
+      "nome": "Ciências Humanas e suas Tecnologias"
+    },
+    "competencia": {
+      "id": "C1",
+      "descricao": "Compreender os elementos culturais que constituem as identidades"
+    },
+    "habilidade_principal": {
+      "id": "H3",
+      "descricao": "Associar as manifestações culturais do presente aos seus processos históricos."
+    },
+    "habilidades_relacionadas": [
+      {
+        "id": "H1",
+        "descricao": "Interpretar historicamente e/ou geograficamente fontes documentais acerca de aspectos da cultura."
+      },
+      {
+        "id": "H5",
+        "descricao": "Identificar as manifestações ou representações da diversidade do patrimônio cultural e artístico em diferentes sociedades."
+      }
+    ],
+    "eixo_cognitivo": {
+      "id": "II",
+      "nome": "Compreender fenômenos (CF)",
+      "descricao": "construir e aplicar conceitos das várias áreas do conhecimento para a compreensão de fenômenos naturais, de processos histórico-geográficos, da produção tecnológica e das manifestações artísticas."
+    }
+  },
+  "classificacao_de_conteudo": {
+    "conteudo_principal": "Diversidade cultural e patrimônio cultural imaterial",
+    "conteudos_relacionados": [
+      "Tradições populares",
+      "Cultura nordestina",
+      "Oralidade e memória"
+    ],
+    "assunto": "Expressões e vivências populares",
+    "objeto_de_analise": "Narrativa oral e crenças populares sobre fenômenos naturais",
+    "fenomeno_conceito": "Patrimônio cultural imaterial e tradições populares",
+    "analise_alternativas": [
+      {
+        "alternativa": "A",
+        "correta": true,
+        "justificativa": "O texto aborda práticas místicas e crendices populares transmitidas oralmente, que compõem o patrimônio cultural imaterial da região."
+      }
+    ]
+  },
+  "auditoria_da_ia": {
+    "modelo": "GPT-4",
+    "versao": "2023",
+    "datetime": "2023-10-25T00:00:00",
+    "confianca": 0.95,
+    "evidencias": [
+      "A questão aborda manifestações da cultura popular e tradições orais.",
+      "Relaciona-se com a competência 1 e habilidade 3 de Ciências Humanas por tratar de aspectos culturais e identitários."
+    ],
+    "proveniencia": {
+      "arquivo_questao": "ENEM 2021",
+      "arquivo_matriz": "Matriz ENEM Oficial"
+    },
+    "validacao_humana": {
+      "validado": false,
+      "data_validacao": null
+    }
+  },
+  "estudante": {
+    "nome_completo": "Michael Patrick Almeida",
+    "colegio": "CCM Darcy José Costa",
+    "turma": "3B"
+  }
+}

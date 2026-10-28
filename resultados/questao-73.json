@@ -1,0 +1,105 @@
+{
+  "questao": {
+    "identificacao_caderno": {
+      "ano": 2021,
+      "dia": 1,
+      "numero": 1,
+      "cor": "AZUL",
+      "aplicacao": "REAPLICAÇÃO_PPL_SEGUNDA_OPORTUNIDADE"
+    },
+    "identificacao_questao": {
+      "numero": 73,
+      "espanhol": false,
+      "ingles": false
+    },
+    "conteudo_questao": {
+      "link_imagem": null,
+      "caminho_texto": "textos_extraidos/questao-73.txt",
+      "gabarito": "C"
+    }
+  },
+  "classificacao_matriz": {
+    "area": {
+      "id": "CH",
+      "nome": "Ciências Humanas e suas Tecnologias"
+    },
+    "competencia": {
+      "id": "C5",
+      "descricao": "Utilizar os conhecimentos históricos para compreender e valorizar os fundamentos da cidadania e da democracia, favorecendo uma atuação consciente do indivíduo na sociedade."
+    },
+    "habilidade_principal": {
+      "id": "H22",
+      "descricao": "Analisar as lutas sociais e conquistas obtidas no que se refere às mudanças nas legislações ou nas políticas públicas."
+    },
+    "habilidades_relacionadas": [
+      {
+        "id": "H11",
+        "descricao": "Identificar registros de práticas de grupos sociais no tempo e no espaço."
+      }
+    ],
+    "eixo_cognitivo": {
+      "id": "II",
+      "nome": "Compreender fenômenos (CF)",
+      "descricao": "construir e aplicar conceitos das várias áreas do conhecimento para a compreensão de fenômenos naturais, de processos histórico-geográficos, da produção tecnológica e das manifestações artísticas."
+    }
+  },
+  "classificacao_de_conteudo": {
+    "conteudo_principal": "Era Vargas",
+    "conteudos_relacionados": [
+      "História do Brasil Republicano"
+    ],
+    "assunto": "Suicídio de Getúlio Vargas e suas repercussões políticas",
+    "objeto_de_analise": "O impacto imediato da morte de Getúlio Vargas no cenário político brasileiro de 1954",
+    "fenomeno_conceito": "Crise política da Segunda República brasileira e a comoção nacional"
+  },
+  "analise_alternativas": [
+    {
+      "alternativa": "A",
+      "correta": false,
+      "justificativa": "A reação popular ocorreu, mas o texto enfatiza a repercussão política imediata institucionalizada na dinâmica de poder, sendo a abertura para a redemocratização/crise contida pela comoção."
+    },
+    {
+      "alternativa": "B",
+      "correta": false,
+      "justificativa": "A intervenção militar direta não foi a repercussão imediata, visto que o vice Café Filho assumiu o poder pacificamente amparado pela comoção."
+    },
+    {
+      "alternativa": "C",
+      "correta": true,
+      "justificativa": "O suicídio de Vargas gerou uma enorme comoção popular que acabou por conter os planos dos golpistas de imediato, garantindo a posse dos eleitos e adiando o golpe militar que só viria em 1964, configurando um momento de distensão e abertura política."
+    },
+    {
+      "alternativa": "D",
+      "correta": false,
+      "justificativa": "A campanha anticomunista era anterior e contínua, não sendo a repercussão imediata gerada pelo evento do suicídio."
+    },
+    {
+      "alternativa": "E",
+      "correta": false,
+      "justificativa": "O suicídio arrefeceu momentaneamente a radicalização da oposição devido ao choque da opinião pública com a morte do presidente."
+    }
+  ],
+  "auditoria_da_ia": {
+    "modelo": "gpt-4o",
+    "versao": "2024-05-13",
+    "datetime": "2023-10-27T00:00:00Z",
+    "confianca": 0.95,
+    "evidencias": [
+      "A questão aborda o suicídio de Getúlio Vargas em 1954 e suas implicações políticas imediatas.",
+      "A matriz de Ciências Humanas contempla a análise de processos políticos da história do Brasil."
+    ],
+    "proveniencia": {
+      "arquivo_questao": "ENEM 2021",
+      "arquivo_matriz": "Matriz ENEM"
+    },
+    "validacao_humana": {
+      "validado": false,
+      "data_validacao": null
+    }
+  },
+  "estudante": {
+    "nome_completo": "Michael Patrick Almeida",
+    "colegio": "CCM Darcy José Costa",
+    "turma": "3B"
+  }
+}

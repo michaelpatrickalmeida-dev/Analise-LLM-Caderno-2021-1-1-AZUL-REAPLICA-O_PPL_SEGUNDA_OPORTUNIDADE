@@ -1,0 +1,106 @@
+{
+  "questao": {
+    "identificacao_caderno": {
+      "ano": 2021,
+      "dia": 1,
+      "numero": 1,
+      "cor": "AZUL",
+      "aplicacao": "REAPLICAÇÃO_PPL_SEGUNDA_OPORTUNIDADE"
+    },
+    "identificacao_questao": {
+      "numero": 43,
+      "espanhol": false,
+      "ingles": false
+    },
+    "conteudo_questao": {
+      "link_imagem": null,
+      "caminho_texto": "textos_extraidos/questao-43.txt",
+      "gabarito": "C"
+    }
+  },
+  "classificacao_matriz": {
+    "area": {
+      "id": "CH",
+      "nome": "Ciências Humanas e suas Tecnologias"
+    },
+    "competencia": {
+      "id": "C1",
+      "descricao": "Compreender os elementos culturais que constituem as identidades"
+    },
+    "habilidade_principal": {
+      "id": "H1",
+      "descricao": "Interpretar historicamente e/ou geograficamente fontes documentais acerca de aspectos da cultura."
+    },
+    "habilidades_relacionadas": [
+      {
+        "id": "H2",
+        "descricao": "Analisar a produção da memória pelas sociedades humanas."
+      }
+    ],
+    "eixo_cognitivo": {
+      "id": "III",
+      "nome": "Enfrentar situações-problema (SP)",
+      "descricao": "selecionar, organizar, relacionar, interpretar dados e informações representados de diferentes formas, para tomar decisões e enfrentar situações-problema."
+    }
+  },
+  "classificacao_de_conteudo": {
+    "conteudo_principal": "Escravidão no Brasil",
+    "conteudos_relacionados": [
+      "Resistência indígena e africana",
+      "História cultural dos povos africanos"
+    ],
+    "assunto": "História do Brasil Colonial",
+    "objeto_de_analise": "História em quadrinhos sobre a escravidão",
+    "fenomeno_conceito": "Violência colonial e desumanização"
+  },
+  "analise_alternativas": [
+    {
+      "alternativa": "A",
+      "correta": false,
+      "justificativa": "A alternativa restringe a análise ao afeto, enquanto a obra traz elementos mais amplos de opressão e sofrimento sistêmico."
+    },
+    {
+      "alternativa": "B",
+      "correta": false,
+      "justificativa": "Embora os corpos apareçam marcados, o foco da sequência narrativa analisada conjuntamente com o lirismo aborda o abatimento e o peso da condição imposta."
+    },
+    {
+      "alternativa": "C",
+      "correta": true,
+      "justificativa": "A sequência apresentada na obra de Marcelo D'Salete (Cumbe) retrata o lirismo na busca de alívio e afeto contraposto à dura realidade da violência física e psicológica, resultando na representação do profundo abatimento diante da desumanidade vivida no cativeiro."
+    },
+    {
+      "alternativa": "D",
+      "correta": false,
+      "justificativa": "O trecho e a sequência selecionados focam na dor e na desesperança do cativeiro, e não primariamente na resistência ativa ou identitária."
+    },
+    {
+      "alternativa": "E",
+      "correta": false,
+      "justificativa": "Os personagens mantêm laços com sua ancestralidade e mitos (como o Calunga e o Tata), logo, não estão alijados dela."
+    }
+  ],
+  "auditoria_da_ia": {
+    "modelo": "gpt-4o",
+    "versao": "2024-05-13",
+    "datetime": "2024-10-24T00:00:00Z",
+    "confianca": 0.95,
+    "evidencias": [
+      "A questão aborda a obra Cumbe de Marcelo D'Salete, que retrata a escravidão no Brasil colonial.",
+      "O gabarito oficial do ENEM 2021 para a questão 43 (caderno azul) é a alternativa C."
+    ],
+    "proveniencia": {
+      "arquivo_questao": "ENEM 2021",
+      "arquivo_matriz": "Matriz ENEM"
+    },
+    "validacao_humana": {
+      "validado": false,
+      "data_validacao": null
+    }
+  },
+  "estudante": {
+    "nome_completo": "Michael Patrick Almeida",
+    "colegio": "CCM Darcy José Costa",
+    "turma": "3B"
+  }
+}

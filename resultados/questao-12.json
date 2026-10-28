@@ -1,0 +1,105 @@
+{
+  "questao": {
+    "identificacao_caderno": {
+      "ano": 2021,
+      "dia": 1,
+      "numero": 1,
+      "cor": "AZUL",
+      "aplicacao": "REAPLICAÇÃO_PPL_SEGUNDA_OPORTUNIDADE"
+    },
+    "identificacao_questao": {
+      "numero": 12,
+      "espanhol": false,
+      "ingles": false
+    },
+    "conteudo_questao": {
+      "link_imagem": null,
+      "caminho_texto": "textos_extraidos/questao-12.txt",
+      "gabarito": "E"
+    }
+  },
+  "classificacao_matriz": {
+    "area": {
+      "id": "LC",
+      "nome": "Linguagens, Códigos e suas Tecnologias"
+    },
+    "competencia": {
+      "id": "C7",
+      "descricao": "Confrontar opiniões e pontos de vista sobre as diferentes linguagens e suas manifestações específicas."
+    },
+    "habilidade_principal": {
+      "id": "H21",
+      "descricao": "Reconhecer em textos de diferentes gêneros, recursos verbais e não-verbais utilizados com a finalidade de criar e mudar comportamentos e hábitos."
+    },
+    "habilidades_relacionadas": [
+      {
+        "id": "H23",
+        "descricao": "Inferir em um texto quais são os objetivos de seu produtor e quem é seu público alvo, pela análise dos procedimentos argumentativos utilizados."
+      }
+    ],
+    "eixo_cognitivo": {
+      "id": "III",
+      "nome": "Enfrentar situações-problema (SP)",
+      "descricao": "selecionar, organizar, relacionar, interpretar dados e informações representados de diferentes formas, para tomar decisões e enfrentar situações-problema."
+    }
+  },
+  "classificacao_de_conteudo": {
+    "conteudo_principal": "Estudo do texto argumentativo, seus gêneros e recursos linguísticos",
+    "conteudos_relacionados": [
+      "Produção e recepção de textos artísticos: interpretação e representação do mundo"
+    ],
+    "assunto": "Campanha publicitária institucional",
+    "objeto_de_analise": "Associação entre recursos verbais e não-verbais em gênero publicitário",
+    "fenomeno_conceito": "Argumentação visual e persuasão em campanhas de conscientização"
+  },
+  "analise_alternativas": [
+    {
+      "alternativa": "A",
+      "correta": false,
+      "analise": "Incorreta. Embora mencione a lei, o foco principal da fusão visual entre a garrafa PET e o cão é sensibilizar sobre o abandono, e não focar primariamente em estimular canais de denúncia."
+    },
+    {
+      "alternativa": "B",
+      "correta": false,
+      "analise": "Incorreta. A campanha faz justamente o oposto, ao associar o conceito de descarte ao animal, alertando sobre a gravidade da negligência."
+    },
+    {
+      "alternativa": "C",
+      "correta": false,
+      "analise": "Incorreta. O foco temático da peça publicitária é o combate ao abandono e não especificamente a promoção de adoção."
+    },
+    {
+      "alternativa": "D",
+      "correta": true,
+      "analise": "Correta. A estratégia de aproximar visualmente e lexicalmente um objeto descartável a um ser vivo serve para sensibilizar o leitor quanto à crueldade do abandono de animais domésticos."
+    },
+    {
+      "alternativa": "E",
+      "correta": false,
+      "analise": "Incorreta. A citação da lei é um elemento secundário de respaldo e coerção jurídica, sendo o objetivo central a conscientização contra o abandono."
+    }
+  ],
+  "auditoria_da_ia": {
+    "modelo": "gpt-4o",
+    "versao": "2.0",
+    "datetime": "2024-05-18T10:00:00Z",
+    "confianca": 0.98,
+    "evidencias": [
+      "A questão exige a identificação do objetivo comunicativo de uma campanha publicitária que utiliza recursos verbais e não-verbais.",
+      "A habilidade H21 aborda o reconhecimento de recursos expressivos para mudança de comportamento em textos multissemióticos."
+    ],
+    "proveniencia": {
+      "arquivo_questao": "enem_2021_q12.json",
+      "arquivo_matriz": "matriz_enem.json"
+    },
+    "validacao_humana": {
+      "validado": false,
+      "data_validacao": null
+    }
+  },
+  "estudante": {
+    "nome_completo": "Michael Patrick Almeida",
+    "colegio": "CCM Darcy José Costa",
+    "turma": "3B"
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "questao": {
+    "identificacao_caderno": {
+      "ano": 2021,
+      "dia": 1,
+      "numero": 1,
+      "cor": "AZUL",
+      "aplicacao": "REAPLICAÇÃO_PPL_SEGUNDA_OPORTUNIDADE"
+    },
+    "identificacao_questao": {
+      "numero": 13,
+      "espanhol": false,
+      "ingles": false
+    },
+    "conteudo_questao": {
+      "link_imagem": null,
+      "caminho_texto": "textos_extraidos/questao-13.txt",
+      "gabarito": "D"
+    }
+  },
+  "classificacao_matriz": {
+    "area": {
+      "id": "LC",
+      "nome": "Linguagens, Códigos e suas Tecnologias"
+    },
+    "competencia": {
+      "id": "C7",
+      "descricao": "Confrontar opiniões e pontos de vista sobre as diferentes linguagens e suas manifestações específicas."
+    },
+    "habilidade_principal": {
+      "id": "H21",
+      "descricao": "Reconhecer em textos de diferentes gêneros, recursos verbais e não-verbais utilizados com a finalidade de criar e mudar comportamentos e hábitos."
+    },
+    "habilidades_relacionadas": [
+      {
+        "id": "H22",
+        "descricao": "Relacionar, em diferentes textos, opiniões, temas, assuntos e recursos linguísticos."
+      }
+    ],
+    "eixo_cognitivo": {
+      "id": "III",
+      "nome": "Enfrentar situações-problema (SP)",
+      "descricao": "selecionar, organizar, relacionar, interpretar dados e informações representados de diferentes formas, para tomar decisões e enfrentar situações-problema."
+    }
+  },
+  "classificacao_de_conteudo": {
+    "conteudo_principal": "Estudo do texto argumentativo, seus gêneros e recursos linguísticos",
+    "conteudos_relacionados": [
+      "Estudo do texto: as sequências discursivas e os gêneros textuais no sistema de comunicação e informação"
+    ],
+    "assunto": "Análise de tirinha humorística e crítica social",
+    "objeto_de_analise": "Recursos verbais e não verbais em HQ",
+    "fenomeno_conceito": "Humor e crítica por meio da ironia e da representação gráfica de renúncias drásticas associadas à gravidez"
+  },
+  "analise_alternativas": [
+    {
+      "alternativa": "A",
+      "correta": false,
+      "justificativa": "A tirinha não reforça diretamente a luta por direitos civis, mas utiliza o humor cáustico para tratar de uma situação cotidiana específica de restrição de liberdade imposta pela gravidez."
+    },
+    {
+      "alternativa": "B",
+      "correta": false,
+      "justificativa": "A fala final explicita justamente a perda temporária de autonomia e a imposição de restrições severas à vida da mulher, e não a sua autonomia."
+    },
+    {
+      "alternativa": "C",
+      "correta": false,
+      "justificativa": "O foco da crítica não é a igualdade de gênero em si, mas sim a renúncia de prazeres e hábitos em função da maternidade."
+    },
+    {
+      "alternativa": "D",
+      "correta": true,
+      "justificativa": "O personagem faz um longo discurso de renúncias extremas à vida folgaza, à beleza física e aos prazeres mundanos, associando a gravidez e a maternidade a uma abdicação severa da vida social, o que se confirma no desfecho da tirinha."
+    },
+    {
+      "alternativa": "E",
+      "correta": false,
+      "justificativa": "A tirinha ironiza as renúncias pessoais decorrentes da gestação e não as obrigações sociais da maternidade em termos de deveres legais ou parentais."
+    }
+  ],
+  "auditoria_da_ia": {
+    "modelo": "gpt-4o",
+    "versao": "2024-05-13",
+    "datetime": "2024-10-27T00:00:00",
+    "confianca": 0.95,
+    "evidencias": [
+      "A questão aborda uma tirinha de Henfil dos anos 1970.",
+      "O gabarito oficial do ENEM 2021 para a questão 13 (caderno azul) é a alternativa D.",
+      "A habilidade H21 mapeia perfeitamente o reconhecimento do uso de recursos verbais e não-verbais para criar sentidos em textos."
+    ],
+    "proveniencia": {
+      "arquivo_questao": "enem_2021_q13",
+      "arquivo_matriz": "matriz_enem_oficial"
+    },
+    "validacao_humana": {
+      "validado": false,
+      "data_validacao": null
+    }
+  },
+  "estudante": {
+    "nome_completo": "Michael Patrick Almeida",
+    "colegio": "CCM Darcy José Costa",
+    "turma": "3B"
+  }
+}

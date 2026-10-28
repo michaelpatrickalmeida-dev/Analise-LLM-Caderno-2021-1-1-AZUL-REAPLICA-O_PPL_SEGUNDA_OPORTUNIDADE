@@ -1,0 +1,105 @@
+{
+  "questao": {
+    "identificacao_caderno": {
+      "ano": 2021,
+      "dia": 1,
+      "numero": 1,
+      "cor": "AZUL",
+      "aplicacao": "REAPLICAÇÃO_PPL_SEGUNDA_OPORTUNIDADE"
+    },
+    "identificacao_questao": {
+      "numero": 10,
+      "espanhol": false,
+      "ingles": false
+    },
+    "conteudo_questao": {
+      "link_imagem": null,
+      "caminho_texto": "textos_extraidos/questao-10.txt",
+      "gabarito": "E"
+    }
+  },
+  "classificacao_matriz": {
+    "area": {
+      "id": "LC",
+      "nome": "Linguagens, Códigos e suas Tecnologias"
+    },
+    "competencia": {
+      "id": "C7",
+      "descricao": "Confrontar opiniões e pontos de vista sobre as diferentes linguagens e suas manifestações específicas."
+    },
+    "habilidade_principal": {
+      "id": "H23",
+      "descricao": "Inferir em um texto quais são os objetivos de seu produtor e quem é seu público alvo, pela análise dos procedimentos argumentativos utilizados."
+    },
+    "habilidades_relacionadas": [
+      {
+        "id": "H22",
+        "descricao": "Relacionar, em diferentes textos, opiniões, temas, assuntos e recursos linguísticos."
+      }
+    ],
+    "eixo_cognitivo": {
+      "id": "IV",
+      "nome": "Construir argumentação (CA)",
+      "descricao": "relacionar informações, representadas em diferentes formas, e conhecimentos disponíveis em situações concretas, para construir argumentação consistente."
+    }
+  },
+  "classificacao_de_conteudo": {
+    "conteudo_principal": "Estudo do texto argumentativo",
+    "conteudos_relacionados": [
+      "Gêneros textuais"
+    ],
+    "assunto": "Resenha crítica e estratégias argumentativas",
+    "objeto_de_analise": "Opinião implícita em trecho de resenha de filme",
+    "fenomeno_conceito": "Argumentação e subjetividade no texto crítico"
+  },
+  "analise_alternativas": [
+    {
+      "alternativa": "A",
+      "corretude": false,
+      "justificativa": "Trata-se de um dado biográfico e factual sobre o diretor e a premiação do filme no festival, e não de uma opinião implícita."
+    },
+    {
+      "alternativa": "B",
+      "corretude": false,
+      "justificativa": "Apresenta uma informação objetiva sobre o enredo e o personagem principal da obra cinematográfica."
+    },
+    {
+      "alternativa": "C",
+      "corretude": false,
+      "justificativa": "Descreve um recurso técnico utilizado na produção do filme (o uso da câmera), configurando constatação descritiva."
+    },
+    {
+      "alternativa": "D",
+      "corretude": false,
+      "justificativa": "Relata uma passagem da narrativa do filme, caracterizando constatação factual do enredo."
+    },
+    {
+      "alternativa": "E",
+      "corretude": true,
+      "justificativa": "Expressa um juízo de valor e uma opinião do autor da resenha ao avaliar a qualidade e a inovação da obra premiada, contendo um posicionamento subjetivo sobre o mérito do filme."
+    }
+  ],
+  "auditoria_da_ia": {
+    "modelo": "gpt-4o",
+    "versao": "2024-05-13",
+    "datetime": "2024-10-25T10:00:00Z",
+    "confianca": 0.99,
+    "evidencias": [
+      "A habilidade H23 aborda a inferência dos objetivos do produtor do texto por meio da análise de procedimentos argumentativos.",
+      "A alternativa E traz claramente um juízo de valor sobre o mérito da obra, caracterizando a opinião do autor."
+    ],
+    "proveniencia": {
+      "arquivo_questao": "ENEM 2021",
+      "arquivo_matriz": "Matriz ENEM Oficial"
+    },
+    "validacao_humana": {
+      "validado": false,
+      "data_validacao": null
+    }
+  },
+  "estudante": {
+    "nome_completo": "Michael Patrick Almeida",
+    "colegio": "CCM Darcy José Costa",
+    "turma": "3B"
+  }
+}

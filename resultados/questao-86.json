@@ -1,0 +1,74 @@
+{
+  "questao": {
+    "identificacao_caderno": {
+      "ano": 2021,
+      "dia": 1,
+      "numero": 1,
+      "cor": "AZUL",
+      "aplicacao": "REAPLICAÇÃO_PPL_SEGUNDA_OPORTUNIDADE"
+    },
+    "identificacao_questao": {
+      "numero": 86,
+      "espanhol": false,
+      "ingles": false
+    },
+    "conteudo_questao": {
+      "link_imagem": null,
+      "caminho_texto": "textos_extraidos/questao-86.txt",
+      "gabarito": "B"
+    }
+  },
+  "classificacao_matriz": {
+    "area": {
+      "id": "CH",
+      "nome": "Ciências Humanas e suas Tecnologias"
+    },
+    "competencia": {
+      "id": "C5",
+      "descricao": "Utilizar os conhecimentos históricos para compreender e valorizar os fundamentos da cidadania e da democracia, favorecendo uma atuação consciente do indivíduo na sociedade."
+    },
+    "habilidade_principal": {
+      "id": "H23",
+      "descricao": "Analisar a importância dos valores éticos na estruturação política das sociedades."
+    },
+    "habilidades_relacionadas": [],
+    "eixo_cognitivo": {
+      "id": "II",
+      "nome": "Compreender fenômenos (CF)",
+      "descricao": "construir e aplicar conceitos das várias áreas do conhecimento para a compreensão de fenômenos naturais, de processos histórico-geográficos, da produção tecnológica e das manifestações artísticas."
+    }
+  },
+  "classificacao_de_conteudo": {
+    "conteudo_principal": "Filosofia Moderna",
+    "conteudos_relacionados": [
+      "Epistemologia",
+      "Racionalismo"
+    ],
+    "assunto": "A metáfora da árvore do conhecimento em Descartes",
+    "objeto_de_analise": "A unidade do saber científico e filosófico na perspectiva cartesiana",
+    "fenomeno_conceito": "Árvore do conhecimento"
+  },
+  "analise_alternativas": [],
+  "auditoria_da_ia": {
+    "modelo": "GPT-4",
+    "versao": "2024",
+    "datetime": "2024-05-20T10:00:00",
+    "confianca": 0.95,
+    "evidencias": [
+      "O texto de Descartes apresenta a filosofia como uma árvore, mostrando a interconexão e a unidade entre os saberes (metafísica, física, medicina, mecânica e moral)."
+    ],
+    "proveniencia": {
+      "arquivo_questao": "enem_2021",
+      "arquivo_matriz": "matriz_enem"
+    },
+    "validacao_humana": {
+      "validado": false,
+      "data_validacao": null
+    }
+  },
+  "estudante": {
+    "nome_completo": "Michael Patrick Almeida",
+    "colegio": "CCM Darcy José Costa",
+    "turma": "3B"
+  }
+}

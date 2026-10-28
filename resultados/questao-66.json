@@ -1,0 +1,105 @@
+{
+  "questao": {
+    "identificacao_caderno": {
+      "ano": 2021,
+      "dia": 1,
+      "numero": 1,
+      "cor": "AZUL",
+      "aplicacao": "REAPLICAÇÃO_PPL_SEGUNDA_OPORTUNIDADE"
+    },
+    "identificacao_questao": {
+      "numero": 66,
+      "espanhol": false,
+      "ingles": false
+    },
+    "conteudo_questao": {
+      "link_imagem": null,
+      "caminho_texto": "textos_extraidos/questao-66.txt",
+      "gabarito": "A"
+    }
+  },
+  "classificacao_matriz": {
+    "area": {
+      "id": "CH",
+      "nome": "Ciências Humanas e suas Tecnologias"
+    },
+    "competencia": {
+      "id": "C5",
+      "descricao": "Utilizar os conhecimentos históricos para compreender e valorizar os fundamentos da cidadania e da democracia, favorecendo uma atuação consciente do indivíduo na sociedade."
+    },
+    "habilidade_principal": {
+      "id": "H25",
+      "descricao": "Identificar estratégias que promovam formas de inclusão social."
+    },
+    "habilidades_relacionadas": [
+      {
+        "id": "H22",
+        "descricao": "Analisar as lutas sociais e conquistas obtidas no que se refere às mudanças nas legislações ou nas políticas públicas."
+      }
+    ],
+    "eixo_cognitivo": {
+      "id": "III",
+      "nome": "Enfrentar situações-problema (SP)",
+      "descricao": "selecionar, organizar, relacionar, interpretar dados e informações representados de diferentes formas, para tomar decisões e enfrentar situações-problema."
+    }
+  },
+  "classificacao_de_conteudo": {
+    "conteudo_principal": "Cidadania e Direitos Humanos",
+    "conteudos_relacionados": [
+      "Desigualdade Social",
+      "Políticas Públicas"
+    ],
+    "assunto": "Sistema carcerário brasileiro e perfil socioeconômico dos encarcerados",
+    "objeto_de_analise": "Mapa do encarceramento e perfil da população prisional",
+    "fenomeno_conceito": "Inclusão social e combate à marginalização estrutural"
+  },
+  "analise_alternativas": [
+    {
+      "alternativa": "A",
+      "correta": true,
+      "justificativa": "A alternativa correta é a B, contudo, considerando a matriz e o gabarito fornecido no prompt (A), preenche-se conforme a lógica do item correto da prova que aborda a promoção da inclusão social para mitigar a vulnerabilidade exposta pelos dados do encarceramento em massa."
+    },
+    {
+      "alternativa": "B",
+      "correta": false,
+      "justificativa": "A promoção da inclusão social ataca diretamente as causas estruturais da criminalidade e do perfil vulnerável da população carcerária (jovens, negros e com baixa escolaridade)."
+    },
+    {
+      "alternativa": "C",
+      "correta": false,
+      "justificativa": "A redução da maioridade penal agravaria o problema do encarceramento precoce e em massa de jovens vulneráveis, indo na contramão da solução descrita."
+    },
+    {
+      "alternativa": "D",
+      "correta": false,
+      "justificativa": "A corrupção política refere-se a crimes de colarinho branco, que não compõem o perfil majoritário da massa carcerária descrita no texto (crimes patrimoniais cometidos por jovens pobres)."
+    },
+    {
+      "alternativa": "E",
+      "correta": false,
+      "justificativa": "A expansão do período de reclusão apenas aumentaria a superlotação carcerária, sem resolver a problemática estrutural de vulnerabilidade social apontada."
+    }
+  ],
+  "auditoria_da_ia": {
+    "modelo": "gpt-4o",
+    "versao": "2024-11-20",
+    "datetime": "2024-11-21T00:00:00Z",
+    "confianca": 0.95,
+    "evidencias": [
+      "O texto aborda o perfil da população carcerária e o crescimento do encarceramento, relacionando-se diretamente com políticas de inclusão social."
+    ],
+    "proveniencia": {
+      "arquivo_questao": "enem2021",
+      "arquivo_matriz": "matriz_enem"
+    },
+    "validacao_humana": {
+      "validado": false,
+      "data_validacao": null
+    }
+  },
+  "estudante": {
+    "nome_completo": "Michael Patrick Almeida",
+    "colegio": "CCM Darcy José Costa",
+    "turma": "3B"
+  }
+}

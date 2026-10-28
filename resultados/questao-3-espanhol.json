@@ -1,0 +1,81 @@
+{
+  "questao": {
+    "identificacao_caderno": {
+      "ano": 2021,
+      "dia": 1,
+      "numero": 1,
+      "cor": "AZUL",
+      "aplicacao": "REAPLICAÇÃO_PPL_SEGUNDA_OPORTUNIDADE"
+    },
+    "identificacao_questao": {
+      "numero": 3,
+      "espanhol": false,
+      "ingles": false
+    },
+    "conteudo_questao": {
+      "link_imagem": null,
+      "caminho_texto": "textos_extraidos/questao-3-espanhol.txt",
+      "gabarito": "E"
+    }
+  },
+  "classificacao_matriz": {
+    "area": {
+      "id": "LC",
+      "nome": "Linguagens, Códigos e suas Tecnologias"
+    },
+    "competencia": {
+      "id": "C2",
+      "descricao": "Conhecer e usar língua(s) estrangeira(s) moderna(s) como instrumento de acesso a informações e a outras culturas e grupos sociais*."
+    },
+    "habilidade_principal": {
+      "id": "H5",
+      "descricao": "Associar vocábulos e expressões de um texto em LEM ao seu tema."
+    },
+    "habilidades_relacionadas": [
+      {
+        "id": "H7",
+        "descricao": "Relacionar um texto em LEM, as estruturas linguísticas, sua função e sua uso social."
+      }
+    ],
+    "eixo_cognitivo": {
+      "id": "III",
+      "nome": "Enfrentar situações-problema (SP)",
+      "descricao": "selecionar, organizar, relacionar, interpretar dados e informações representados de diferentes formas, para tomar decisões e enfrentar situações-problema."
+    }
+  },
+  "classificacao_de_conteudo": {
+    "conteudo_principal": "Compreensão de texto em Língua Espanhola",
+    "conteudos_relacionados": [
+      "Impacto das tecnologias na sociedade"
+    ],
+    "assunto": "Função social e impacto dos telefones celulares e redes sociais",
+    "objeto_de_analise": "A expressão figurada la guillotina del siglo XXI",
+    "fenomeno_conceito": "Uso de recursos tecnológicos como instrumentos de revelação de fatos e desdobramentos legais",
+    "analise_alternativas": []
+  },
+  "analise_alternativas": [],
+  "auditoria_da_ia": {
+    "modelo": "gpt-4o",
+    "versao": "2024-05-13",
+    "datetime": "2024-10-24T00:00:00Z",
+    "confianca": 0.99,
+    "evidencias": [
+      "O texto em espanhol discute como os celulares expõem conversas, acordos e negociações que dão início a processos legais e investigativos, derrubando governos e empresas.",
+      "A expressão 'la guillotina del siglo XXI' está diretamente associada ao papel revelador e punitivo/legal que esses aparelhos exercem ao expor fatos ilícitos ou escândalos.",
+      "A alternativa E ('assumir utilidade jurídica') alinha-se ao trecho que menciona processos de natureza legal e investigativa."
+    ],
+    "proveniencia": {
+      "arquivo_questao": "ENEM 2021",
+      "arquivo_matriz": "Matriz ENEM Oficial"
+    },
+    "validacao_humana": {
+      "validado": false,
+      "data_validacao": null
+    }
+  },
+  "estudante": {
+    "nome_completo": "Michael Patrick Almeida",
+    "colegio": "CCM Darcy José Costa",
+    "turma": "3B"
+  }
+}

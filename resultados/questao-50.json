@@ -1,0 +1,101 @@
+{
+  "questao": {
+    "identificacao_caderno": {
+      "ano": 2021,
+      "dia": 1,
+      "numero": 1,
+      "cor": "AZUL",
+      "aplicacao": "REAPLICAÇÃO_PPL_SEGUNDA_OPORTUNIDADE"
+    },
+    "identificacao_questao": {
+      "numero": 50,
+      "espanhol": false,
+      "ingles": false
+    },
+    "conteudo_questao": {
+      "link_imagem": null,
+      "caminho_texto": "textos_extraidos/questao-50.txt",
+      "gabarito": "A"
+    }
+  },
+  "classificacao_matriz": {
+    "area": {
+      "id": "CH",
+      "nome": "Ciências Humanas e suas Tecnologias"
+    },
+    "competencia": {
+      "id": "C2",
+      "descricao": "Compreender as transformações dos espaços geográficos como produto das relações socioeconômicas e culturais de poder."
+    },
+    "habilidade_principal": {
+      "id": "H7",
+      "descricao": "Identificar os significados histórico-geográficos das relações de poder entre as nações"
+    },
+    "habilidades_relacionadas": [],
+    "eixo_cognitivo": {
+      "id": "II",
+      "nome": "Compreender fenômenos (CF)",
+      "descricao": "construir e aplicar conceitos das várias áreas do conhecimento para a compreensão de fenômenos naturais, de processos histórico-geográficos, da produção tecnológica e das manifestações artísticas."
+    }
+  },
+  "classificacao_de_conteudo": {
+    "conteudo_principal": "Globalização e divisão internacional do trabalho",
+    "conteudos_relacionados": [
+      "Impactos ambientais",
+      "Geografia econômica"
+    ],
+    "assunto": "Lixo eletrônico e desigualdade global",
+    "objeto_de_analise": "A exportação de resíduos eletrônicos dos países industrializados para países periféricos",
+    "fenomeno_conceito": "Divisão internacional do trabalho"
+  },
+  "analise_alternativas": [
+    {
+      "alternativa": "A",
+      "correta": false,
+      "justificativa": "A exportação e queima informal de lixo eletrônico violam direitos básicos e humanos, sendo o oposto do exercício pleno da cidadania."
+    },
+    {
+      "alternativa": "B",
+      "correta": true,
+      "justificativa": "O texto descreve a transferência de etapas poluentes e o descarte de resíduos do mundo industrializado para países periféricos, refletindo as desigualdades da divisão internacional do trabalho."
+    },
+    {
+      "alternativa": "C",
+      "correta": false,
+      "justificativa": "O toyotismo refere-se a um modelo de organização da produção industrial flexível e não ao comércio ou descarte internacional de lixo eletrônico."
+    },
+    {
+      "alternativa": "D",
+      "correta": false,
+      "justificativa": "A queima ao ar livre e a exportação de resíduos tóxicos contradizem frontalmente a concepção sustentável da economia."
+    },
+    {
+      "alternativa": "E",
+      "correta": false,
+      "justificativa": "O protecionismo alfandegário envolve tarifas para proteger a indústria nacional, o que não se aplica ao tráfico e desmonte informal de lixo eletrônico descrito."
+    }
+  ],
+  "auditoria_da_ia": {
+    "modelo": "gpt-4o",
+    "versao": "2024-05-13",
+    "datetime": "2024-10-27T00:00:00Z",
+    "confianca": 1.0,
+    "evidencias": [
+      "A questão aborda a exportação de lixo eletrônico dos países ricos para Gana, evidenciando a relação desigual de produção e descarte no sistema capitalista global.",
+      "A alternativa B corresponde diretamente à Divisão Internacional do Trabalho no contexto de fluxos de mercadorias, resíduos e desigualdades globais."
+    ],
+    "proveniencia": {
+      "arquivo_questao": "enem2021_q50",
+      "arquivo_matriz": "matriz_enem"
+    },
+    "validacao_humana": {
+      "validado": false,
+      "data_validacao": null
+    }
+  },
+  "estudante": {
+    "nome_completo": "Michael Patrick Almeida",
+    "colegio": "CCM Darcy José Costa",
+    "turma": "3B"
+  }
+}

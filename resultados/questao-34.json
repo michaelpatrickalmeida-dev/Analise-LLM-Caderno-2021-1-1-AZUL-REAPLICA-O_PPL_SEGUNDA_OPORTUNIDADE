@@ -1,0 +1,104 @@
+{
+  "questao": {
+    "identificacao_caderno": {
+      "ano": 2021,
+      "dia": 1,
+      "numero": 1,
+      "cor": "AZUL",
+      "aplicacao": "REAPLICAÇÃO_PPL_SEGUNDA_OPORTUNIDADE"
+    },
+    "identificacao_questao": {
+      "numero": 34,
+      "espanhol": false,
+      "ingles": false
+    },
+    "conteudo_questao": {
+      "link_imagem": null,
+      "caminho_texto": "textos_extraidos/questao-34.txt",
+      "gabarito": "A"
+    }
+  },
+  "classificacao_matriz": {
+    "area": {
+      "id": "LC",
+      "nome": "Linguagens, Códigos e suas Tecnologias"
+    },
+    "competencia": {
+      "id": "C7",
+      "descricao": "Confrontar opiniões e pontos de vista sobre as diferentes linguagens e suas manifestações específicas."
+    },
+    "habilidade_principal": {
+      "id": "H21",
+      "descricao": "Reconhecer em textos de diferentes gêneros, recursos verbais e não-verbais utilizados com a finalidade de criar e mudar comportamentos e hábitos."
+    },
+    "habilidades_relacionadas": [
+      "H18",
+      "H22"
+    ],
+    "eixo_cognitivo": {
+      "id": "III",
+      "nome": "Enfrentar situações-problema (SP)",
+      "descricao": "selecionar, organizar, relacionar, interpretar dados e informações representados de diferentes formas, para tomar decisões e enfrentar situações-problema."
+    }
+  },
+  "classificacao_de_conteudo": {
+    "conteudo_principal": "Estudo do texto: gêneros textuais e multissemióticos",
+    "conteudos_relacionados": [
+      "Funções da linguagem",
+      "Estratégias argumentativas"
+    ],
+    "assunto": "Análise de infográfico e seus objetivos comunicativos",
+    "objeto_de_analise": "Recursos verbais e não verbais em infográfico jornalístico-científico",
+    "fenomeno_conceito": "Multimodalidade e divulgação científica"
+  },
+  "analise_alternativas": [
+    {
+      "alternativa": "A",
+      "correta": true,
+      "justificativa": "O texto utiliza recursos verbais e não verbais para apresentar os resultados de um estudo científico do King's College sobre os impactos do uso de celulares por crianças antes de dormir, cumprindo o objetivo de divulgar informações científicas."
+    },
+    {
+      "alternativa": "B",
+      "correta": false,
+      "justificativa": "Embora traga recomendações no final, o objetivo central do infográfico baseado em um estudo científico é a divulgação de dados e informações científicas, e não primariamente persuadir a mudança de hábitos."
+    },
+    {
+      "alternativa": "C",
+      "correta": false,
+      "justificativa": "O texto não aborda a falta de exercícios físicos, mas sim os distúrbios do sono e seus reflexos hormonais e cognitivos causados pelo uso de telas."
+    },
+    {
+      "alternativa": "D",
+      "correta": false,
+      "justificativa": "A indicação de medidas é secundária em relação à exposição principal dos riscos embasados em estudo científico."
+    },
+    {
+      "alternativa": "E",
+      "correta": false,
+      "justificativa": "O texto não sugere a substituição de dispositivos móveis por atividades lúdicas, mas sim a restrição de tempo de uso antes de dormir."
+    }
+  ],
+  "auditoria_da_ia": {
+    "modelo": "gpt-4o",
+    "versao": "2024-05-13",
+    "datetime": "2024-10-24T10:00:00Z",
+    "confianca": 1.0,
+    "evidencias": [
+      "A questão aborda a interpretação de um infográfico que sintetiza dados de uma pesquisa científica.",
+      "A habilidade H21 está diretamente ligada ao reconhecimento de recursos verbais e não verbais em gêneros textuais variados."
+    ],
+    "proveniencia": {
+      "arquivo_questao": "ENEM 2021",
+      "arquivo_matriz": "Matriz ENEM Oficial"
+    },
+    "validacao_humana": {
+      "validado": false,
+      "data_validacao": null
+    }
+  },
+  "estudante": {
+    "nome_completo": "Michael Patrick Almeida",
+    "colegio": "CCM Darcy José Costa",
+    "turma": "3B"
+  }
+}

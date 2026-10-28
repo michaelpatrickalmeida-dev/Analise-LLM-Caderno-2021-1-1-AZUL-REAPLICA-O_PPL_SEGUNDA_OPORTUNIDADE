@@ -1,0 +1,106 @@
+{
+  "questao": {
+    "identificacao_caderno": {
+      "ano": 2021,
+      "dia": 1,
+      "numero": 1,
+      "cor": "AZUL",
+      "aplicacao": "REAPLICAÇÃO_PPL_SEGUNDA_OPORTUNIDADE"
+    },
+    "identificacao_questao": {
+      "numero": 59,
+      "espanhol": false,
+      "ingles": false
+    },
+    "conteudo_questao": {
+      "link_imagem": null,
+      "caminho_texto": "textos_extraidos/questao-59.txt",
+      "gabarito": "E"
+    }
+  },
+  "classificacao_matriz": {
+    "area": {
+      "id": "CH",
+      "nome": "Ciências Humanas e suas Tecnologias"
+    },
+    "competencia": {
+      "id": "C1",
+      "descricao": "Compreender os elementos culturais que constituem as identidades"
+    },
+    "habilidade_principal": {
+      "id": "H1",
+      "descricao": "Interpretar historicamente e/ou geograficamente fontes documentais acerca de aspectos da cultura."
+    },
+    "habilidades_relacionadas": [
+      {
+        "id": "H3",
+        "descricao": "Associar as manifestações culturais do presente aos seus processos históricos."
+      }
+    ],
+    "eixo_cognitivo": {
+      "id": "II",
+      "nome": "Compreender fenômenos (CF)",
+      "descricao": "construir e aplicar conceitos das várias áreas do conhecimento para a compreensão de fenômenos naturais, de processos histórico-geográficos, da produção tecnológica e das manifestações artísticas."
+    }
+  },
+  "classificacao_de_conteudo": {
+    "conteudo_principal": "Diversidade cultural e saberes tradicionais",
+    "conteudos_relacionados": [
+      "Relação homem-natureza",
+      "Conhecimento popular"
+    ],
+    "assunto": "Saberes tradicionais do sertanejo",
+    "objeto_de_analise": "Previsão do tempo baseada na observação da natureza",
+    "fenomeno_conceito": "Experiência perceptiva e conhecimento empírico"
+  },
+  "analise_alternativas": [
+    {
+      "alternativa": "A",
+      "correta": false,
+      "justificativa": "O texto aborda o conhecimento popular e tradicional, e não a técnica científica formal."
+    },
+    {
+      "alternativa": "B",
+      "correta": true,
+      "justificativa": "O conhecimento é construído através da observação detalhada dos fenômenos naturais e da vivência cotidiana (experiência perceptiva)."
+    },
+    {
+      "alternativa": "C",
+      "correta": false,
+      "justificativa": "O texto demonstra a valorização e a manutenção das tradições, e não a sua negação."
+    },
+    {
+      "alternativa": "D",
+      "correta": false,
+      "justificativa": "O saber descrito é específico de uma cultura regional e não promove a padronização das culturas."
+    },
+    {
+      "alternativa": "E",
+      "correta": false,
+      "justificativa": "As observações são saberes locais e tradicionais, não se tratando de uniformização de informações."
+    }
+  ],
+  "auditoria_da_ia": {
+    "modelo": "GPT-4",
+    "versao": "2024",
+    "datetime": "2024-05-24T10:00:00",
+    "confianca": 0.95,
+    "evidencias": [
+      "O texto relata a acuidade detalhada para a observação dos fenômenos naturais no semiárido.",
+      "A alternativa B sintetiza corretamente a ideia de conhecimento empírico fundamentado na percepção do ambiente."
+    ],
+    "proveniencia": {
+      "arquivo_questao": "enem2021_q59",
+      "arquivo_matriz": "matriz_enem"
+    },
+    "validacao_humana": {
+      "validado": false,
+      "data_validacao": null
+    }
+  },
+  "estudante": {
+    "nome_completo": "Michael Patrick Almeida",
+    "colegio": "CCM Darcy José Costa",
+    "turma": "3B"
+  }
+}

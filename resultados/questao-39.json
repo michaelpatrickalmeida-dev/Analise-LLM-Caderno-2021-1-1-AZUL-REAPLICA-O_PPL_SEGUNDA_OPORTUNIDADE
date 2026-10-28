@@ -1,0 +1,105 @@
+{
+  "questao": {
+    "identificacao_caderno": {
+      "ano": 2021,
+      "dia": 1,
+      "numero": 1,
+      "cor": "AZUL",
+      "aplicacao": "REAPLICAÇÃO_PPL_SEGUNDA_OPORTUNIDADE"
+    },
+    "identificacao_questao": {
+      "numero": 39,
+      "espanhol": false,
+      "ingles": false
+    },
+    "conteudo_questao": {
+      "link_imagem": null,
+      "caminho_texto": "textos_extraidos/questao-39.txt",
+      "gabarito": "D"
+    }
+  },
+  "classificacao_matriz": {
+    "area": {
+      "id": "Linguagens, Códigos e suas Tecnologias",
+      "nome": "Linguagens, Códigos e suas Tecnologias"
+    },
+    "competencia": {
+      "id": "C8",
+      "descricao": "Compreender e usar a língua portuguesa como língua materna, geradora de significação e integradora da organização do mundo e da própria identidade."
+    },
+    "habilidade_principal": {
+      "id": "H25",
+      "descricao": "Identificar, em textos de diferentes gêneros, as marcas linguísticas que singularizam as variedades linguísticas sociais, regionais e de registro."
+    },
+    "habilidades_relacionadas": [
+      {
+        "id": "H26",
+        "descricao": "Relacionar as variedades linguísticas a situações específicas de uso social."
+      }
+    ],
+    "eixo_cognitivo": {
+      "id": "III",
+      "nome": "Enfrentar situações-problema (SP)",
+      "descricao": "selecionar, organizar, relacionar, interpretar dados e informações representados de diferentes formas, para tomar decisões e enfrentar situações-problema."
+    }
+  },
+  "classificacao_de_conteudo": {
+    "conteudo_principal": "Variação linguística e marcas de informalidade",
+    "conteudos_relacionados": [
+      "Gênero textual letra de canção"
+    ],
+    "assunto": "Estudo dos aspectos linguísticos da língua portuguesa",
+    "objeto_de_analise": "Letra de samba de Nelson Sargento",
+    "fenomeno_conceito": "Registro informal e coloquialidade na língua"
+  },
+  "analise_alternativas": [
+    {
+      "alternativa": "A",
+      "correta": false,
+      "justificativa": "A expressão 'pros bailes' apresenta marca informal, mas 'falação' é um substantivo derivado comum na norma padrão, embora coloquial em alguns contextos."
+    },
+    {
+      "alternativa": "B",
+      "correta": false,
+      "justificativa": "'Você' é um pronome de tratamento amplamente utilizado na norma culta moderna e 'teatro de revista' é um termo formal para um gênero artístico."
+    },
+    {
+      "alternativa": "C",
+      "correta": false,
+      "justificativa": "Ambos os termos ('perfeito' e 'Carnaval') pertencem ao vocabulário formal e padrão da língua portuguesa."
+    },
+    {
+      "alternativa": "D",
+      "correta": true,
+      "justificativa": "As expressões 'bebe bem' (no sentido de beber exageradamente) e a situação de ir ao oculista para 'curar ressaca' exemplificam o uso de marcas informais e coloquiais na letra de samba."
+    },
+    {
+      "alternativa": "E",
+      "correta": false,
+      "justificativa": "O verbo 'curar' e a expressão nominal 'falso moralista' não configuram exclusivamente marcas de variação informal ou coloquial."
+    }
+  ],
+  "auditoria_da_ia": {
+    "modelo": "gpt-4o",
+    "versao": "2024-05-13",
+    "datetime": "2024-10-24T10:00:00",
+    "confianca": 0.95,
+    "evidencias": [
+      "A questão aborda marcas linguísticas de informalidade em letra de samba.",
+      "A habilidade H25 da matriz de Linguagens foca na identificação de marcas linguísticas que singularizam variedades linguísticas."
+    ],
+    "proveniencia": {
+      "arquivo_questao": "ENEM 2021",
+      "arquivo_matriz": "Matriz ENEM Oficial"
+    },
+    "validacao_humana": {
+      "validado": false,
+      "data_validacao": null
+    }
+  },
+  "estudante": {
+    "nome_completo": "Michael Patrick Almeida",
+    "colegio": "CCM Darcy José Costa",
+    "turma": "3B"
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "questao": {
+    "identificacao_caderno": {
+      "ano": 2021,
+      "dia": 1,
+      "numero": 1,
+      "cor": "AZUL",
+      "aplicacao": "REAPLICAÇÃO_PPL_SEGUNDA_OPORTUNIDADE"
+    },
+    "identificacao_questao": {
+      "numero": 44,
+      "espanhol": false,
+      "ingles": false
+    },
+    "conteudo_questao": {
+      "link_imagem": null,
+      "caminho_texto": "textos_extraidos/questao-44.txt",
+      "gabarito": "B"
+    }
+  },
+  "classificacao_matriz": {
+    "area": {
+      "id": "MT",
+      "nome": "Matemática e suas Tecnologias"
+    },
+    "competencia": {
+      "id": "C1",
+      "descricao": "Construir significados para os números naturais, inteiros, racionais e reais."
+    },
+    "habilidade_principal": {
+      "id": "H3",
+      "descricao": "Resolver situação-problema envolvendo conhecimentos numéricos."
+    },
+    "habilidades_relacionadas": [],
+    "eixo_cognitivo": {
+      "id": "III",
+      "nome": "Enfrentar situações-problema (SP)",
+      "descricao": "selecionar, organizar, relacionar, interpretar dados e informações representados de diferentes formas, para tomar decisões e enfrentar situações-problema."
+    }
+  },
+  "classificacao_de_conteudo": {
+    "conteudo_principal": "Razões e proporções",
+    "conteudos_relacionados": [],
+    "assunto": "Aritmética",
+    "objeto_de_analise": "Operações em conjuntos numéricos",
+    "fenomeno_conceito": "Proporcionalidade"
+  },
+  "analise_alternativas": [],
+  "auditoria_da_ia": {
+    "modelo": "gpt-4o",
+    "versao": "2024-05-13",
+    "datetime": "2026-06-06T00:00:00Z",
+    "confianca": 0.8,
+    "evidencias": [
+      "Questão de Matemática focada em conhecimentos numéricos e razões/proporções."
+    ],
+    "proveniencia": {
+      "arquivo_questao": "enem_2021",
+      "arquivo_matriz": "matriz_enem"
+    },
+    "validacao_humana": {
+      "validado": false,
+      "data_validacao": null
+    }
+  },
+  "estudante": {
+    "nome_completo": "Michael Patrick Almeida",
+    "colegio": "CCM Darcy José Costa",
+    "turma": "3B"
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "questao": {
+    "identificacao_caderno": {
+      "ano": 2021,
+      "dia": 1,
+      "numero": 1,
+      "cor": "AZUL",
+      "aplicacao": "REAPLICAÇÃO_PPL_SEGUNDA_OPORTUNIDADE"
+    },
+    "identificacao_questao": {
+      "numero": 90,
+      "espanhol": false,
+      "ingles": false
+    },
+    "conteudo_questao": {
+      "link_imagem": null,
+      "caminho_texto": "textos_extraidos/questao-90.txt",
+      "gabarito": "B"
+    }
+  },
+  "classificacao_matriz": {
+    "area": {
+      "id": "CH",
+      "nome": "Ciências Humanas e suas Tecnologias"
+    },
+    "competencia": {
+      "id": "C3",
+      "descricao": "Compreender a produção e o papel histórico das instituições sociais, políticas e econômicas, associando-as aos diferentes grupos, conflitos e movimentos sociais."
+    },
+    "habilidade_principal": {
+      "id": "H11",
+      "descricao": "Identificar registros de práticas de grupos sociais no tempo e no espaço."
+    },
+    "habilidades_relacionadas": [
+      {
+        "id": "H1",
+        "descricao": "Interpretar historicamente e/ou geograficamente fontes documentais acerca de aspectos da cultura."
+      }
+    ],
+    "eixo_cognitivo": {
+      "id": "III",
+      "nome": "Enfrentar situações-problema (SP)",
+      "descricao": "selecionar, organizar, relacionar, interpretar dados e informações representados de diferentes formas, para tomar decisões e enfrentar situações-problema."
+    }
+  },
+  "classificacao_de_conteudo": {
+    "conteudo_principal": "Escravidão no Brasil colonial e imperial",
+    "conteudos_relacionados": [
+      "História do Brasil",
+      "Hierarquia social"
+    ],
+    "assunto": "Trabalho escravo urbano e divisões sociais",
+    "objeto_de_analise": "A prática do transporte de dejetos por pessoas escravizadas e sua relação com as estruturas sociais da época",
+    "fenomeno_conceito": "Hierarquização social e estigmatização do trabalho na sociedade escravista"
+  },
+  "analise_alternativas": [
+    {
+      "alternativa": "A",
+      "correta": false,
+      "justificativa": "O trabalho braçal era estigmatizado e associado à degradação da escravidão, não valorizado positivamente pela sociedade livre."
+    },
+    {
+      "alternativa": "B",
+      "correta": true,
+      "justificativa": "A atribuição das tarefas mais repulsivas aos escravizados de menor status reforça as profundas assimetrias e hierarquias da sociedade escravista."
+    },
+    {
+      "alternativa": "C",
+      "correta": false,
+      "justificativa": "Não há sacralização das atividades laborais, mas sim uma imposição punitiva ou degradante direcionada aos escravizados."
+    },
+    {
+      "alternativa": "D",
+      "correta": false,
+      "justificativa": "A prática evidencia a extrema exclusão e marginalização econômica e social, e não a sua superação."
+    },
+    {
+      "alternativa": "E",
+      "correta": false,
+      "justificativa": "O texto e a imagem tratam de uma imposição de trabalho degradante e da estrutura social, sem relação direta com ressignificação de heranças religiosas."
+    }
+  ],
+  "auditoria_da_ia": {
+    "modelo": "GPT-4",
+    "versao": "2025-01",
+    "datetime": "2025-05-18T10:00:00Z",
+    "confianca": 0.99,
+    "evidencias": [
+      "A questão aborda a escravidão urbana no Brasil e a divisão social do trabalho.",
+      "A alternativa B aponta corretamente a reiteração das hierarquias sociais na atribuição das tarefas mais vis aos escravizados."
+    ],
+    "proveniencia": {
+      "arquivo_questao": "ENEM 2021",
+      "arquivo_matriz": "Matriz ENEM Oficial"
+    },
+    "validacao_humana": {
+      "validado": false,
+      "data_validacao": null
+    }
+  },
+  "estudante": {
+    "nome_completo": "Michael Patrick Almeida",
+    "colegio": "CCM Darcy José Costa",
+    "turma": "3B"
+  }
+}

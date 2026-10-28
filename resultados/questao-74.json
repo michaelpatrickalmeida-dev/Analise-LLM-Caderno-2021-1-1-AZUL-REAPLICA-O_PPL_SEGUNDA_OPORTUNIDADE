@@ -1,0 +1,105 @@
+{
+  "questao": {
+    "identificacao_caderno": {
+      "ano": 2021,
+      "dia": 1,
+      "numero": 1,
+      "cor": "AZUL",
+      "aplicacao": "REAPLICAÇÃO_PPL_SEGUNDA_OPORTUNIDADE"
+    },
+    "identificacao_questao": {
+      "numero": 74,
+      "espanhol": false,
+      "ingles": false
+    },
+    "conteudo_questao": {
+      "link_imagem": null,
+      "caminho_texto": "textos_extraidos/questao-74.txt",
+      "gabarito": "B"
+    }
+  },
+  "classificacao_matriz": {
+    "area": {
+      "id": "CH",
+      "nome": "Ciências Humanas e suas Tecnologias"
+    },
+    "competencia": {
+      "id": "C1",
+      "descricao": "Compreender os elementos culturais que constituem as identidades"
+    },
+    "habilidade_principal": {
+      "id": "H1",
+      "descricao": "Interpretar historicamente e/ou geograficamente fontes documentais acerca de aspectos da cultura."
+    },
+    "habilidades_relacionadas": [
+      {
+        "id": "H2",
+        "descricao": "Analisar a produção da memória pelas sociedades humanas."
+      }
+    ],
+    "eixo_cognitivo": {
+      "id": "III",
+      "nome": "Enfrentar situações-problema (SP)",
+      "descricao": "selecionar, organizar, relacionar, interpretar dados e informações representados de diferentes formas, para tomar decisões e enfrentar situações-problema."
+    }
+  },
+  "classificacao_de_conteudo": {
+    "conteudo_principal": "Diversidade cultural, conflitos e vida em sociedade",
+    "conteudos_relacionados": [
+      "História dos povos indígenas e a formação sócio-cultural brasileira"
+    ],
+    "assunto": "Ciganos no período colonial e imposição cultural",
+    "objeto_de_analise": "Carta da Coroa portuguesa sobre o banimento e proibição da língua dos ciganos",
+    "fenomeno_conceito": "Etnocentrismo e intolerância cultural do Estado colonial"
+  },
+  "analise_alternativas": [
+    {
+      "alternativa": "A",
+      "correta": false,
+      "justificativa": "O texto aborda a proibição da língua e o banimento por 'escandaloso procedimento', e não uma tentativa de conversão religiosa de infiéis."
+    },
+    {
+      "alternativa": "B",
+      "correta": true,
+      "justificativa": "A ordem da Coroa em banir os ciganos e proibir o uso de sua língua materna evidencia uma política de repressão e supressão de formas divergentes de interação social e cultural."
+    },
+    {
+      "alternativa": "C",
+      "correta": false,
+      "justificativa": "A medida descrita refere-se ao controle cultural e comportamental de um grupo específico, não tendo relação com a prevenção ao envolvimento estrangeiro na economia."
+    },
+    {
+      "alternativa": "D",
+      "correta": false,
+      "justificativa": "Os ciganos foram banidos por seu 'escandaloso procedimento' e imposição de leis linguísticas, e não por estarem engajados em revoltas nativistas."
+    },
+    {
+      "alternativa": "E",
+      "correta": false,
+      "justificativa": "Embora envolva cultura, o foco da medida não era a produção artística de comunidades autóctones (indígenas), mas sim o controle e apagamento da identidade do povo cigano."
+    }
+  ],
+  "auditoria_da_ia": {
+    "modelo": "GPT-4",
+    "versao": "2024",
+    "datetime": "2023-10-27T00:00:00Z",
+    "confianca": 1.0,
+    "evidencias": [
+      "O texto menciona a proibição do uso da língua habitual dos ciganos e o banimento por ordem da Coroa portuguesa.",
+      "A habilidade H1 da Matriz de Ciências Humanas trata de interpretar fontes documentais acerca da cultura."
+    ],
+    "proveniencia": {
+      "arquivo_questao": "ENEM 2021",
+      "arquivo_matriz": "Matriz ENEM"
+    },
+    "validacao_humana": {
+      "validado": true,
+      "data_validacao": "2023-10-27"
+    }
+  },
+  "estudante": {
+    "nome_completo": "Michael Patrick Almeida",
+    "colegio": "CCM Darcy José Costa",
+    "turma": "3B"
+  }
+}

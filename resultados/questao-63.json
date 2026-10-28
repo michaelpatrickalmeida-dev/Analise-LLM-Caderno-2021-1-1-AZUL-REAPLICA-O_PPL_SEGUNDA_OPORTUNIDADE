@@ -1,0 +1,105 @@
+{
+  "questao": {
+    "identificacao_caderno": {
+      "ano": 2021,
+      "dia": 1,
+      "numero": 1,
+      "cor": "AZUL",
+      "aplicacao": "REAPLICAÇÃO_PPL_SEGUNDA_OPORTUNIDADE"
+    },
+    "identificacao_questao": {
+      "numero": 63,
+      "espanhol": false,
+      "ingles": false
+    },
+    "conteudo_questao": {
+      "link_imagem": null,
+      "caminho_texto": "textos_extraidos/questao-63.txt",
+      "gabarito": "A"
+    }
+  },
+  "classificacao_matriz": {
+    "area": {
+      "id": "CH",
+      "nome": "Ciências Humanas e suas Tecnologias"
+    },
+    "competencia": {
+      "id": "C2",
+      "descricao": "Compreender as transformações dos espaços geográficos como produto das relações socioeconômicas e culturais de poder."
+    },
+    "habilidade_principal": {
+      "id": "H8",
+      "descricao": "Analisar a ação dos estados nacionais no que se refere à dinâmica dos fluxos populacionais e no enfrentamento de problemas de ordem econômico-social."
+    },
+    "habilidades_relacionadas": [
+      {
+        "id": "H10",
+        "descricao": "Reconhecer a dinâmica da organização dos movimentos sociais e a importância da participação da coletividade na transformação da realidade histórico-geográfica."
+      }
+    ],
+    "eixo_cognitivo": {
+      "id": "III",
+      "nome": "Enfrentar situações-problema (SP)",
+      "descricao": "selecionar, organizar, relacionar, interpretar dados e informações representados de diferentes formas, para tomar decisões e enfrentar situações-problema."
+    }
+  },
+  "classificacao_de_conteudo": {
+    "conteudo_principal": "Conflitos socioambientais e territoriais",
+    "conteudos_relacionados": [
+      "Impactos da mineração",
+      "Povos tradicionais"
+    ],
+    "assunto": "Conflitos pelo uso do território na Amazônia mineral",
+    "objeto_de_analise": "As consequências sociais e territoriais da instalação de atividades mineradoras sobre comunidades tradicionais.",
+    "fenomeno_conceito": "Rompimento de vínculos locais e esgarçamento das relações sociais tradicionais."
+  },
+  "analise_alternativas": [
+    {
+      "alternativa": "A",
+      "correta": false,
+      "justificativa": "O texto aborda a destruição das dinâmicas territoriais e sociais, e não especificamente a escassez de incentivo cultural."
+    },
+    {
+      "alternativa": "B",
+      "correta": true,
+      "justificativa": "O texto aponta que a atividade mineradora provoca o esgarçamento das relações sociais e a dificuldade de reproduzir dinâmicas territoriais, caracterizando o rompimento de vínculos locais e identitários."
+    },
+    {
+      "alternativa": "C",
+      "correta": false,
+      "justificativa": "A atividade mineradora envolve altos investimentos financeiros; o problema central destacado é o impacto social e territorial negativo sobre as comunidades, não a carência de investimentos."
+    },
+    {
+      "alternativa": "D",
+      "correta": false,
+      "justificativa": "A mineração não estabelece práticas agroecológicas, sendo frequentemente oposta a esse modelo."
+    },
+    {
+      "alternativa": "E",
+      "correta": false,
+      "justificativa": "O texto demonstra que as comunidades sofrem perdas sociais e territoriais, ficando muitas vezes sem compensação, o que contradiz a ideia de enriquecimento."
+    }
+  ],
+  "auditoria_da_ia": {
+    "modelo": "gpt-4o",
+    "versao": "2024-05-13",
+    "datetime": "2026-06-05T10:00:00Z",
+    "confianca": 0.98,
+    "evidencias": [
+      "O texto relata conflitos entre a mineração e povos tradicionais, destacando o esgarçamento das relações sociais e a reconstrução abrupta de identidades."
+    ],
+    "proveniencia": {
+      "arquivo_questao": "enem_2021_q63",
+      "arquivo_matriz": "matriz_enem"
+    },
+    "validacao_humana": {
+      "validado": false,
+      "data_validacao": null
+    }
+  },
+  "estudante": {
+    "nome_completo": "Michael Patrick Almeida",
+    "colegio": "CCM Darcy José Costa",
+    "turma": "3B"
+  }
+}

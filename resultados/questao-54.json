@@ -1,0 +1,107 @@
+{
+  "questao": {
+    "identificacao_caderno": {
+      "ano": 2021,
+      "dia": 1,
+      "numero": 1,
+      "cor": "AZUL",
+      "aplicacao": "REAPLICAÇÃO_PPL_SEGUNDA_OPORTUNIDADE"
+    },
+    "identificacao_questao": {
+      "numero": 54,
+      "espanhol": false,
+      "ingles": false
+    },
+    "conteudo_questao": {
+      "link_imagem": null,
+      "caminho_texto": "textos_extraidos/questao-54.txt",
+      "gabarito": "E"
+    }
+  },
+  "classificacao_matriz": {
+    "area": {
+      "id": "CH",
+      "nome": "Ciências Humanas e suas Tecnologias"
+    },
+    "competencia": {
+      "id": "C4",
+      "descricao": "Entender as transformações técnicas e tecnológicas e seu impacto nos processos de produção, no desenvolvimento do conhecimento e na vida social."
+    },
+    "habilidade_principal": {
+      "id": "H16",
+      "descricao": "Identificar registros sobre o papel das técnicas e tecnologias na organização do trabalho e/ou da vida social."
+    },
+    "habilidades_relacionadas": [
+      {
+        "id": "H20",
+        "descricao": "Selecionar argumentos favoráveis ou contrários às modificações impostas pelas novas tecnologias à vida social e ao mundo do trabalho."
+      }
+    ],
+    "eixo_cognitivo": {
+      "id": "III",
+      "nome": "Enfrentar situações-problema (SP)",
+      "descricao": "selecionar, organizar, relacionar, interpretar dados e informações representados de diferentes formas, para tomar decisões e enfrentar situações-problema."
+    }
+  },
+  "classificacao_de_conteudo": {
+    "conteudo_principal": "Mundo do Trabalho",
+    "conteudos_relacionados": [
+      "Reestruturação Produtiva",
+      "Toyotismo"
+    ],
+    "assunto": "Impactos sociais e trabalhistas das novas tecnologias",
+    "objeto_de_analise": "O texto aborda a crítica à reestruturação produtiva e ao paradigma flexível",
+    "fenomeno_conceito": "Flexibilização e precarização das relações de trabalho"
+  },
+  "analise_alternativas": [
+    {
+      "alternativa": "A",
+      "corretude": false,
+      "justificativa": "A operacionalização da tarefa laboral refere-se mais diretamente ao modelo taylorista-fordista tradicional, enquanto o texto foca na flexibilização."
+    },
+    {
+      "alternativa": "B",
+      "corretude": false,
+      "justificativa": "O texto não trata da capacitação de profissionais liberais, mas sim das mudanças estruturais no trabalho assalariado."
+    },
+    {
+      "alternativa": "C",
+      "corretude": true,
+      "justificativa": "O texto aponta explicitamente que a terceirização, a precarização e a flexibilização são consequências da nova orientação tecnológica e de controle do capital, resultando na fragilização das relações de trabalho."
+    },
+    {
+      "alternativa": "D",
+      "corretude": false,
+      "justificativa": "A hierarquização dos cargos é característica marcante do modelo taylorista-fordista, que está sendo substituído pelo paradigma flexível descrito."
+    },
+    {
+      "alternativa": "E",
+      "corretude": false,
+      "justificativa": "A aplicação dos conhecimentos da ciência não é o alvo da crítica central do texto, e sim o uso corporativo e a precarização decorrente da reestruturação produtiva."
+    }
+  ],
+  "auditoria_da_ia": {
+    "modelo": "gpt-4o",
+    "versao": "2024-05-13",
+    "datetime": "2026-03-30T10:00:00Z",
+    "confianca": 0.98,
+    "evidencias": [
+      "O texto discute a substituição do modelo taylorista-fordista pelo paradigma flexível.",
+      "Menciona expressamente efeitos como terceirização, precarização e flexibilização.",
+      "Enquadra-se perfeitamente na competência de entender as transformações técnicas e tecnológicas e seus impactos na vida social e no trabalho."
+    ],
+    "proveniencia": {
+      "arquivo_questao": "enem_2021_q54",
+      "arquivo_matriz": "matriz_enem_oficial"
+    },
+    "validacao_humana": {
+      "validado": false,
+      "data_validacao": null
+    }
+  },
+  "estudante": {
+    "nome_completo": "Michael Patrick Almeida",
+    "colegio": "CCM Darcy José Costa",
+    "turma": "3B"
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "questao": {
+    "identificacao_caderno": {
+      "ano": 2021,
+      "dia": 1,
+      "numero": 1,
+      "cor": "AZUL",
+      "aplicacao": "REAPLICAÇÃO_PPL_SEGUNDA_OPORTUNIDADE"
+    },
+    "identificacao_questao": {
+      "numero": 42,
+      "espanhol": false,
+      "ingles": false
+    },
+    "conteudo_questao": {
+      "link_imagem": null,
+      "caminho_texto": "textos_extraidos/questao-42.txt",
+      "gabarito": "A"
+    }
+  },
+  "classificacao_matriz": {
+    "area": {
+      "id": "LC",
+      "nome": "Linguagens, Códigos e suas Tecnologias"
+    },
+    "competencia": {
+      "id": "C3",
+      "descricao": "Compreender e usar a linguagem corporal como relevante para a própria vida, integradora social e formadora da identidade."
+    },
+    "habilidade_principal": {
+      "id": "H9",
+      "descricao": "Reconhecer as manifestações corporais de movimento como originárias de necessidades cotidianas de um grupo social."
+    },
+    "habilidades_relacionadas": [
+      {
+        "id": "H10",
+        "descricao": "Reconhecer a necessidade de transformação de hábitos corporais em função das necessidades cinestésicas."
+      }
+    ],
+    "eixo_cognitivo": {
+      "id": "II",
+      "nome": "Compreender fenômenos (CF)",
+      "descricao": "construir e aplicar conceitos das várias áreas do conhecimento para a compreensão de fenômenos naturais, de processos histórico-geográficos, da produção tecnológica e das manifestações artísticas."
+    }
+  },
+  "classificacao_de_conteudo": {
+    "conteudo_principal": "Estudo das práticas corporais",
+    "conteudos_relacionados": [
+      "mitos e verdades sobre os corpos masculino e feminino na sociedade atual"
+    ],
+    "assunto": "Corpo e sociedade",
+    "objeto_de_analise": "Obra de arte Pop Art e a construção social do corpo",
+    "fenomeno_conceito": "Erotização e padrões estéticos do corpo feminino"
+  },
+  "analise_alternativas": [
+    {
+      "alternativa": "A",
+      "correta": true,
+      "justificativa": "A alternativa A aponta para a realização de exercícios físicos sistemáticos e excessivos como forma de imposição de um padrão estético e de erotização corporal construído historicamente pela sociedade, alinhando-se ao comando e ao texto da questão."
+    },
+    {
+      "alternativa": "B",
+      "correta": false,
+      "justificativa": "Embora utilize produtos estéticos, a obra em questão foca na representação plástica e corporal do lazer e da forma física associada a um padrão de beleza moldado por práticas e hábitos corporais."
+    },
+    {
+      "alternativa": "C",
+      "correta": false,
+      "justificativa": "Refere-se a um aspecto moral mais amplo, mas o foco da questão recai sobre a construção social e estética do corpo feminino vinculada a padrões físicos."
+    },
+    {
+      "alternativa": "D",
+      "correta": false,
+      "justificativa": "A construção de espaços não é o foco principal da erotização e reprodução de preceitos corporais abordados pelo movimento Pop Art na obra."
+    },
+    {
+      "alternativa": "E",
+      "correta": false,
+      "justificativa": "A promoção de novas experiências de movimento não explica diretamente a imposição histórica de padrões estéticos e a erotização do corpo feminino tratada no enunciado."
+    }
+  ],
+  "auditoria_da_ia": {
+    "modelo": "gpt-4o",
+    "versao": "2024-05-13",
+    "datetime": "2023-10-27T00:00:00Z",
+    "confianca": 0.95,
+    "evidencias": [
+      "A questão aborda a temática corporal dentro da área de Linguagens, Códigos e suas Tecnologias, especificamente no contexto das práticas corporais e da estética.",
+      "A habilidade H9 da competência 3 de Linguagens foca nas manifestações corporais e necessidades cotidianas ou sociais ligadas ao corpo."
+    ],
+    "proveniencia": {
+      "arquivo_questao": "enem2021_q42",
+      "arquivo_matriz": "matriz_enem"
+    },
+    "validacao_humana": {
+      "validado": false,
+      "data_validacao": null
+    }
+  },
+  "estudante": {
+    "nome_completo": "Michael Patrick Almeida",
+    "colegio": "CCM Darcy José Costa",
+    "turma": "3B"
+  }
+}

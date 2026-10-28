@@ -1,0 +1,106 @@
+{
+  "questao": {
+    "identificacao_caderno": {
+      "ano": 2021,
+      "dia": 1,
+      "numero": 1,
+      "cor": "AZUL",
+      "aplicacao": "REAPLICAÇÃO_PPL_SEGUNDA_OPORTUNIDADE"
+    },
+    "identificacao_questao": {
+      "numero": 78,
+      "espanhol": false,
+      "ingles": false
+    },
+    "conteudo_questao": {
+      "link_imagem": null,
+      "caminho_texto": "textos_extraidos/questao-78.txt",
+      "gabarito": "D"
+    }
+  },
+  "classificacao_matriz": {
+    "area": {
+      "id": "CH",
+      "nome": "Ciências Humanas e suas Tecnologias"
+    },
+    "competencia": {
+      "id": "C3",
+      "descricao": "Compreender a produção e o papel histórico das instituições sociais, políticas e econômicas, associando-as aos diferentes grupos, conflitos e movimentos sociais."
+    },
+    "habilidade_principal": {
+      "id": "H14",
+      "descricao": "Comparar diferentes pontos de vista, presentes em textos analíticos e interpretativos, sobre situação ou fatos de natureza histórico-geográfica acerca das instituições sociais, políticas e econômicas."
+    },
+    "habilidades_relacionadas": [
+      {
+        "id": "H11",
+        "descricao": "Identificar registros de práticas de grupos sociais no tempo e no espaço."
+      }
+    ],
+    "eixo_cognitivo": {
+      "id": "III",
+      "nome": "Enfrentar situações-problema (SP)",
+      "descricao": "selecionar, organizar, relacionar, interpretar dados e informações representados de diferentes formas, para tomar decisões e enfrentar situações-problema."
+    }
+  },
+  "classificacao_de_conteudo": {
+    "conteudo_principal": "Revolução Inglesa",
+    "conteudos_relacionados": [
+      "Historiografia",
+      "Movimentos Sociais"
+    ],
+    "assunto": "Diferentes interpretações historiográficas sobre a Revolução Inglesa",
+    "objeto_de_analise": "Comparação entre os Textos I e II acerca das causas da Revolução Inglesa",
+    "fenomeno_conceito": "Pluralidade social em processos revolucionários"
+  },
+  "analise_alternativas": [
+    {
+      "alternativa": "A",
+      "correta": true,
+      "justificativa": "O Texto II destaca a participação de diferentes grupos com demandas variadas (camponeses, tecelões, crentes), contrapondo-se à visão mais restrita e linear do Texto I."
+    },
+    {
+      "alternativa": "B",
+      "correta": false,
+      "justificativa": "O Texto II aponta divergências e conflitos nas motivações, e não homogeneidade."
+    },
+    {
+      "alternativa": "C",
+      "correta": false,
+      "justificativa": "Os textos apresentam abordagens e visões distintas sobre o mesmo evento histórico, logo não há unicidade."
+    },
+    {
+      "alternativa": "D",
+      "correta": false,
+      "justificativa": "O texto não trata de superficialidade, mas de múltiplos fatores sociais e econômicos que causaram a ruptura."
+    },
+    {
+      "alternativa": "E",
+      "correta": false,
+      "justificativa": "O Texto II aborda aspectos sociais e religiosos plurais, e não apenas uma suposta superioridade econômica."
+    }
+  ],
+  "auditoria_da_ia": {
+    "modelo": "gpt-4o",
+    "versao": "2024-05-13",
+    "datetime": "2024-10-24T10:00:00Z",
+    "confianca": 1.0,
+    "evidencias": [
+      "A habilidade H14 de Ciências Humanas exige explicitamente comparar diferentes pontos de vista em textos analíticos sobre fatos históricos.",
+      "O gabarito oficial da questão 78 do ENEM 2021 é a alternativa A."
+    ],
+    "proveniencia": {
+      "arquivo_questao": "enem_2021_Q78",
+      "arquivo_matriz": "matriz_enem"
+    },
+    "validacao_humana": {
+      "validado": false,
+      "data_validacao": null
+    }
+  },
+  "estudante": {
+    "nome_completo": "Michael Patrick Almeida",
+    "colegio": "CCM Darcy José Costa",
+    "turma": "3B"
+  }
+}

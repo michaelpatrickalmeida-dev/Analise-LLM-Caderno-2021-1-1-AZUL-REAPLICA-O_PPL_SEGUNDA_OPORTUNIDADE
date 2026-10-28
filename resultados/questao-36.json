@@ -1,0 +1,106 @@
+{
+  "questao": {
+    "identificacao_caderno": {
+      "ano": 2021,
+      "dia": 1,
+      "numero": 1,
+      "cor": "AZUL",
+      "aplicacao": "REAPLICAÇÃO_PPL_SEGUNDA_OPORTUNIDADE"
+    },
+    "identificacao_questao": {
+      "numero": 36,
+      "espanhol": false,
+      "ingles": false
+    },
+    "conteudo_questao": {
+      "link_imagem": null,
+      "caminho_texto": "textos_extraidos/questao-36.txt",
+      "gabarito": "C"
+    }
+  },
+  "classificacao_matriz": {
+    "area": {
+      "id": "LC",
+      "nome": "Linguagens, Códigos e suas Tecnologias"
+    },
+    "competencia": {
+      "id": "C4",
+      "descricao": "Compreender a arte como saber cultural e estético gerador de significação e integrador da organização do mundo e da própria identidade."
+    },
+    "habilidade_principal": {
+      "id": "H12",
+      "descricao": "Reconhecer diferentes funções da arte, do trabalho da produção dos artistas em seus meios culturais."
+    },
+    "habilidades_relacionadas": [
+      {
+        "id": "H13",
+        "descricao": "Analisar as diversas produções artísticas como meio de explicar diferentes culturas, padrões de beleza e preconceitos."
+      }
+    ],
+    "eixo_cognitivo": {
+      "id": "II",
+      "nome": "Compreender fenômenos (CF)",
+      "descricao": "construir e aplicar conceitos das várias áreas do conhecimento para a compreensão de fenômenos naturais, de processos histórico-geográficos, da produção tecnológica e das manifestações artísticas."
+    }
+  },
+  "classificacao_de_conteudo": {
+    "conteudo_principal": "Artes Visuais",
+    "conteudos_relacionados": [
+      "Arte contemporânea",
+      "Reciclagem e sustentabilidade na arte"
+    ],
+    "assunto": "Função social e estética da arte contemporânea",
+    "objeto_de_analise": "Obra de arte Nanawax de Romuald Hazoumé",
+    "fenomeno_conceito": "Apropriação e ressignificação de objetos cotidianos e descarte na arte contemporânea"
+  },
+  "analise_alternativas": [
+    {
+      "alternativa": "A",
+      "correta": false,
+      "justificativa": "A alternativa está incorreta porque a utilização de materiais alternativos e lixo na arte contemporânea não empobrece o valor artístico, mas expande as possibilidades expressivas."
+    },
+    {
+      "alternativa": "B",
+      "correta": true,
+      "justificativa": "A alternativa está correta pois a obra de Romuald Hazoumé utiliza recipientes plásticos descartados para criar máscaras, reposicionando esteticamente esses objetos ao mudar sua função original de lixo para suporte de expressão artística."
+    },
+    {
+      "alternativa": "C",
+      "correta": false,
+      "justificativa": "A alternativa está incorreta pois o texto afirma que as máscaras não foram feitas para serem usadas nem menciona interatividade para completar obras inacabadas."
+    },
+    {
+      "alternativa": "D",
+      "correta": false,
+      "justificativa": "Embora dialogue com o acúmulo de lixo, a questão aborda prioritariamente a dimensão estética e artística da transformação de objetos e não uma militância ecológica formal."
+    },
+    {
+      "alternativa": "E",
+      "correta": false,
+      "justificativa": "A alternativa está incorreta porque a obra reflete uma crítica à sociedade de consumo e não necessariamente uma precariedade das condições de produção do artista."
+    }
+  ],
+  "auditoria_da_ia": {
+    "modelo": "gpt-4o",
+    "versao": "2024-05-13",
+    "datetime": "2023-10-27T00:00:00Z",
+    "confianca": 0.95,
+    "evidencias": [
+      "O enunciado aborda a obra de arte do artista Romuald Hazoumé feita com recipientes plásticos.",
+      "A habilidade H12 envolve reconhecer diferentes funções da arte e a produção dos artistas em seus meios culturais."
+    ],
+    "proveniencia": {
+      "arquivo_questao": "ENEM 2021",
+      "arquivo_matriz": "Matriz ENEM"
+    },
+    "validacao_humana": {
+      "validado": false,
+      "data_validacao": null
+    }
+  },
+  "estudante": {
+    "nome_completo": "Michael Patrick Almeida",
+    "colegio": "CCM Darcy José Costa",
+    "turma": "3B"
+  }
+}

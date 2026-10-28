@@ -1,0 +1,107 @@
+{
+  "questao": {
+    "identificacao_caderno": {
+      "ano": 2021,
+      "dia": 1,
+      "numero": 1,
+      "cor": "AZUL",
+      "aplicacao": "REAPLICAÇÃO_PPL_SEGUNDA_OPORTUNIDADE"
+    },
+    "identificacao_questao": {
+      "numero": 28,
+      "espanhol": false,
+      "ingles": false
+    },
+    "conteudo_questao": {
+      "link_imagem": null,
+      "caminho_texto": "textos_extraidos/questao-28.txt",
+      "gabarito": "B"
+    }
+  },
+  "classificacao_matriz": {
+    "area": {
+      "id": "LC",
+      "nome": "Linguagens, Códigos e suas Tecnologias"
+    },
+    "competencia": {
+      "id": "C9",
+      "descricao": "Entender os princípios, a natureza, a função e o impacto das tecnologias da comunicação e da informação na sua vida pessoal e social, no desenvolvimento do conhecimento, associando-o aos conhecimentos científicos, às linguagens que lhes dão suporte, às demais tecnologias, aos processos de produção e aos problemas que se propõem solucionar."
+    },
+    "habilidade_principal": {
+      "id": "H28",
+      "descricao": "Reconhecer a função e o impacto social das diferentes tecnologias da comunicação e informação."
+    },
+    "habilidades_relacionadas": [
+      {
+        "id": "H30",
+        "descricao": "Relacionar as tecnologias de comunicação e informação ao desenvolvimento das sociedades e ao conhecimento que elas produzem."
+      }
+    ],
+    "eixo_cognitivo": {
+      "id": "III",
+      "nome": "Enfrentar situações-problema (SP)",
+      "descricao": "selecionar, organizar, relacionar, interpretar dados e informações representados de diferentes formas, para tomar decisões e enfrentar situações-problema."
+    }
+  },
+  "classificacao_de_conteudo": {
+    "conteudo_principal": "Tecnologias da Informação e Comunicação",
+    "conteudos_relacionados": [
+      "Redes sociais",
+      "Comportamento do usuário",
+      "Impacto social das TICs"
+    ],
+    "assunto": "Mudanças de design e foco em redes sociais virtuais",
+    "objeto_de_analise": "O texto jornalístico/informativo sobre a mudança de foco do feed de notícias para grupos e segmentação em uma rede social",
+    "fenomeno_conceito": "Adaptação tecnológica baseada no comportamento e nas preferências de uso dos usuários",
+    "analise_alternativas": [
+      {
+        "alternativa": "A",
+        "correta": false,
+        "justificativa": "O texto menciona que a privacidade foi citada sem muitos detalhes, não sendo o foco principal da mudança de design relatada."
+      },
+      {
+        "alternativa": "B",
+        "correta": true,
+        "justificativa": "A mudança de design da rede social prioriza os grupos e o Marketplace por conta do alto volume de uso e engajamento já demonstrado por mais de 1 bilhão de usuários mensais, mostrando que a plataforma se adapta aos comportamentos e preferências de seus usuários."
+      },
+      {
+        "alternativa": "C",
+        "correta": false,
+        "justificativa": "Embora haja interação, o foco da questão e do texto está na reestruturação estratégica da plataforma em função do uso de segmentos específicos pelos usuários."
+      },
+      {
+        "alternativa": "D",
+        "correta": false,
+        "justificativa": "A monetização é citada no texto como uma possível consequência futura, mas a mudança central descrita responde ao comportamento e engajamento já existente dos usuários."
+      },
+      {
+        "alternativa": "E",
+        "correta": false,
+        "justificativa": "O texto não aborda a homogeneização ou a semelhança entre diferentes redes sociais, mas sim uma mudança interna na própria plataforma."
+      }
+    ]
+  },
+  "auditoria_da_ia": {
+    "modelo": "gpt-4o",
+    "versao": "2024-05-13",
+    "datetime": "2024-10-24T00:00:00Z",
+    "confianca": 1.0,
+    "evidencias": [
+      "A questão aborda a alteração no design e no foco de uma rede social (Facebook), priorizando grupos e segmentação de acordo com o uso massivo dos usuários.",
+      "Isso se alinha diretamente com a Habilidade H28 da Matriz de Linguagens, que trata de reconhecer a função e o impacto social das tecnologias de comunicação e informação."
+    ],
+    "proveniencia": {
+      "arquivo_questao": "enem2021_28.txt",
+      "arquivo_matriz": "matriz_enem.json"
+    },
+    "validacao_humana": {
+      "validado": false,
+      "data_validacao": null
+    }
+  },
+  "estudante": {
+    "nome_completo": "Michael Patrick Almeida",
+    "colegio": "CCM Darcy José Costa",
+    "turma": "3B"
+  }
+}

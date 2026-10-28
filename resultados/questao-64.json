@@ -1,0 +1,105 @@
+{
+  "questao": {
+    "identificacao_caderno": {
+      "ano": 2021,
+      "dia": 1,
+      "numero": 1,
+      "cor": "AZUL",
+      "aplicacao": "REAPLICAÇÃO_PPL_SEGUNDA_OPORTUNIDADE"
+    },
+    "identificacao_questao": {
+      "numero": 64,
+      "espanhol": false,
+      "ingles": false
+    },
+    "conteudo_questao": {
+      "link_imagem": null,
+      "caminho_texto": "textos_extraidos/questao-64.txt",
+      "gabarito": "D"
+    }
+  },
+  "classificacao_matriz": {
+    "area": {
+      "id": "CH",
+      "nome": "Ciências Humanas e suas Tecnologias"
+    },
+    "competencia": {
+      "id": "C1",
+      "descricao": "Compreender os elementos culturais que constituem as identidades"
+    },
+    "habilidade_principal": {
+      "id": "H1",
+      "descricao": "Interpretar historicamente e/ou geograficamente fontes documentais acerca de aspectos da cultura."
+    },
+    "habilidades_relacionadas": [
+      {
+        "id": "H5",
+        "descricao": "Identificar as manifestações ou representações da diversidade do patrimônio cultural e artístico em diferentes sociedades."
+      }
+    ],
+    "eixo_cognitivo": {
+      "id": "III",
+      "nome": "Enfrentar situações-problema (SP)",
+      "descricao": "selecionar, organizar, relacionar, interpretar dados e informações representados de diferentes formas, para tomar decisões e enfrentar situações-problema."
+    }
+  },
+  "classificacao_de_conteudo": {
+    "conteudo_principal": "Diversidade cultural, conflitos e vida em sociedade",
+    "conteudos_relacionados": [
+      "Movimentos culturais no mundo ocidental e seus impactos na vida política e social"
+    ],
+    "assunto": "Conceito de minoria e maioria na filosofia contemporânea",
+    "objeto_de_analise": "O trecho da obra Mil platôs de Gilles Deleuze e Félix Guattari",
+    "fenomeno_conceito": "Relações de poder e hierarquias sociais"
+  },
+  "analise_alternativas": [
+    {
+      "alternativa": "A",
+      "correta": false,
+      "justificativa": "O texto não aborda o conceito de minoria a partir do risco de extinção social, mas sim sob a perspectiva de uma relação de dominação."
+    },
+    {
+      "alternativa": "B",
+      "correta": false,
+      "justificativa": "Políticas de incentivos estatais não são o foco da discussão ontológica e política apresentada pelos autores sobre o conceito de maioria e minoria."
+    },
+    {
+      "alternativa": "C",
+      "correta": false,
+      "justificativa": "As relações descritas fundam-se em estruturas de dominação e assimetria, e não na arbitrariedade sem contexto."
+    },
+    {
+      "alternativa": "D",
+      "correta": true,
+      "justificativa": "O texto aponta que a maioria supõe um estado de dominação, o que revela valorações que negam conexões simétricas, estabelecendo posições de superioridade e subordinação."
+    },
+    {
+      "alternativa": "E",
+      "correta": false,
+      "justificativa": "A caracterização de minoritário apontada pelos autores transcende o aspecto estritamente biológico, abrangendo também construções sociais e políticas de dominação."
+    }
+  ],
+  "auditoria_da_ia": {
+    "modelo": "gpt-4o",
+    "versao": "2024-05-13",
+    "datetime": "2023-10-27T00:00:00Z",
+    "confianca": 0.95,
+    "evidencias": [
+      "O texto da questão discute o conceito de maioria e minoria com base na filosofia de Deleuze e Guattari.",
+      "A habilidade H1 da matriz de Ciências Humanas envolve interpretar fontes documentais e textos acerca da cultura e da sociedade."
+    ],
+    "proveniencia": {
+      "arquivo_questao": "enem_2021_q64",
+      "arquivo_matriz": "matriz_enem_oficial"
+    },
+    "validacao_humana": {
+      "validado": false,
+      "data_validacao": null
+    }
+  },
+  "estudante": {
+    "nome_completo": "Michael Patrick Almeida",
+    "colegio": "CCM Darcy José Costa",
+    "turma": "3B"
+  }
+}

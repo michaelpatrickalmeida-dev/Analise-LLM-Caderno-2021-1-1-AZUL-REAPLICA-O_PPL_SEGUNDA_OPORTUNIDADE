@@ -1,0 +1,106 @@
+{
+  "questao": {
+    "identificacao_caderno": {
+      "ano": 2021,
+      "dia": 1,
+      "numero": 1,
+      "cor": "AZUL",
+      "aplicacao": "REAPLICAÇÃO_PPL_SEGUNDA_OPORTUNIDADE"
+    },
+    "identificacao_questao": {
+      "numero": 4,
+      "espanhol": false,
+      "ingles": false
+    },
+    "conteudo_questao": {
+      "link_imagem": null,
+      "caminho_texto": "textos_extraidos/questao-4-ingles.txt",
+      "gabarito": "B"
+    }
+  },
+  "classificacao_matriz": {
+    "area": {
+      "id": "LC",
+      "nome": "Linguagens, Códigos e suas Tecnologias"
+    },
+    "competencia": {
+      "id": "C2",
+      "descricao": "Conhecer e usar língua(s) estrangeira(s) moderna(s) como instrumento de acesso a informações e a outras culturas e grupos sociais*."
+    },
+    "habilidade_principal": {
+      "id": "H5",
+      "descricao": "Associar vocábulos e expressões de um texto em LEM ao seu tema."
+    },
+    "habilidades_relacionadas": [
+      {
+        "id": "H7",
+        "descricao": "Relacionar um texto em LEM, as estruturas linguísticas, sua função e seu uso social."
+      }
+    ],
+    "eixo_cognitivo": {
+      "id": "III",
+      "nome": "Enfrentar situações-problema (SP)",
+      "descricao": "selecionar, organizar, relacionar, interpretar dados e informações representados de diferentes formas, para tomar decisões e enfrentar situações-problema."
+    }
+  },
+  "classificacao_de_conteudo": {
+    "conteudo_principal": "Língua Estrangeira Moderna - Inglês",
+    "conteudos_relacionados": [
+      "Compreensão de texto em língua inglesa",
+      "Vocabulário e expressões idiomáticas"
+    ],
+    "assunto": "Interpretação de cartum",
+    "objeto_de_analise": "Expressão idiomática at odds with",
+    "fenomeno_conceito": "Contraste entre o desejo de se manter informado e o de preservar a sanidade mental diante do fluxo de notícias"
+  },
+  "analise_alternativas": [
+    {
+      "alternativa": "A",
+      "correta": false,
+      "justificativa": "O texto não trata sobre a confiabilidade das fontes, mas sim sobre o conflito gerado pelo excesso de informações."
+    },
+    {
+      "alternativa": "B",
+      "correta": true,
+      "justificativa": "A expressão at odds with indica conflito ou oposição, revelando na fala da personagem a dificuldade de conciliar o desejo de estar bem informada com o desejo de manter a sanidade mental."
+    },
+    {
+      "alternativa": "C",
+      "correta": false,
+      "justificativa": "O cartum aborda o fluxo de notícias e o impacto emocional, e não o domínio de novas tecnologias."
+    },
+    {
+      "alternativa": "D",
+      "correta": false,
+      "justificativa": "A imparcialidade não é o tema central da fala da personagem, que contrapõe informação e sanidade."
+    },
+    {
+      "alternativa": "E",
+      "correta": false,
+      "justificativa": "A personagem menciona o desejo de estar informada, o que inclui notícias em geral, sem restringir-se a notícias positivas."
+    }
+  ],
+  "auditoria_da_ia": {
+    "modelo": "gpt-4o",
+    "versao": "2024-05-13",
+    "datetime": "2024-10-24T00:00:00Z",
+    "confianca": 1.0,
+    "evidencias": [
+      "A questão exige a compreensão de uma expressão em língua inglesa (at odds with) em um texto multimodal (cartum).",
+      "A habilidade H5 da matriz de Linguagens aborda a associação de vocábulos e expressões ao tema do texto."
+    ],
+    "proveniencia": {
+      "arquivo_questao": "ENEM 2021",
+      "arquivo_matriz": "Matriz ENEM"
+    },
+    "validacao_humana": {
+      "validado": false,
+      "data_validacao": null
+    }
+  },
+  "estudante": {
+    "nome_completo": "Michael Patrick Almeida",
+    "colegio": "CCM Darcy José Costa",
+    "turma": "3B"
+  }
+}

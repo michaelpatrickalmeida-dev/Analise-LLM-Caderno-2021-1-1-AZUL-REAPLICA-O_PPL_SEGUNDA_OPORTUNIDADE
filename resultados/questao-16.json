@@ -1,0 +1,75 @@
+{
+  "questao": {
+    "identificacao_caderno": {
+      "ano": 2021,
+      "dia": 1,
+      "numero": 1,
+      "cor": "AZUL",
+      "aplicacao": "REAPLICAÇÃO_PPL_SEGUNDA_OPORTUNIDADE"
+    },
+    "identificacao_questao": {
+      "numero": 16,
+      "espanhol": false,
+      "ingles": false
+    },
+    "conteudo_questao": {
+      "link_imagem": null,
+      "caminho_texto": "textos_extraidos/questao-16.txt",
+      "gabarito": "E"
+    }
+  },
+  "classificacao_matriz": {
+    "area": {
+      "id": "LC",
+      "nome": "Linguagens, Códigos e suas Tecnologias"
+    },
+    "competencia": {
+      "id": "C7",
+      "descricao": "Confrontar opiniões e pontos de vista sobre as diferentes linguagens e suas manifestações específicas."
+    },
+    "habilidade_principal": {
+      "id": "H24",
+      "descricao": "Reconhecer no texto estratégias argumentativas empregadas para o convencimento do público, tais como a intimidação, sedução, comoção, chantagem, entre outras."
+    },
+    "habilidades_relacionadas": [],
+    "eixo_cognitivo": {
+      "id": "IV",
+      "nome": "Construir argumentação (CA)",
+      "descricao": "relacionar informações, representadas em diferentes formas, e conhecimentos disponíveis em situações concretas, para construir argumentação consistente."
+    }
+  },
+  "classificacao_de_conteudo": {
+    "conteudo_principal": "Estratégia argumentativa",
+    "conteudos_relacionados": [
+      "Gênero textual artigo de opinião",
+      "Intertextualidade"
+    ],
+    "assunto": "Análise de estratégias argumentativas em texto dissertativo-argumentativo",
+    "objeto_de_analise": "O uso de letra de canção em artigo de opinião",
+    "fenomeno_conceito": "Estratégia argumentativa de exemplificação e sensibilização"
+  },
+  "analise_alternativas": [],
+  "auditoria_da_ia": {
+    "modelo": "gpt-4o",
+    "versao": "2024-05-13",
+    "datetime": "2024-05-13T00:00:00Z",
+    "confianca": 0.95,
+    "evidencias": [
+      "A questão aborda a função da citação da letra da música no texto argumentativo.",
+      "A habilidade H24 foca no reconhecimento de estratégias argumentativas empregadas para o convencimento."
+    ],
+    "proveniencia": {
+      "arquivo_questao": "ENEM 2021",
+      "arquivo_matriz": "Matriz ENEM"
+    },
+    "validacao_humana": {
+      "validado": false,
+      "data_validacao": null
+    }
+  },
+  "estudante": {
+    "nome_completo": "Michael Patrick Almeida",
+    "colegio": "CCM Darcy José Costa",
+    "turma": "3B"
+  }
+}

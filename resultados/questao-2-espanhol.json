@@ -1,0 +1,105 @@
+{
+  "questao": {
+    "identificacao_caderno": {
+      "ano": 2021,
+      "dia": 1,
+      "numero": 1,
+      "cor": "AZUL",
+      "aplicacao": "REAPLICAÇÃO_PPL_SEGUNDA_OPORTUNIDADE"
+    },
+    "identificacao_questao": {
+      "numero": 2,
+      "espanhol": false,
+      "ingles": false
+    },
+    "conteudo_questao": {
+      "link_imagem": null,
+      "caminho_texto": "textos_extraidos/questao-2-espanhol.txt",
+      "gabarito": "A"
+    }
+  },
+  "classificacao_matriz": {
+    "area": {
+      "id": "LC",
+      "nome": "Linguagens, Códigos e suas Tecnologias"
+    },
+    "competencia": {
+      "id": "C2",
+      "descricao": "Conhecer e usar língua(s) estrangeira(s) moderna(s) como instrumento de acesso a informações e a outras culturas e grupos sociais"
+    },
+    "habilidade_principal": {
+      "id": "H7",
+      "descricao": "Relacionar um texto em LEM, as estruturas linguísticas, sua função e seu uso social."
+    },
+    "habilidades_relacionadas": [
+      {
+        "id": "H5",
+        "descricao": "Associar vocábulos e expressões de um texto em LEM ao seu tema."
+      }
+    ],
+    "eixo_cognitivo": {
+      "id": "III",
+      "nome": "Enfrentar situações-problema (SP)",
+      "descricao": "selecionar, organizar, relacionar, interpretar dados e informações representados de diferentes formas, para tomar decisões e enfrentar situações-problema."
+    }
+  },
+  "classificacao_de_conteudo": {
+    "conteudo_principal": "Compreensão de texto em Língua Espanhola",
+    "conteudos_relacionados": [
+      "Variação linguística"
+    ],
+    "assunto": "Interpretação textual e fonética/sotaque",
+    "objeto_de_analise": "Trecho do romance Amuleto de Roberto Bolaño",
+    "fenomeno_conceito": "Variação diatópica na língua espanhola"
+  },
+  "analise_alternativas": [
+    {
+      "alternativa": "A",
+      "correta": true,
+      "justificativa": "O fragmento destaca características peculiares da pronúncia dos escritores espanhóis exilados ('esa musiquilla distinta', 'como si encircularan las zetas y las ces'), evidenciando a reflexão sobre a variação linguística."
+    },
+    {
+      "alternativa": "B",
+      "correta": false,
+      "justificativa": "A menção ao pó ('el polvo siempre se ha avenido con la literatura') é metafórica e não o foco de reflexão sobre a sujeira dos livros."
+    },
+    {
+      "alternativa": "C",
+      "correta": false,
+      "justificativa": "Os escritores são espanhóis, e não mexicanos, portanto não se trata das maneiras de acolher do mexicano."
+    },
+    {
+      "alternativa": "D",
+      "correta": false,
+      "justificativa": "A limpeza da casa é o pano de fundo da narrativa e da relação afetiva, e não o foco principal das reflexões."
+    },
+    {
+      "alternativa": "E",
+      "correta": false,
+      "justificativa": "Não há dificuldades de comunicação entre eles; ao contrário, há cumplicidade e afeto."
+    }
+  ],
+  "auditoria_da_ia": {
+    "modelo": "gpt-4o",
+    "versao": "2024-05-13",
+    "datetime": "2024-10-24T10:00:00Z",
+    "confianca": 1.0,
+    "evidencias": [
+      "O texto menciona explicitamente a forma como os espanhóis pronunciavam as palavras ('esa musiquilla distinta', ' encircularan las zetas y las ces').",
+      "A questão aborda língua estrangeira moderna (espanhol) avaliando a habilidade de relacionar elementos linguísticos e fonéticos."
+    ],
+    "proveniencia": {
+      "arquivo_questao": "enem_2021_q2",
+      "arquivo_matriz": "matriz_enem"
+    },
+    "validacao_humana": {
+      "validado": false,
+      "data_validacao": null
+    }
+  },
+  "estudante": {
+    "nome_completo": "Michael Patrick Almeida",
+    "colegio": "CCM Darcy José Costa",
+    "turma": "3B"
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "questao": {
+    "identificacao_caderno": {
+      "ano": 2021,
+      "dia": 1,
+      "numero": 1,
+      "cor": "AZUL",
+      "aplicacao": "REAPLICAÇÃO_PPL_SEGUNDA_OPORTUNIDADE"
+    },
+    "identificacao_questao": {
+      "numero": 5,
+      "espanhol": false,
+      "ingles": false
+    },
+    "conteudo_questao": {
+      "link_imagem": null,
+      "caminho_texto": "textos_extraidos/questao-5-espanhol.txt",
+      "gabarito": "A"
+    }
+  },
+  "classificacao_matriz": {
+    "area": {
+      "id": "L",
+      "nome": "Linguagens, Códigos e suas Tecnologias"
+    },
+    "competencia": {
+      "id": "C7",
+      "descricao": "Confrontar opiniões e pontos de vista sobre as diferentes linguagens e suas manifestações específicas."
+    },
+    "habilidade_principal": {
+      "id": "H22",
+      "descricao": "Relacionar, em diferentes textos, opiniões, temas, assuntos e recursos linguísticos."
+    },
+    "habilidades_relacionadas": [
+      "H21"
+    ],
+    "eixo_cognitivo": {
+      "id": "III",
+      "nome": "Enfrentar situações-problema (SP)",
+      "descricao": "selecionar, organizar, relacionar, interpretar dados e informações representados de diferentes formas, para tomar decisões e enfrentar situações-problema."
+    }
+  },
+  "classificacao_de_conteudo": {
+    "conteudo_principal": "Leitura e interpretação de textos não verbais e mistos (charge)",
+    "conteudos_relacionados": [
+      "Análise crítica de recursos humorísticos",
+      "Compreensão de gêneros textuais"
+    ],
+    "assunto": "Crítica social e comportamento humano através da charge",
+    "objeto_de_analise": "Efeito humorístico e argumentativo em charge jornalística",
+    "fenomeno_conceito": "Responsabilidade humana nas crises globais contemporâneas"
+  },
+  "analise_alternativas": [
+    {
+      "alternativa": "A",
+      "correta": true,
+      "justificativa": "O humor e a crítica da charge residem no fato de que o personagem que pergunta o que aconteceu ao mundo recebe como resposta 'Nós', apontando a própria humanidade como causadora das mazelas exibidas."
+    },
+    {
+      "alternativa": "B",
+      "correta": false,
+      "justificativa": "A fala '¡Por Dios!' é uma excluição de espanto e não um apelo religioso genuíno para resolver as dificuldades."
+    },
+    {
+      "alternativa": "C",
+      "correta": false,
+      "justificativa": "A cena se passa em um escritório, mas o foco da crítica não é a relação de trabalho ou a indignação específica de trabalhadores contra injustiças laborais, e sim a condição geral da humanidade."
+    },
+    {
+      "alternativa": "D",
+      "correta": false,
+      "justificativa": "Embora a televisão exiba notícias trágicas, o foco da piada não é a veiculação em si, mas a constatação de que os responsáveis pelos males somos nós mesmos."
+    },
+    {
+      "alternativa": "E",
+      "correta": false,
+      "justificativa": "A charge não problematiza a falsidade ou manipulação da notícia, mas retrata a realidade caótica gerada pelas ações humanas."
+    }
+  ],
+  "auditoria_da_ia": {
+    "modelo": "gpt-4o",
+    "versao": "2024-11-20",
+    "datetime": "2025-05-18T10:00:00",
+    "confianca": 0.98,
+    "evidencias": [
+      "Questão de Linguagens com foco em interpretação de charge.",
+      "Habilidade H22 da Matriz de Linguagens atende perfeitamente à relação entre temas, opiniões e recursos expressivos."
+    ],
+    "proveniencia": {
+      "arquivo_questao": "ENEM 2021",
+      "arquivo_matriz": "Matriz ENEM Oficial"
+    },
+    "validacao_humana": {
+      "validado": false,
+      "data_validacao": null
+    }
+  },
+  "estudante": {
+    "nome_completo": "Michael Patrick Almeida",
+    "colegio": "CCM Darcy José Costa",
+    "turma": "3B"
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "questao": {
+    "identificacao_caderno": {
+      "ano": 2021,
+      "dia": 1,
+      "numero": 1,
+      "cor": "AZUL",
+      "aplicacao": "REAPLICAÇÃO_PPL_SEGUNDA_OPORTUNIDADE"
+    },
+    "identificacao_questao": {
+      "numero": 33,
+      "espanhol": false,
+      "ingles": false
+    },
+    "conteudo_questao": {
+      "link_imagem": null,
+      "caminho_texto": "textos_extraidos/questao-33.txt",
+      "gabarito": "D"
+    }
+  },
+  "classificacao_matriz": {
+    "area": {
+      "id": "1",
+      "nome": "Linguagens, Códigos e suas Tecnologias"
+    },
+    "competencia": {
+      "id": "C5",
+      "descricao": "Analisar, interpretar e aplicar recursos expressivos das linguagens, relacionando textos com seus contextos, mediante a natureza, função, organização, estrutura das manifestações, de acordo com as condições de produção e recepção."
+    },
+    "habilidade_principal": {
+      "id": "H18",
+      "descricao": "Identificar os elementos que concorrem para a progressão temática e para a organização e estruturação de textos de diferentes gêneros e tipos."
+    },
+    "habilidades_relacionadas": [
+      {
+        "id": "H1",
+        "descricao": "Identificar as diferentes linguagens e seus recursos expressivos como elementos de caracterização dos sistemas de comunicação."
+      }
+    ],
+    "eixo_cognitivo": {
+      "id": "III",
+      "nome": "Enfrentar situações-problema (SP)",
+      "descricao": "selecionar, organizar, relacionar, interpretar dados e informações representados de diferentes formas, para tomar decisões e enfrentar situações-problema."
+    }
+  },
+  "classificacao_de_conteudo": {
+    "conteudo_principal": "Estudo do texto: as sequências discursivas e os gêneros textuais no sistema de comunicação e informação",
+    "conteudos_relacionados": [
+      "Produção e recepção de textos artísticos"
+    ],
+    "assunto": "Identificação de gêneros textuais e suas funções sociocomunicativas",
+    "objeto_de_analise": "Estrutura e função do prefácio em formato de história em quadrinhos",
+    "fenomeno_conceito": "Função sociocomunicativa de apresentação de obra"
+  },
+  "analise_alternativas": [
+    {
+      "alternativa": "A",
+      "corretude": true,
+      "justificativa": "A tira em quadrinhos relata as etapas de produção e o objetivo final da obra (ser lida), cumprindo o papel típico de um prefácio, que é o de introduzir e apresentar o livro ao leitor."
+    },
+    {
+      "alternativa": "B",
+      "corretude": false,
+      "justificativa": "O texto tem um tom informativo e explicativo sobre o processo de criação, sem um apelo emocional central apoiado nas imagens."
+    },
+    {
+      "alternativa": "C",
+      "corretude": false,
+      "justificativa": "A descrição do processo criativo é um meio utilizado na tira, mas não o elemento definidor que a caracteriza como um prefácio."
+    },
+    {
+      "alternativa": "D",
+      "corretude": false,
+      "justificativa": "A mescla de trabalhos manual e digital é apenas um detalhe retratado dentro do processo de confecção do livro, e não a justificativa para o gênero textual."
+    },
+    {
+      "alternativa": "E",
+      "corretude": false,
+      "justificativa": "O uso de elementos gráficos em quadrinhos é a escolha formal da linguagem, mas o reconhecimento como prefácio decorre da função de apresentação da obra."
+    }
+  ],
+  "auditoria_da_ia": {
+    "modelo": "gpt-4o",
+    "versao": "2024-05-13",
+    "datetime": "2023-10-27T00:00:00Z",
+    "confianca": 0.95,
+    "evidencias": [
+      "A questão aborda a identificação do gênero textual prefácio veiculado por meio de uma HQ.",
+      "A habilidade H18 de Linguagens trata justamente da identificação de elementos de estruturação de textos de diferentes gêneros."
+    ],
+    "proveniencia": {
+      "arquivo_questao": "ENEM 2021",
+      "arquivo_matriz": "Matriz ENEM Oficial"
+    },
+    "validacao_humana": {
+      "validado": false,
+      "data_validacao": null
+    }
+  },
+  "estudante": {
+    "nome_completo": "Michael Patrick Almeida",
+    "colegio": "CCM Darcy José Costa",
+    "turma": "3B"
+  }
+}

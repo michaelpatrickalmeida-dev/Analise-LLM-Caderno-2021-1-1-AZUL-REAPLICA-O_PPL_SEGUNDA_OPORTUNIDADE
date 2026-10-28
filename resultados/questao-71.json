@@ -1,0 +1,74 @@
+{
+  "questao": {
+    "identificacao_caderno": {
+      "ano": 2021,
+      "dia": 1,
+      "numero": 1,
+      "cor": "AZUL",
+      "aplicacao": "REAPLICAÇÃO_PPL_SEGUNDA_OPORTUNIDADE"
+    },
+    "identificacao_questao": {
+      "numero": 71,
+      "espanhol": false,
+      "ingles": false
+    },
+    "conteudo_questao": {
+      "link_imagem": null,
+      "caminho_texto": "textos_extraidos/questao-71.txt",
+      "gabarito": "D"
+    }
+  },
+  "classificacao_matriz": {
+    "area": {
+      "id": null,
+      "nome": "Ciências Humanas e suas Tecnologias"
+    },
+    "competencia": {
+      "id": "C6",
+      "descricao": "Compreender a sociedade e a natureza, reconhecendo suas interações no espaço em diferentes contextos históricos e geográficos."
+    },
+    "habilidade_principal": {
+      "id": "H26",
+      "descricao": "Identificar em fontes diversas o processo de ocupação dos meios físicos e as relações da vida humana com a paisagem."
+    },
+    "habilidades_relacionadas": [],
+    "eixo_cognitivo": {
+      "id": "II",
+      "nome": "Compreender fenômenos (CF)",
+      "descricao": "construir e aplicar conceitos das várias áreas do conhecimento para a compreensão de fenômenos naturais, de processos histórico-geográficos, da produção tecnológica e das manifestações artísticas."
+    }
+  },
+  "classificacao_de_conteudo": {
+    "conteudo_principal": "Geomorfologia",
+    "conteudos_relacionados": [
+      "Dinamica da crosta terrestre",
+      "Ciclo das rochas"
+    ],
+    "assunto": "Processos geomorfológicos de intemperismo, erosão e sedimentação",
+    "objeto_de_analise": "Destruição, transporte e deposição de materiais rochosos na superfície terrestre",
+    "fenomeno_conceito": "Ciclo sedimentar"
+  },
+  "analise_alternativas": [],
+  "auditoria_da_ia": {
+    "modelo": "GPT-4",
+    "versao": "2024",
+    "datetime": "2024-05-18",
+    "confianca": 1.0,
+    "evidencias": [
+      "O texto descreve claramente a destruição das rochas, o transporte por água, vento e gelo, e a posterior deposição nas regiões mais baixas, o que define perfeitamente o ciclo sedimentar e os processos exógenos de erosão e sedimentação."
+    ],
+    "proveniencia": {
+      "arquivo_questao": "ENEM 2021",
+      "arquivo_matriz": "Matriz ENEM"
+    },
+    "validacao_humana": {
+      "validado": false,
+      "data_validacao": null
+    }
+  },
+  "estudante": {
+    "nome_completo": "Michael Patrick Almeida",
+    "colegio": "CCM Darcy José Costa",
+    "turma": "3B"
+  }
+}

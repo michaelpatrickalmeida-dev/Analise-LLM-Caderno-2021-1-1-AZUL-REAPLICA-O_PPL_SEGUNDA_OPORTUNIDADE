@@ -1,0 +1,71 @@
+{
+  "questao": {
+    "identificacao_caderno": {
+      "ano": 2021,
+      "dia": 1,
+      "numero": 1,
+      "cor": "AZUL",
+      "aplicacao": "REAPLICAÇÃO_PPL_SEGUNDA_OPORTUNIDADE"
+    },
+    "identificacao_questao": {
+      "numero": 37,
+      "espanhol": false,
+      "ingles": false
+    },
+    "conteudo_questao": {
+      "link_imagem": null,
+      "caminho_texto": "textos_extraidos/questao-37.txt",
+      "gabarito": "C"
+    }
+  },
+  "classificacao_matriz": {
+    "area": {
+      "id": "CH",
+      "nome": "Ciências Humanas e suas Tecnologias"
+    },
+    "competencia": {
+      "id": "C2",
+      "descricao": "Compreender as transformações dos espaços geográficos como produto das relações socioeconômicas e culturais de poder."
+    },
+    "habilidade_principal": {
+      "id": "H6",
+      "descricao": "Interpretar diferentes representações gráficas e cartográficas dos espaços geográficos."
+    },
+    "habilidades_relacionadas": [],
+    "eixo_cognitivo": {
+      "id": "III",
+      "nome": "Enfrentar situações-problema (SP)",
+      "descricao": "selecionar, organizar, relacionar, interpretar dados e informações representados de diferentes formas, para tomar decisões e enfrentar situações-problema."
+    }
+  },
+  "classificacao_de_conteudo": {
+    "conteudo_principal": "Cartografia e Representação Espacial",
+    "conteudos_relacionados": [],
+    "assunto": "Leitura de mapas",
+    "objeto_de_analise": "Representação gráfica",
+    "fenomeno_conceito": "Espaço geográfico"
+  },
+  "analise_alternativas": [],
+  "auditoria_da_ia": {
+    "modelo": "gemini",
+    "versao": "1.5-flash",
+    "datetime": "2024-10-01T00:00:00",
+    "confianca": 0.5,
+    "evidencias": [
+      "Questão indisponível no prompt devido a restrição de segurança (RECITATION)"
+    ],
+    "proveniencia": {
+      "arquivo_questao": null,
+      "arquivo_matriz": null
+    },
+    "validacao_humana": {
+      "validado": false,
+      "data_validacao": null
+    }
+  },
+  "estudante": {
+    "nome_completo": "Michael Patrick Almeida",
+    "colegio": "CCM Darcy José Costa",
+    "turma": "3B"
+  }
+}

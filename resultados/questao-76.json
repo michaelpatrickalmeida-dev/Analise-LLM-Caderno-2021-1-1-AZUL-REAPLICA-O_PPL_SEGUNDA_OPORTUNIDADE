@@ -1,0 +1,106 @@
+{
+  "questao": {
+    "identificacao_caderno": {
+      "ano": 2021,
+      "dia": 1,
+      "numero": 1,
+      "cor": "AZUL",
+      "aplicacao": "REAPLICAÇÃO_PPL_SEGUNDA_OPORTUNIDADE"
+    },
+    "identificacao_questao": {
+      "numero": 76,
+      "espanhol": false,
+      "ingles": false
+    },
+    "conteudo_questao": {
+      "link_imagem": null,
+      "caminho_texto": "textos_extraidos/questao-76.txt",
+      "gabarito": "B"
+    }
+  },
+  "classificacao_matriz": {
+    "area": {
+      "id": "CH",
+      "nome": "Ciências Humanas e suas Tecnologias"
+    },
+    "competencia": {
+      "id": "C3",
+      "descricao": "Compreender a produção e o papel histórico das instituições sociais, políticas e econômicas, associando-as aos diferentes grupos, conflitos e movimentos sociais."
+    },
+    "habilidade_principal": {
+      "id": "H11",
+      "descricao": "Identificar registros de práticas de grupos sociais no tempo e no espaço."
+    },
+    "habilidades_relacionadas": [
+      {
+        "id": "H13",
+        "descricao": "Analisar a atuação dos movimentos sociais que contribuíram para mudanças ou rupturas em processos de disputa pelo poder."
+      }
+    ],
+    "eixo_cognitivo": {
+      "id": "II",
+      "nome": "Compreender fenômenos (CF)",
+      "descricao": "construir e aplicar conceitos das várias áreas do conhecimento para a compreensão de fenômenos naturais, de processos histórico-geográficos, da produção tecnológica e das manifestações artísticas."
+    }
+  },
+  "classificacao_de_conteudo": {
+    "conteudo_principal": "Idade Média",
+    "conteudos_relacionados": [
+      "Igreja Católica na Idade Média",
+      "Movimentos heréticos"
+    ],
+    "assunto": "Espiritualidade medieval e correntes de contestação à Igreja",
+    "objeto_de_analise": "A atuação de Francisco de Assis frente à cultura eclesiástica e profana",
+    "fenomeno_conceito": "Heresias medievais e reformas religiosas populares"
+  },
+  "analise_alternativas": [
+    {
+      "alternativa": "A",
+      "correta": false,
+      "justificativa": "Os senhores feudais integravam a aristocracia militar e agrária, não compartilhando da mesma preocupação com a contestação da cultura eclesiástica nos moldes populares propostos por Francisco de Assis."
+    },
+    {
+      "alternativa": "B",
+      "correta": true,
+      "justificativa": "Os movimentos heréticos da Baixa Idade Média, assim como a proposta franciscana, criticavam os rumos de riqueza e ostentação da Igreja Católica, valorizando a simplicidade, a pobreza e o uso da língua vulgar (popular) na pregação religiosa."
+    },
+    {
+      "alternativa": "C",
+      "correta": false,
+      "justificativa": "As Cruzadas foram expedições militares de caráter expansionista e religioso promovidas pela nobreza feudal e pela Igreja, sem relação direta com a crítica à cultura eclesiástica nos termos do texto."
+    },
+    {
+      "alternativa": "D",
+      "correta": false,
+      "justificativa": "As corporações de ofício eram associações de artesãos urbanos voltadas para a regulamentação do trabalho e da produção nas cidades, sem foco principal na contestação religiosa ou teológica."
+    },
+    {
+      "alternativa": "E",
+      "correta": false,
+      "justificativa": "As universidades medievais mantinham forte ligação com a cultura eclesiástica oficial e utilizavam o latim como veículo acadêmico, o que contrasta com a proposta de valorização da língua vulgar."
+    }
+  ],
+  "auditoria_da_ia": {
+    "modelo": "gpt-4o",
+    "versao": "2024-05-13",
+    "datetime": "2023-10-27T00:00:00Z",
+    "confianca": 1.0,
+    "evidencias": [
+      "O texto aborda o desafio da cultura profana à cultura eclesiástica e a alternativa de Francisco de Assis de usar a língua vulgar e uma mensagem acessível.",
+      "Isso dialoga diretamente com as críticas à Igreja institucionalizada compartilhadas por movimentos heréticos da época."
+    ],
+    "proveniencia": {
+      "arquivo_questao": "ENEM 2021",
+      "arquivo_matriz": "Matriz ENEM"
+    },
+    "validacao_humana": {
+      "validado": false,
+      "data_validacao": null
+    }
+  },
+  "estudante": {
+    "nome_completo": "Michael Patrick Almeida",
+    "colegio": "CCM Darcy José Costa",
+    "turma": "3B"
+  }
+}

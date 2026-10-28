@@ -1,0 +1,106 @@
+{
+  "questao": {
+    "identificacao_caderno": {
+      "ano": 2021,
+      "dia": 1,
+      "numero": 1,
+      "cor": "AZUL",
+      "aplicacao": "REAPLICAÇÃO_PPL_SEGUNDA_OPORTUNIDADE"
+    },
+    "identificacao_questao": {
+      "numero": 5,
+      "espanhol": false,
+      "ingles": false
+    },
+    "conteudo_questao": {
+      "link_imagem": null,
+      "caminho_texto": "textos_extraidos/questao-5-ingles.txt",
+      "gabarito": "B"
+    }
+  },
+  "classificacao_matriz": {
+    "area": {
+      "id": "LC",
+      "nome": "Linguagens, Códigos e suas Tecnologias"
+    },
+    "competencia": {
+      "id": "C2",
+      "descricao": "Conhecer e usar língua(s) estrangeira(s) moderna(s) como instrumento de acesso a informações e a outras culturas e grupos sociais*."
+    },
+    "habilidade_principal": {
+      "id": "H5",
+      "descricao": "Associar vocábulos e expressões de um texto em LEM ao seu tema."
+    },
+    "habilidades_relacionadas": [
+      {
+        "id": "H7",
+        "descricao": "Relacionar um texto em LEM, as estruturas linguísticas, sua função e seu uso social."
+      }
+    ],
+    "eixo_cognitivo": {
+      "id": "III",
+      "nome": "Enfrentar situações-problema (SP)",
+      "descricao": "selecionar, organizar, relacionar, interpretar dados e informações representados de diferentes formas, para tomar decisões e enfrentar situações-problema."
+    }
+  },
+  "classificacao_de_conteudo": {
+    "conteudo_principal": "Compreensão de texto em Língua Estrangeira Moderna (Inglês)",
+    "conteudos_relacionados": [
+      "Interpretação de roteiro cinematográfico",
+      "Análise crítica de pontos de vista"
+    ],
+    "assunto": "Avaliação subjetiva de lugares sob diferentes perspectivas culturais",
+    "objeto_de_analise": "Diálogo entre personagens sobre a Europa e os Estados Unidos",
+    "fenomeno_conceito": "Subjetividade na percepção do espaço geográfico e cultural"
+  },
+  "analise_alternativas": [
+    {
+      "alternativa": "A",
+      "corretude": false,
+      "justificativa": "A beleza é vista de forma distinta pelos personagens, indicando que a avaliação não depende exclusivamente da característica física do local, mas de quem o observa."
+    },
+    {
+      "alternativa": "B",
+      "corretude": true,
+      "justificativa": "O texto demonstra que a percepção sobre a Europa e os Estados Unidos varia conforme a origem, os valores e a visão de mundo de cada personagem, evidenciando que a avaliação de um lugar depende da perspectiva do visitante."
+    },
+    {
+      "alternativa": "C",
+      "corretude": false,
+      "justificativa": "Embora o texto cite a história, o foco da discussão é a forma como os personagens subjetivamente assimilam e julgam essa carga histórica com base em suas identidades."
+    },
+    {
+      "alternativa": "D",
+      "corretude": false,
+      "justificativa": "O tempo de permanência não é o fator determinante apontado no trecho para a avaliação dos lugares mencionados."
+    },
+    {
+      "alternativa": "E",
+      "corretude": false,
+      "justificativa": "A viagem de lua de mel é mencionada apenas como uma metáfora ou exemplo dentro do argumento sobre o impacto estético dos locais, e não como a regra geral para a avaliação de qualquer lugar."
+    }
+  ],
+  "auditoria_da_ia": {
+    "modelo": "GPT-4",
+    "versao": "2024",
+    "datetime": "2024-05-18T10:00:00",
+    "confianca": 0.98,
+    "evidencias": [
+      "A questão exige a interpretação de um texto em língua inglesa (screenplay).",
+      "A habilidade H5 da matriz de Linguagens e Códigos aborda a associação de vocábulos e expressões de um texto em LEM ao seu tema central."
+    ],
+    "proveniencia": {
+      "arquivo_questao": "enem_2021",
+      "arquivo_matriz": "matriz_enem_oficial"
+    },
+    "validacao_humana": {
+      "validado": false,
+      "data_validacao": null
+    }
+  },
+  "estudante": {
+    "nome_completo": "Michael Patrick Almeida",
+    "colegio": "CCM Darcy José Costa",
+    "turma": "3B"
+  }
+}

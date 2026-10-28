@@ -1,0 +1,105 @@
+{
+  "questao": {
+    "identificacao_caderno": {
+      "ano": 2021,
+      "dia": 1,
+      "numero": 1,
+      "cor": "AZUL",
+      "aplicacao": "REAPLICAÇÃO_PPL_SEGUNDA_OPORTUNIDADE"
+    },
+    "identificacao_questao": {
+      "numero": 57,
+      "espanhol": false,
+      "ingles": false
+    },
+    "conteudo_questao": {
+      "link_imagem": null,
+      "caminho_texto": "textos_extraidos/questao-57.txt",
+      "gabarito": "C"
+    }
+  },
+  "classificacao_matriz": {
+    "area": {
+      "id": "CH",
+      "nome": "Ciências Humanas e suas Tecnologias"
+    },
+    "competencia": {
+      "id": "C3",
+      "descricao": "Compreender a produção e o papel histórico das instituições sociais, políticas e econômicas, associando-as aos diferentes grupos, conflitos e movimentos sociais."
+    },
+    "habilidade_principal": {
+      "id": "H15",
+      "descricao": "Avaliar criticamente conflitos culturais, sociais, políticos, econômicos ou ambientais ao longo da história."
+    },
+    "habilidades_relacionadas": [
+      {
+        "id": "H11",
+        "descricao": "Identificar registros de práticas de grupos sociais no tempo e no espaço."
+      }
+    ],
+    "eixo_cognitivo": {
+      "id": "II",
+      "nome": "Compreender fenômenos (CF)",
+      "descricao": "construir e aplicar conceitos das várias áreas do conhecimento para a compreensão de fenômenos naturais, de processos histórico-geográficos, da produção tecnológica e das manifestações artísticas."
+    }
+  },
+  "classificacao_de_conteudo": {
+    "conteudo_principal": "Sociologia",
+    "conteudos_relacionados": [
+      "Filosofia"
+    ],
+    "assunto": "Sociedade de consumo e Indústria Cultural",
+    "objeto_de_analise": "O texto de Herbert Marcuse sobre a alienação na sociedade industrial",
+    "fenomeno_conceito": "Homem unidimensional e transplante de necessidades"
+  },
+  "analise_alternativas": [
+    {
+      "alternativa": "A",
+      "correta": false,
+      "justificativa": "O texto não trata de políticas estatais de divulgação, mas sim de uma dinâmica cultural e econômica inerente ao capitalismo avançado."
+    },
+    {
+      "alternativa": "B",
+      "correta": false,
+      "justificativa": "Apesar de envolver o consumo, o foco do trecho é a fusão entre necessidades sociais e individuais e a identificação do sujeito com as mercadorias, e não o controle estatal ou regulatório dos incentivos."
+    },
+    {
+      "alternativa": "C",
+      "correta": true,
+      "justificativa": "O gabarito oficial aponta a correta compreensão de que os desejos pessoais são moldados por imposições e prescrições coletivas de organização e consumo na sociedade contemporânea."
+    },
+    {
+      "alternativa": "D",
+      "correta": false,
+      "justificativa": "Embora pareça subjetiva a relação com os bens, o texto aponta que essa identificação é induzida e padronizada pela sociedade industrial, perdendo o caráter puramente subjetivo."
+    },
+    {
+      "alternativa": "E",
+      "correta": false,
+      "justificativa": "A questão aborda a identificação com as mercadorias e a alienação, não havendo relação com repressões do narcisismo."
+    }
+  ],
+  "auditoria_da_ia": {
+    "modelo": "gpt-4o",
+    "versao": "2024-05-13",
+    "datetime": "2026-03-30T10:00:00Z",
+    "confianca": 0.95,
+    "evidencias": [
+      "O texto é de Herbert Marcuse, filósofo da Escola de Frankfurt.",
+      "O tema central é a sociedade de consumo, a mercantilização da vida e o homem unidimensional."
+    ],
+    "proveniencia": {
+      "arquivo_questao": "enem_2021",
+      "arquivo_matriz": "matriz_enem"
+    },
+    "validacao_humana": {
+      "validado": false,
+      "data_validacao": null
+    }
+  },
+  "estudante": {
+    "nome_completo": "Michael Patrick Almeida",
+    "colegio": "CCM Darcy José Costa",
+    "turma": "3B"
+  }
+}

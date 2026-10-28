@@ -1,0 +1,101 @@
+{
+  "questao": {
+    "identificacao_caderno": {
+      "ano": 2021,
+      "dia": 1,
+      "numero": 1,
+      "cor": "AZUL",
+      "aplicacao": "REAPLICAÇÃO_PPL_SEGUNDA_OPORTUNIDADE"
+    },
+    "identificacao_questao": {
+      "numero": 87,
+      "espanhol": false,
+      "ingles": false
+    },
+    "conteudo_questao": {
+      "link_imagem": null,
+      "caminho_texto": "textos_extraidos/questao-87.txt",
+      "gabarito": "A"
+    }
+  },
+  "classificacao_matriz": {
+    "area": {
+      "id": "CH",
+      "nome": "Ciências Humanas e suas Tecnologias"
+    },
+    "competencia": {
+      "id": "C5",
+      "descricao": "Utilizar os conhecimentos históricos para compreender e valorizar os fundamentos da cidadania e da democracia, favorecendo uma atuação consciente do indivíduo na sociedade."
+    },
+    "habilidade_principal": {
+      "id": "H23",
+      "descricao": "Analisar a importância dos valores éticos na estruturação política das sociedades."
+    },
+    "habilidades_relacionadas": [],
+    "eixo_cognitivo": {
+      "id": "II",
+      "nome": "Compreender fenômenos (CF)",
+      "descricao": "construir e aplicar conceitos das várias áreas do conhecimento para a compreensão de fenômenos naturais, de processos histórico-geográficos, da produção tecnológica e das manifestações artísticas."
+    }
+  },
+  "classificacao_de_conteudo": {
+    "conteudo_principal": "Filosofia contemporânea",
+    "conteudos_relacionados": [
+      "Filosofia da religião",
+      "Ética"
+    ],
+    "assunto": "Filosofia de Nietzsche",
+    "objeto_de_analise": "O conceito de amor fati e a crítica à tradição metafísica e cristã",
+    "fenomeno_conceito": "Amor fati"
+  },
+  "analise_alternativas": [
+    {
+      "alternativa": "A",
+      "correta": true,
+      "justificativa": "A fórmula amor fati de Nietzsche propõe a aceitação e o amor à vida terrena e aos acontecimentos tais como são, o que constitui uma crítica à tradição cristã que projeta a realização e a salvação para um plano transcendental após a morte, rejeitando ou reprimindo a imanência."
+    },
+    {
+      "alternativa": "B",
+      "correta": false,
+      "justificativa": "O texto e a filosofia de Nietzsche abordam principalmente a crítica à moral, à religião e à metafísica, e não diretamente o impedimento do avanço científico moderno."
+    },
+    {
+      "alternativa": "C",
+      "correta": false,
+      "justificativa": "Nietzsche não faz uma crítica associando cultos pagãos à sacralização da natureza no fragmento apresentado, mas sim defendendo a aceitação total da realidade imanente."
+    },
+    {
+      "alternativa": "D",
+      "correta": false,
+      "justificativa": "A crítica de Nietzsche não é dirigida aos modelos filosóficos da Antiguidade Clássica, mas sim aos valores da tradição cristã e da metafísica tradicional."
+    },
+    {
+      "alternativa": "E",
+      "correta": false,
+      "justificativa": "A alternativa descreve justamente o oposto do que o amor fati combate; o cristianismo consagra a realização humana ao campo transcendental, enquanto o conceito nietzschiano foca na imanência e na vida terrena."
+    }
+  ],
+  "auditoria_da_ia": {
+    "modelo": "gpt-4o",
+    "versao": "2024-05-13",
+    "datetime": "2024-10-27T00:00:00Z",
+    "confianca": 0.95,
+    "evidencias": [
+      "A questão aborda o conceito de amor fati de Nietzsche.",
+      "A crítica de Nietzsche à tradição cristã refere-se à rejeição da vida terrena em favor do mundo transcendental."
+    ],
+    "proveniencia": {
+      "arquivo_questao": "enem_2021_87",
+      "arquivo_matriz": "matriz_enem"
+    },
+    "validacao_humana": {
+      "validado": false,
+      "data_validacao": null
+    }
+  },
+  "estudante": {
+    "nome_completo": "Michael Patrick Almeida",
+    "colegio": "CCM Darcy José Costa",
+    "turma": "3B"
+  }
+}

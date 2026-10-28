@@ -1,0 +1,73 @@
+{
+  "questao": {
+    "identificacao_caderno": {
+      "ano": 2021,
+      "dia": 1,
+      "numero": 1,
+      "cor": "AZUL",
+      "aplicacao": "REAPLICAÇÃO_PPL_SEGUNDA_OPORTUNIDADE"
+    },
+    "identificacao_questao": {
+      "numero": 79,
+      "espanhol": false,
+      "ingles": false
+    },
+    "conteudo_questao": {
+      "link_imagem": null,
+      "caminho_texto": "textos_extraidos/questao-79.txt",
+      "gabarito": "B"
+    }
+  },
+  "classificacao_matriz": {
+    "area": {
+      "id": "CH",
+      "nome": "Ciências Humanas e suas Tecnologias"
+    },
+    "competencia": {
+      "id": "C4",
+      "descricao": "Entender as transformações técnicas e tecnológicas e seu impacto nos processos de produção, no desenvolvimento do conhecimento e na vida social."
+    },
+    "habilidade_principal": {
+      "id": "H17",
+      "descricao": "Analisar fatores que explicam o impacto das novas tecnologias no processo de territorialização da produção."
+    },
+    "habilidades_relacionadas": [],
+    "eixo_cognitivo": {
+      "id": "II",
+      "nome": "Compreender fenômenos (CF)",
+      "descricao": "construir e aplicar conceitos das várias áreas do conhecimento para a compreensão de fenômenos naturais, de processos histórico-geográficos, da produção tecnológica e das manifestações artísticas."
+    }
+  },
+  "classificacao_de_conteudo": {
+    "conteudo_principal": "Características e transformações das estruturas produtivas",
+    "conteudos_relacionados": [
+      "A globalização e as novas tecnologias de telecomunicação e suas consequências econômicas, políticas e sociais."
+    ],
+    "assunto": "Territorialização da produção industrial e conceito de enclave",
+    "objeto_de_analise": "A relação entre plantas industriais e o seu entorno socioespacial",
+    "fenomeno_conceito": "Enclave industrial"
+  },
+  "analise_alternativas": [],
+  "auditoria_da_ia": {
+    "modelo": "GPT-4",
+    "versao": "2024",
+    "datetime": "2026-03-30T12:00:00Z",
+    "confianca": 0.95,
+    "evidencias": [
+      "O texto aborda o conceito de enclave industrial, caracterizado por plantas industriais que se instalam em determinados locais, mas estabelecem relações escassas com o entorno imediato."
+    ],
+    "proveniencia": {
+      "arquivo_questao": "enem_2021",
+      "arquivo_matriz": "matriz_enem"
+    },
+    "validacao_humana": {
+      "validado": false,
+      "data_validacao": null
+    }
+  },
+  "estudante": {
+    "nome_completo": "Michael Patrick Almeida",
+    "colegio": "CCM Darcy José Costa",
+    "turma": "3B"
+  }
+}

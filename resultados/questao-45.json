@@ -1,0 +1,105 @@
+{
+  "questao": {
+    "identificacao_caderno": {
+      "ano": 2021,
+      "dia": 1,
+      "numero": 1,
+      "cor": "AZUL",
+      "aplicacao": "REAPLICAÇÃO_PPL_SEGUNDA_OPORTUNIDADE"
+    },
+    "identificacao_questao": {
+      "numero": 45,
+      "espanhol": false,
+      "ingles": false
+    },
+    "conteudo_questao": {
+      "link_imagem": null,
+      "caminho_texto": "textos_extraidos/questao-45.txt",
+      "gabarito": "E"
+    }
+  },
+  "classificacao_matriz": {
+    "area": {
+      "id": "LC",
+      "nome": "Linguagens, Códigos e suas Tecnologias"
+    },
+    "competencia": {
+      "id": "C7",
+      "descricao": "Confrontar opiniões e pontos de vista sobre as diferentes linguagens e suas manifestações específicas."
+    },
+    "habilidade_principal": {
+      "id": "H23",
+      "descricao": "Inferir em um texto quais são os objetivos de seu produtor e quem é seu público alvo, pela análise dos procedimentos argumentativos utilizados."
+    },
+    "habilidades_relacionadas": [
+      {
+        "id": "H22",
+        "descricao": "Relacionar, em diferentes textos, opiniões, temas, assuntos e recursos linguísticos."
+      }
+    ],
+    "eixo_cognitivo": {
+      "id": "III",
+      "nome": "Enfrentar situações-problema (SP)",
+      "descricao": "selecionar, organizar, relacionar, interpretar dados e informações representados de diferentes formas, para tomar decisões e enfrentar situações-problema."
+    }
+  },
+  "classificacao_de_conteudo": {
+    "conteudo_principal": "Estudo do texto argumentativo, seus gêneros e recursos linguísticos",
+    "conteudos_relacionados": [
+      "Produção e recepção de textos artísticos"
+    ],
+    "assunto": "Análise de objetivos argumentativos em texto jornalístico sobre o choro",
+    "objeto_de_analise": "Argumentos trazidos pela autora sobre a recepção e popularidade do gênero musical choro",
+    "fenomeno_conceito": "Estratégia argumentativa e objetivo do autor"
+  },
+  "analise_alternativas": [
+    {
+      "alternativa": "A",
+      "correta": false,
+      "justificativa": "O texto menciona a pouca divulgação nas escolas, mas este não é o argumento central buscado em termos de atribuir todo o desconhecimento apenas a isso, além de ser uma fala atribuída a uma entrevistada e não o argumento global da autora."
+    },
+    {
+      "alternativa": "B",
+      "correta": false,
+      "justificativa": "A autora menciona a falta de incentivos oficiais, mas o objetivo principal do texto não é reivindicar investimentos estatais, e sim constatar o cenário de marginalização e desconhecimento do choro."
+    },
+    {
+      "alternativa": "C",
+      "correta": false,
+      "justificativa": "Embora o texto cite a importância de Abel Ferreira, a discussão trazida no segundo parágrafo sobre a música instrumental e a preferência por outros ritmos foca na impopularidade."
+    },
+    {
+      "alternativa": "D",
+      "correta": false,
+      "justificativa": "O texto não se restringe a apresentar dados biográficos, usando-os apenas como contexto para abordar a vivacidade e as dificuldades do choro."
+    },
+    {
+      "alternativa": "E",
+      "correta": true,
+      "justificativa": "Os argumentos trazidos pela autora, reforçados pela fala de Leonor Bianchi, constatam a impopularidade do choro diante da preferência do grande público por músicas populares como samba, pagode e axé."
+    }
+  ],
+  "auditoria_da_ia": {
+    "modelo": "gpt-4o",
+    "versao": "2024-05-13",
+    "datetime": "2023-10-27T00:00:00Z",
+    "confianca": 0.98,
+    "evidencias": [
+      "A questão exige identificar o objetivo do produtor do texto com base nos argumentos apresentados, o que remete diretamente à habilidade H23.",
+      "A alternativa E sintetiza adequadamente a constatação da impopularidade do gênero abordada no texto."
+    ],
+    "proveniencia": {
+      "arquivo_questao": "ENEM 2021",
+      "arquivo_matriz": "Matriz ENEM"
+    },
+    "validacao_humana": {
+      "validado": false,
+      "data_validacao": null
+    }
+  },
+  "estudante": {
+    "nome_completo": "Michael Patrick Almeida",
+    "colegio": "CCM Darcy José Costa",
+    "turma": "3B"
+  }
+}

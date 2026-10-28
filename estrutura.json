@@ -1,0 +1,69 @@
+{
+    "questao": {
+        "identificacao_caderno": {
+            "ano": null,
+            "dia": null,
+            "numero": null,
+            "cor": null,
+            "aplicacao": null
+        },
+        "identificacao_questao": {
+            "numero": null,
+            "espanhol": false,
+            "ingles": false
+        },
+        "conteudo_questao": {
+            "link_imagem": null,
+            "caminho_texto": null,
+            "gabarito": null
+        }
+    },
+    "classificacao_matriz": {
+        "area": {
+            "id": null,
+            "nome": null
+        },
+        "competencia": {
+            "id": null,
+            "descricao": null
+        },
+        "habilidade_principal": {
+            "id": null,
+            "descricao": null
+        },
+        "habilidades_relacionadas": [],
+        "eixo_cognitivo": {
+            "id": null,
+            "nome": null,
+            "descricao": null
+        }
+    },
+    "classificacao_de_conteudo": {
+        "conteudo_principal": null,
+        "conteudos_relacionados": [],
+        "assunto": null,
+        "objeto_de_analise": null,
+        "fenomeno_conceito": null
+    },
+    "analise_alternativas": [],
+    "auditoria_da_ia": {
+        "modelo": null,
+        "versao": null,
+        "datetime": null,
+        "confianca": null,
+        "evidencias": [],
+        "proveniencia": {
+            "arquivo_questao": null,
+            "arquivo_matriz": null
+        },
+        "validacao_humana": {
+            "validado": null,
+            "data_validacao": null
+        }
+    },
+    "estudante": {
+        "nome_completo": null,
+        "colegio": null,
+        "turma": null
+    }
+}

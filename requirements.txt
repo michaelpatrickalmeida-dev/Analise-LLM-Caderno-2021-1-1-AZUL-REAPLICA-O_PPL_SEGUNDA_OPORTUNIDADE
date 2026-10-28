@@ -1,0 +1,4 @@
+google-generativeai>=0.7.0
+python-dotenv>=1.0.0
+tqdm>=4.66.0
+jsonschema>=4.22.0

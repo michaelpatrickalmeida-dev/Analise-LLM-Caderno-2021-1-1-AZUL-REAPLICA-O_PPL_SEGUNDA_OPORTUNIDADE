@@ -1,0 +1,100 @@
+{
+  "questao": {
+    "identificacao_caderno": {
+      "ano": 2021,
+      "dia": 1,
+      "numero": 1,
+      "cor": "AZUL",
+      "aplicacao": "REAPLICAÇÃO_PPL_SEGUNDA_OPORTUNIDADE"
+    },
+    "identificacao_questao": {
+      "numero": 89,
+      "espanhol": false,
+      "ingles": false
+    },
+    "conteudo_questao": {
+      "link_imagem": null,
+      "caminho_texto": "textos_extraidos/questao-89.txt",
+      "gabarito": "A"
+    }
+  },
+  "classificacao_matriz": {
+    "area": {
+      "id": "CH",
+      "nome": "Ciências Humanas e suas Tecnologias"
+    },
+    "competencia": {
+      "id": "C2",
+      "descricao": "Compreender as transformações dos espaços geográficos como produto das relações socioeconômicas e culturais de poder."
+    },
+    "habilidade_principal": {
+      "id": "H6",
+      "descricao": "Interpretar diferentes representações gráficas e cartográficas dos espaços geográficos."
+    },
+    "habilidades_relacionadas": [],
+    "eixo_cognitivo": {
+      "id": "III",
+      "nome": "Enfrentar situações-problema (SP)",
+      "descricao": "selecionar, organizar, relacionar, interpretar dados e informações representados de diferentes formas, para tomar decisões e enfrentar situações-problema."
+    }
+  },
+  "classificacao_de_conteudo": {
+    "conteudo_principal": "Movimento de translação da Terra e insolação",
+    "conteudos_relacionados": [
+      "Solstícios e equinócios",
+      "Projeção de sombras"
+    ],
+    "assunto": "Astronomia e Geografia Física",
+    "objeto_de_analise": "Posição do Sol em relação à Terra no solstício de junho",
+    "fenomeno_conceito": "Inclinação do eixo terrestre e aparente movimento do Sol"
+  },
+  "analise_alternativas": [
+    {
+      "alternativa": "A",
+      "correta": true,
+      "justificativa": "No dia 21 de junho (solstício de inverno no hemisfério sul), o Sol encontra-se inclinado em direção ao hemisfério norte. Como Brasília está localizada no hemisfério sul (aproximadamente a 15 graus de latitude sul), ao meio-dia solar o Sol estará posicionado ao norte no céu, fazendo com que a sombra projetada pelo prédio do Congresso Nacional aponte para a direção norte."
+    },
+    {
+      "alternativa": "B",
+      "correta": false,
+      "justificativa": "Aponte para o sul ocorreria se o Sol estivesse ao norte de Brasília ao longo de todo o ano, mas em certas épocas ou dependendo da latitude no hemisfério norte; contudo, em junho o Sol está aparente ao norte para o hemisfério sul, projetando a sombra para o norte."
+    },
+    {
+      "alternativa": "C",
+      "correta": false,
+      "justificativa": "A direção leste corresponde ao nascer do sol, não sendo a direção da sombra ao meio-dia."
+    },
+    {
+      "alternativa": "D",
+      "correta": false,
+      "justificativa": "A direção oeste corresponde ao pôr do sol, não sendo a direção da sombra ao meio-dia."
+    },
+    {
+      "alternativa": "E",
+      "correta": false,
+      "justificativa": "A direção nordeste misturaria leste e norte, incorreto para a projeção da sombra ao meio-dia solar."
+    }
+  ],
+  "auditoria_da_ia": {
+    "modelo": "gpt-4o",
+    "versao": "2024-05-13",
+    "datetime": "2024-10-27T00:00:00Z",
+    "confianca": 1.0,
+    "evidencias": [
+      "A questão aborda a posição do Sol no solstício de 21 de junho e seus efeitos na incidência de luz e projeção de sombras em Brasília."
+    ],
+    "proveniencia": {
+      "arquivo_questao": "enem_2021",
+      "arquivo_matriz": "matriz_enem"
+    },
+    "validacao_humana": {
+      "validado": false,
+      "data_validacao": null
+    }
+  },
+  "estudante": {
+    "nome_completo": "Michael Patrick Almeida",
+    "colegio": "CCM Darcy José Costa",
+    "turma": "3B"
+  }
+}

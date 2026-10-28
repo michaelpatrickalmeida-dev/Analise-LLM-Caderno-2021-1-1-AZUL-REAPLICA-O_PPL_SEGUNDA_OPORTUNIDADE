@@ -1,0 +1,71 @@
+{
+  "questao": {
+    "identificacao_caderno": {
+      "ano": 2021,
+      "dia": 1,
+      "numero": 1,
+      "cor": "AZUL",
+      "aplicacao": "REAPLICAÇÃO_PPL_SEGUNDA_OPORTUNIDADE"
+    },
+    "identificacao_questao": {
+      "numero": 14,
+      "espanhol": false,
+      "ingles": false
+    },
+    "conteudo_questao": {
+      "link_imagem": null,
+      "caminho_texto": "textos_extraidos/questao-14.txt",
+      "gabarito": "A"
+    }
+  },
+  "classificacao_matriz": {
+    "area": {
+      "id": null,
+      "nome": "Linguagens, Códigos e suas Tecnologias"
+    },
+    "competencia": {
+      "id": "C8",
+      "descricao": "Compreender e usar a língua portuguesa como língua materna, geradora de significação e integradora da organização do mundo e da própria identidade."
+    },
+    "habilidade_principal": {
+      "id": "H27",
+      "descricao": "Reconhecer os usos da norma padrão da língua portuguesa nas diferentes situações de comunicação."
+    },
+    "habilidades_relacionadas": [],
+    "eixo_cognitivo": {
+      "id": "I",
+      "nome": "Dominar linguagens (DL)",
+      "descricao": "dominar a norma culta da Língua Portuguesa e fazer uso das linguagens matemática, artística e científica e das línguas espanhola e inglesa."
+    }
+  },
+  "classificacao_de_conteudo": {
+    "conteudo_principal": "Estudo dos aspectos linguísticos da língua portuguesa: usos da língua: norma culta e variação linguística",
+    "conteudos_relacionados": [],
+    "assunto": "Variação linguística e norma padrão",
+    "objeto_de_analise": "Uso da língua",
+    "fenomeno_conceito": "Norma culta"
+  },
+  "analise_alternativas": [],
+  "auditoria_da_ia": {
+    "modelo": "gemini-1.5-pro",
+    "versao": "1.0",
+    "datetime": "2024-05-15T00:00:00Z",
+    "confianca": 0.5,
+    "evidencias": [
+      "Questao do ENEM 2021 sem texto visivel devido a restricoes de seguranca (RECITATION)."
+    ],
+    "proveniencia": {
+      "arquivo_questao": "ENEM 2021",
+      "arquivo_matriz": "Matriz ENEM"
+    },
+    "validacao_humana": {
+      "validado": false,
+      "data_validacao": null
+    }
+  },
+  "estudante": {
+    "nome_completo": "Michael Patrick Almeida",
+    "colegio": "CCM Darcy José Costa",
+    "turma": "3B"
+  }
+}

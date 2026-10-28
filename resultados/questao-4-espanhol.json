@@ -1,0 +1,105 @@
+{
+  "questao": {
+    "identificacao_caderno": {
+      "ano": 2021,
+      "dia": 1,
+      "numero": 1,
+      "cor": "AZUL",
+      "aplicacao": "REAPLICAÇÃO_PPL_SEGUNDA_OPORTUNIDADE"
+    },
+    "identificacao_questao": {
+      "numero": 4,
+      "espanhol": false,
+      "ingles": false
+    },
+    "conteudo_questao": {
+      "link_imagem": null,
+      "caminho_texto": "textos_extraidos/questao-4-espanhol.txt",
+      "gabarito": "A"
+    }
+  },
+  "classificacao_matriz": {
+    "area": {
+      "id": "LC",
+      "nome": "Linguagens, Códigos e suas Tecnologias"
+    },
+    "competencia": {
+      "id": "C2",
+      "descricao": "Conhecer e usar língua(s) estrangeira(s) moderna(s) como instrumento de acesso a informações e a outras culturas e grupos sociais*."
+    },
+    "habilidade_principal": {
+      "id": "H7",
+      "descricao": "Relacionar um texto em LEM, as estruturas linguísticas, sua função e seu uso social."
+    },
+    "habilidades_relacionadas": [
+      {
+        "id": "H5",
+        "descricao": "Associar vocábulos e expressões de um texto em LEM ao seu tema."
+      }
+    ],
+    "eixo_cognitivo": {
+      "id": "III",
+      "nome": "Enfrentar situações-problema (SP)",
+      "descricao": "selecionar, organizar, relacionar, interpretar dados e informações representados de diferentes formas, para tomar decisões e enfrentar situações-problema."
+    }
+  },
+  "classificacao_de_conteudo": {
+    "conteudo_principal": "Língua Espanhola",
+    "conteudos_relacionados": [
+      "Estudo do texto literário",
+      "Recursos expressivos"
+    ],
+    "assunto": "Interpretação de texto literário em espanhol",
+    "objeto_de_analise": "Uso de analogia e recursos estilísticos",
+    "fenomeno_conceito": "Figura de linguagem (comparação/analogia)"
+  },
+  "analise_alternativas": [
+    {
+      "alternativa": "A",
+      "correta": true,
+      "justificativa": "A analogia 'como las aguas a una piedra' demonstra o desgaste físico e a ação implacável do tempo sobre o homem velho, comparando-o a uma pedra polida pela água ao longo dos anos."
+    },
+    {
+      "alternativa": "B",
+      "correta": false,
+      "justificativa": "A expressão descreve o desgaste da personagem, e não a objetificação do ambiente em si."
+    },
+    {
+      "alternativa": "C",
+      "correta": false,
+      "justificativa": "A anacronia é tratada em outro trecho ('fuera del tiempo'), mas a analogia específica foca na ação do tempo desgastante."
+    },
+    {
+      "alternativa": "D",
+      "correta": false,
+      "justificativa": "A analogia caracteriza a condição física da personagem, não o espaço do conto."
+    },
+    {
+      "alternativa": "E",
+      "correta": false,
+      "justificativa": "A expressão não narra a perenidade, mas sim o processo de desgaste e lapidação causado pelo tempo."
+    }
+  ],
+  "auditoria_da_ia": {
+    "modelo": "gpt-4o",
+    "versao": "2024-05-13",
+    "datetime": "2023-10-25T00:00:00Z",
+    "confianca": 1.0,
+    "evidencias": [
+      "Questão de Língua Espanhola do ENEM 2021 abordando compreensão de texto literário e recursos expressivos (analogia)."
+    ],
+    "proveniencia": {
+      "arquivo_questao": "enem_2021_q4",
+      "arquivo_matriz": "matriz_enem"
+    },
+    "validacao_humana": {
+      "validado": false,
+      "data_validacao": null
+    }
+  },
+  "estudante": {
+    "nome_completo": "Michael Patrick Almeida",
+    "colegio": "CCM Darcy José Costa",
+    "turma": "3B"
+  }
+}

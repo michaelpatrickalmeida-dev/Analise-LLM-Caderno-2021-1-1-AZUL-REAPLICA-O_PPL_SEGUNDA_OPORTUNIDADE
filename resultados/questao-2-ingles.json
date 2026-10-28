@@ -1,0 +1,71 @@
+{
+  "questao": {
+    "identificacao_caderno": {
+      "ano": 2021,
+      "dia": 1,
+      "numero": 1,
+      "cor": "AZUL",
+      "aplicacao": "REAPLICAÇÃO_PPL_SEGUNDA_OPORTUNIDADE"
+    },
+    "identificacao_questao": {
+      "numero": 2,
+      "espanhol": false,
+      "ingles": false
+    },
+    "conteudo_questao": {
+      "link_imagem": null,
+      "caminho_texto": "textos_extraidos/questao-2-ingles.txt",
+      "gabarito": null
+    }
+  },
+  "classificacao_matriz": {
+    "area": {
+      "id": null,
+      "nome": null
+    },
+    "competencia": {
+      "id": null,
+      "descricao": null
+    },
+    "habilidade_principal": {
+      "id": null,
+      "descricao": null
+    },
+    "habilidades_relacionadas": [],
+    "eixo_cognitivo": {
+      "id": null,
+      "nome": null,
+      "descricao": null
+    }
+  },
+  "classificacao_de_conteudo": {
+    "conteudo_principal": null,
+    "conteudos_relacionados": [],
+    "assunto": null,
+    "objeto_de_analise": null,
+    "fenomeno_conceito": null
+  },
+  "analise_alternativas": [],
+  "auditoria_da_ia": {
+    "modelo": "gemini",
+    "versao": "1.5",
+    "datetime": "2023-10-27T00:00:00",
+    "confianca": 0.0,
+    "evidencias": [
+      "O texto da questao nao foi retornado pelo modelo devido a politica de seguranca ou recitacao."
+    ],
+    "proveniencia": {
+      "arquivo_questao": null,
+      "arquivo_matriz": null
+    },
+    "validacao_humana": {
+      "validado": false,
+      "data_validacao": null
+    }
+  },
+  "estudante": {
+    "nome_completo": "Michael Patrick Almeida",
+    "colegio": "CCM Darcy José Costa",
+    "turma": "3B"
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "questao": {
+    "identificacao_caderno": {
+      "ano": 2021,
+      "dia": 1,
+      "numero": 1,
+      "cor": "AZUL",
+      "aplicacao": "REAPLICAÇÃO_PPL_SEGUNDA_OPORTUNIDADE"
+    },
+    "identificacao_questao": {
+      "numero": 55,
+      "espanhol": false,
+      "ingles": false
+    },
+    "conteudo_questao": {
+      "link_imagem": null,
+      "caminho_texto": "textos_extraidos/questao-55.txt",
+      "gabarito": "E"
+    }
+  },
+  "classificacao_matriz": {
+    "area": {
+      "id": "CH",
+      "nome": "Ciências Humanas e suas Tecnologias"
+    },
+    "competencia": {
+      "id": "C2",
+      "descricao": "Compreender as transformações dos espaços geográficos como produto das relações socioeconômicas e culturais de poder."
+    },
+    "habilidade_principal": {
+      "id": "H8",
+      "descricao": "Analisar a ação dos estados nacionais no que se refere à dinâmica dos fluxos populacionais e no enfrentamento de problemas de ordem econômico-social."
+    },
+    "habilidades_relacionadas": [
+      {
+        "id": "H10",
+        "descricao": "Reconhecer a dinâmica da organização dos movimentos sociais e a importância da participação da coletividade na transformação da realidade histórico-geográfica."
+      }
+    ],
+    "eixo_cognitivo": {
+      "id": "III",
+      "nome": "Enfrentar situações-problema (SP)",
+      "descricao": "selecionar, organizar, relacionar, interpretar dados e informações representados de diferentes formas, para tomar decisões e enfrentar situações-problema."
+    }
+  },
+  "classificacao_de_conteudo": {
+    "conteudo_principal": "Movimentos migratórios",
+    "conteudos_relacionados": [
+      "Refugiados",
+      "Cidadania e Direitos Humanos"
+    ],
+    "assunto": "Refugiados no Brasil",
+    "objeto_de_analise": "A condição de transitoriedade e marginalidade social e jurídica dos refugiados",
+    "fenomeno_conceito": "Refúgio e transitoriedade identitária e legal"
+  },
+  "analise_alternativas": [
+    {
+      "alternativa": "A",
+      "correta": false,
+      "justificativa": "O texto não aborda a ascensão social, mas sim a marginalidade e a falta de pertencimento."
+    },
+    {
+      "alternativa": "B",
+      "correta": false,
+      "justificativa": "A miscigenação étnica não é o fator central apontado pelo autor para explicar a transitoriedade dos refugiados."
+    },
+    {
+      "alternativa": "C",
+      "correta": false,
+      "justificativa": "O texto foca nos aspectos identitários e jurídicos, e não em desqualificação profissional associada à ação policial."
+    },
+    {
+      "alternativa": "D",
+      "correta": false,
+      "justificativa": "Embora crises possam motivar fluxos, o texto enfatiza a dimensão identitária e jurídica, não crises financeiras."
+    },
+    {
+      "alternativa": "E",
+      "correta": true,
+      "justificativa": "O texto explicita a condição de transitoriedade associada à falta de pertencimento pleno (desenraizamento cultural) e à perda temporária da cidadania/status legal (insegurança legal)."
+    }
+  ],
+  "auditoria_da_ia": {
+    "modelo": "gpt-4o",
+    "versao": "2024-05-13",
+    "datetime": "2024-10-24T00:00:00Z",
+    "confianca": 0.98,
+    "evidencias": [
+      "O texto menciona a posição marginal em termos identitários (falta de pertencimento) e jurídicos (status de cidadãos e de refugiados), o que corresponde ao desenraizamento cultural e à insegurança legal."
+    ],
+    "proveniencia": {
+      "arquivo_questao": "enem2021_q55",
+      "arquivo_matriz": "matriz_enem"
+    },
+    "validacao_humana": {
+      "validado": false,
+      "data_validacao": null
+    }
+  },
+  "estudante": {
+    "nome_completo": "Michael Patrick Almeida",
+    "colegio": "CCM Darcy José Costa",
+    "turma": "3B"
+  }
+}
